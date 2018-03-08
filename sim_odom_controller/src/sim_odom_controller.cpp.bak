@@ -1,0 +1,267 @@
+#include <iostream>
+#include <cmath>
+#include <ros/ros.h>
+#include <nav_msgs/Odometry.h>
+#include <std_msgs/Float64MultiArray.h>
+#include <geometry_msgs/Twist.h>
+#include <sys/time.h>
+#include <string>
+#include <time.h>
+#include <tf/transform_listener.h>
+#include <eigen3/Eigen/Dense>
+#include <frontier_exploration/MultiArrayWithHeader.h>
+
+#define ugv_max_speed 0.5
+#define uav_max_speed 1
+
+
+namespace sim_odom_controller{
+
+    using namespace std;
+    using namespace tf;
+    using namespace Eigen;
+
+    class SimOdomController{
+    public:
+
+        SimOdomController() : ugv_normal_(0), ugv_initial_yaw_(0), ugv_initial_omega_(0), kp_(10), kd_(1)
+        {
+            uav_odom_pub_ = nh_.advertise<nav_msgs::Odometry>("uav_target",5);
+            ugv_odom_pub_ = nh_.advertise<nav_msgs::Odometry>("ugv_target",5);
+
+            uav_cmd_vel_pub_ = nh_.advertise<geometry_msgs::Twist>("uav_cmd_vel",5);
+            ugv_cmd_vel_pub_ = nh_.advertise<geometry_msgs::Twist>("ugv_cmd_vel",5);
+
+            uav_coef_sub_ = nh_.subscribe("uav_coef", 5, &SimOdomController::uav_coef_call_back, this);
+            ugv_coef_sub_ = nh_.subscribe("ugv_coef", 5, &SimOdomController::ugv_coef_call_back, this);
+
+            uav_pose_sub_ = nh_.subscribe("uav_pose", 5, &SimOdomController::uav_pose_call_back, this);
+            ugv_pose_sub_ = nh_.subscribe("ugv_pose", 5, &SimOdomController::ugv_pose_call_back, this);
+
+            nh_.param<std::string>("global_frame", global_frame_, "/robot_1/map");
+        }
+
+
+    private:
+
+        bool ugv_normal_;
+        MatrixXd ugv_coef_;
+        VectorXd ugv_t_;
+        VectorXd ugv_beta_;
+
+        double ugv_initial_yaw_;
+        double ugv_initial_omega_;
+
+        MatrixXd uav_coef_;
+        VectorXd uav_t_;
+
+        double kp_, kd_;
+
+        std::string global_frame_;
+
+        ros::NodeHandle nh_;
+
+        ros::Publisher uav_odom_pub_, ugv_odom_pub_, uav_cmd_vel_pub_, ugv_cmd_vel_pub_;
+        ros::Subscriber uav_coef_sub_, ugv_coef_sub_, uav_pose_sub_, ugv_pose_sub_;
+
+        tf::TransformListener tf_listener_;
+        nav_msgs::Odometry uav_odom_des_, ugv_odom_des_;
+
+        bool transformOdom(nav_msgs::Odometry &odom){
+            if (odom.header.frame_id != global_frame_){
+
+                if (!tf_listener_.waitForTransform(global_frame_, odom.header.frame_id, ros::Time::now(), ros::Duration(10))){
+                    ROS_ERROR_STREAM("Couldn't transform from " << global_frame_<<" to "<< odom.header.frame_id);
+                    return false;
+                }
+
+                geometry_msgs::PoseStamped origin_pose, out_pose;
+                origin_pose.header = odom.header;
+                origin_pose.pose = odom.pose.pose;
+
+                geometry_msgs::Vector3Stamped origin_v_l, origin_v_a, out_v_l, out_v_a;
+                origin_v_a.header = odom.header;
+                origin_v_l.header = odom.header;
+                origin_v_a.vector = odom.twist.twist.angular;
+                origin_v_l.vector = odom.twist.twist.linear;
+
+                tf_listener_.transformPose(global_frame_, origin_pose, out_pose);
+                tf_listener_.transformVector(global_frame_, origin_v_a, out_v_a);
+                tf_listener_.transformVector(global_frame_, origin_v_l, out_v_l);
+
+                odom.header = out_pose.header;
+                odom.pose.pose = out_pose.pose;
+                odom.twist.twist.linear = out_v_l.vector;
+                odom.twist.twist.linear = out_v_a.vector;
+            }
+
+            return true;
+        }
+
+        void ugv_coef_call_back(const std_msgs::Float64MultiArray &msg){
+            ugv_normal_ = (msg.layout.dim[0].size != 0);
+            if(ugv_normal_){
+                ugv_coef_.resize(msg.layout.dim[0].size,msg.layout.dim[1].size-1);
+                MatrixXd e = MatrixXd::Zero(msg.layout.dim[0].size,msg.layout.dim[1].size);
+                int ii = 0;
+                for (int i = 0; i < e.rows(); ++i)
+                    for (int j = 0; j < e.cols(); ++j)
+                        e(i,j) = msg.data[ii++];
+
+                ugv_initial_yaw_   = msg.data[ii++];
+                ugv_initial_omega_ = msg.data[ii++];
+
+                ugv_coef_ = e.block(0, 0, e.rows(), e.cols() - 2);
+                ugv_beta_ = e.col(ugv_coef_.cols());
+                ugv_t_    = e.col(ugv_coef_.cols() + 1);
+            }
+        }
+
+        void uav_coef_call_back(const std_msgs::Float64MultiArray &msg){
+            uav_coef_.resize(msg.layout.dim[0].size,msg.layout.dim[1].size-1);
+            MatrixXd e = MatrixXd::Zero(msg.layout.dim[0].size,msg.layout.dim[1].size);
+            int ii = 0;
+            for (int i = 0; i < e.rows(); ++i)
+                for (int j = 0; j < e.cols(); ++j)
+                    e(i, j) = msg.data[ii++];
+            uav_coef_ = e.block(0,0,e.rows(),e.cols()-1);
+            uav_t_ = e.col(uav_coef_.cols()+1); // is this really ugv_coef?
+        }
+
+        void ugv_pose_call_back(const nav_msgs::Odometry &msg){
+            nav_msgs::Odometry m = msg;
+            transformOdom(m);
+            if(ugv_normal_){
+                double dT = m.header.stamp.toSec()-ros::Time::now().toSec();
+                double des_x = 0;
+                double des_y = 0;
+                double des_yaw = ugv_initial_yaw_;
+
+                double des_vx = 0;
+                double des_vy = 0;
+                double des_omega = ugv_initial_omega_;
+
+                for(int i=0; i<ugv_t_.size();i++){
+                    if(dT<ugv_t_(i)){
+                        double tt = i>0? dT-ugv_t_(i-1) : dT;
+                        //std::cout<<tt<<'\n';
+                        //std::cout<<"T(i-1): "<<T(i-1)<<'\n';
+
+                        Matrix<double, 1, 6> t_p;
+                        t_p<< pow(tt,5), pow(tt,4), pow(tt,3), pow(tt,2), tt, 1;
+                        Matrix<double, 1, 6> t_v;
+                        t_v<< 5*pow(tt,4), 4*pow(tt,3), 3*pow(tt,2), 2*tt, 1, 0;
+
+                        VectorXd coef_x;
+                        VectorXd coef_y;
+                        coef_x=ugv_coef_.block(i,0,1,6);
+                        coef_y=ugv_coef_.block(i,6,1,6);
+
+                        des_x = t_p * coef_x;
+                        des_y = t_p * coef_y;
+                        des_vx = t_v * coef_x;
+                        des_vy = t_v * coef_y;
+
+                        des_yaw += ugv_initial_omega_ * tt + 0.5 * ugv_beta_(i) * tt * tt;
+                        des_omega += ugv_beta_(i)*tt;
+
+                        break;
+                    }
+                    else{
+                        des_yaw+=ugv_initial_omega_ * ugv_t_(i)+0.5*ugv_beta_(i)*ugv_t_(i)*ugv_t_(i);
+                        des_omega+=ugv_beta_(i)*ugv_t_(i);
+                    }
+                }
+
+                Quaterniond ori(m.pose.pose.orientation.w,  m.pose.pose.orientation.x, m.pose.pose.orientation.y, m.pose.pose.orientation.z);
+                Matrix3d Rgi = ori.toRotationMatrix();
+                double phi = asin(Rgi(2,1));
+                double yaw = atan2(-Rgi(0,1)/cos(phi),Rgi(1,1)/cos(phi));
+
+                geometry_msgs::Twist cmd_vel;
+                double control_linear_gx = kp_ * (des_x-m.pose.pose.position.x) + kd_*(des_vx-m.twist.twist.linear.x);
+                double control_linear_gy = kp_ * (des_y-m.pose.pose.position.y) + kd_*(des_vy-m.twist.twist.linear.y);
+                cmd_vel.linear.x = control_linear_gx * cos(yaw) + control_linear_gy * sin(yaw);
+                cmd_vel.linear.y = control_linear_gy * cos(yaw) - control_linear_gx * sin(yaw);
+                cmd_vel.linear.z = 0;
+
+
+                cmd_vel.angular.x=0;
+                cmd_vel.angular.y=0;
+                cmd_vel.angular.z = kp_ * (des_yaw-yaw)+kd_*(des_omega-m.twist.twist.angular.z);
+
+                ugv_cmd_vel_pub_.publish(cmd_vel);
+
+                //ToDo publish odometry
+            }
+        }
+
+        void uav_pose_call_back(const nav_msgs::Odometry &msg){
+            nav_msgs::Odometry m = msg;
+            transformOdom(m);
+            double dT= m.header.stamp.toSec()-ros::Time::now().toSec();
+            double des_x=0;
+            double des_y=0;
+            double des_vx=0;
+            double des_vy=0;
+            for(int i=0; i<ugv_t_.size();i++){
+                if(dT<ugv_t_(i)){
+                    double tt =dT-uav_t_(i-1);
+                    //std::cout<<tt<<'\n';
+                    //std::cout<<"T(i-1): "<<T(i-1)<<'\n';
+
+                    Matrix<double, 1, 6> t_p;
+                    t_p<< pow(tt,5), pow(tt,4), pow(tt,3), pow(tt,2), tt, 1;
+                    Matrix<double, 1, 6> t_v;
+                    t_v<< 5*pow(tt,4), 4*pow(tt,3), 3*pow(tt,2), 2*tt, 1, 0;
+
+                    VectorXd coef_x;
+                    VectorXd coef_y;
+                    coef_x = ugv_coef_.block(i,0,1,6);
+                    coef_y = ugv_coef_.block(i,6,1,6);
+
+                    des_x=t_p*coef_x;
+                    des_y=t_p*coef_y;
+                    des_vx=t_v*coef_x;
+                    des_vy=t_v*coef_y;
+                    break;
+                }
+            }
+            Quaterniond ori(m.pose.pose.orientation.w,  m.pose.pose.orientation.x, m.pose.pose.orientation.y, m.pose.pose.orientation.z);
+            Matrix3d Rgi = ori.toRotationMatrix();
+            double phi = asin(Rgi(2,1));
+            double yaw = atan2(-Rgi(0,1)/cos(phi),Rgi(1,1)/cos(phi));
+
+            geometry_msgs::Twist cmd_vel;
+            double control_linear_gx = kp_ * (des_x-m.pose.pose.position.x) + kd_ * (des_vx-m.twist.twist.linear.x);
+            double control_linear_gy = kp_ * (des_y-m.pose.pose.position.y) + kd_ * (des_vy-m.twist.twist.linear.y);
+            cmd_vel.linear.x = control_linear_gx * cos(yaw) + control_linear_gy * sin(yaw);
+            cmd_vel.linear.y = control_linear_gy * cos(yaw) - control_linear_gx * sin(yaw);
+            cmd_vel.linear.z = 0;
+
+
+            cmd_vel.angular.x=0;
+            cmd_vel.angular.y=0;
+            cmd_vel.angular.z=0;
+
+            uav_cmd_vel_pub_.publish(cmd_vel);
+
+            // ToDo publish odometry:
+
+        }
+
+    };
+
+}
+
+
+int main(int argc, char *argv[]){
+
+	ros::init(argc, argv, "sim_odom_controller");
+
+    ros::Rate loop_rate(100);
+
+    sim_odom_controller::SimOdomController controller;
+
+    ros::spin();
+}

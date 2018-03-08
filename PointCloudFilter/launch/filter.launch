@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>
+    <param name="filter_resolution" type="double" value="0.1"/>
+    <node pkg="pointcloud2_filter" type="pointcloud2_filter" name="pointcloud2_filter" output="screen">
+        <remap from="input_cloud" to="/zed/point_cloud/cloud_registered"/>
+    </node>
+
+</launch>

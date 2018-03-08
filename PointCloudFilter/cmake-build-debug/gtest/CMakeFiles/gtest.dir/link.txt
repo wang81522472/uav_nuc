@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -std=c++11 -O3 -g  -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/pointcloud2_filter/cmake-build-debug/gtest/src -Wl,-rpath,/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/pointcloud2_filter/cmake-build-debug/gtest/src -lpthread 

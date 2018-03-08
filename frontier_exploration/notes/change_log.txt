@@ -1,0 +1,1 @@
+2017/11/25 Changed default min_frontier_size to 5.

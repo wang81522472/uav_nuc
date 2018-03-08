@@ -1,0 +1,25 @@
+/home/chengdaqian/Software/clion-2017.2.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/uav_costmap_obstacle_layer
+-- Using CATKIN_DEVEL_PREFIX: /home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/uav_costmap_obstacle_layer/cmake-build-debug/devel
+-- Using CMAKE_PREFIX_PATH: /home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/devel;/home/chengdaqian/catkin_ws/devel;/opt/ros/kinetic
+-- This workspace overlays: /home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/devel;/home/chengdaqian/catkin_ws/devel;/opt/ros/kinetic
+-- Using PYTHON_EXECUTABLE: /usr/bin/python
+-- Using Debian Python package layout
+-- Using empy: /usr/bin/empy
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/uav_costmap_obstacle_layer/cmake-build-debug/test_results
+-- Found gtest sources under '/usr/src/gtest': gtests will be built
+-- Using Python nosetests: /usr/bin/nosetests-2.7
+-- catkin 0.7.6
+-- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+CMake Warning at /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:166 (message):
+  catkin_package() DEPENDS on 'system_lib' but neither
+  'system_lib_INCLUDE_DIRS' nor 'system_lib_LIBRARIES' is defined.
+Call Stack (most recent call first):
+  /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:102 (_catkin_package)
+  CMakeLists.txt:106 (catkin_package)
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/uav_costmap_obstacle_layer/cmake-build-debug

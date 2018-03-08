@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<launch>
+
+  <param name="simulation" type="bool" value="false"/>
+  <node pkg="sim_odom_controller" type="sim_odom_controller" name="sim_odom_controller_uav" output="screen">
+    <remap from="~/uav_target" to="uav_target"/>
+    <remap from="~/ugv_target" to="/ugv_node/ugv_target_no_use"/>
+    <remap from="~/uav_cmd_vel" to="/robot_3/cmd_vel"/>
+    <remap from="~/ugv_cmd_vel" to="/robot_4/cmd_vel"/>
+    <remap from="~/uav_coef" to="/explore_server/explore_costmap/air_ground_explore/uav_mat" />
+    <remap from="~/ugv_coef" to="/explore_server/explore_costmap/air_ground_explore/ugv_mat_no_use" />
+    <remap from="~/uav_pose" to="/vins_estimator/imu_propagate"/>
+    <remap from="~/ugv_pose" to="/ekf_node/odom_ekf_no_use"/>
+  </node>
+
+</launch>

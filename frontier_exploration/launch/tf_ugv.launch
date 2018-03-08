@@ -1,0 +1,15 @@
+<launch>
+<node pkg="tf" type="static_transform_publisher" name="robots_static_tf" args="0.0 0.0 -0.3 0 0 0 /robot_1/odom /robot_1/map 50" />
+
+
+<node pkg="tf" type="static_transform_publisher" name="velodyne_static_tf" args="0.0 0.0 0.0 0 0 0 /robot_1/base_link /velodyne 50" />
+
+<node pkg="tf" type="static_transform_publisher" name="zed_body_tf" args="-0.05 0.0 -0.05 -0.5 0.5 0.5 0.5 /body /zed_center  50" />
+<node pkg="marker_detector" type="odom_to_tf" name="marker_detector">
+    <param name= "ugv_odom_frame" type="string" value="robot_1/odom"/>
+    <remap from="~/ugv_odom" to="/aft_mapped_to_init"/>
+</node>
+
+<node pkg="velodyne_map_gen" type="velodyne_map_gen" name="static_map_gen"/>
+
+</launch>

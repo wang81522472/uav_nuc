@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libuav_costmap_obstacle_layer.so -o devel/lib/libuav_costmap_obstacle_layer.so CMakeFiles/uav_costmap_obstacle_layer.dir/src/uav_obstacle_layer.cpp.o 

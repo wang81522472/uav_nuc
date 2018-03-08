@@ -1,0 +1,1293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ground",
+				"ground_range_"
+			],
+			[
+				"lyaer",
+				"layer_num"
+			],
+			[
+				"wx_m",
+				"wx_min_"
+			],
+			[
+				"path_s",
+				"path_search_rho"
+			],
+			[
+				"wy_m",
+				"wy_min"
+			],
+			[
+				"wx_",
+				"wx_min"
+			],
+			[
+				"wx",
+				"wx_min"
+			],
+			[
+				"Matr",
+				"MatrixXd"
+			],
+			[
+				"ugv_ma",
+				"ugv_max_omega"
+			],
+			[
+				"uav",
+				"uav_coef"
+			],
+			[
+				"time",
+				"time_step"
+			],
+			[
+				"Q",
+				"Quaterniond"
+			],
+			[
+				"Pi",
+				"Pi2"
+			],
+			[
+				"R_",
+				"R_vins_cur"
+			],
+			[
+				"T_",
+				"T_vins_tran"
+			],
+			[
+				"vins",
+				"vinsOdom_tran"
+			],
+			[
+				"T_vins",
+				"T_vins_tran"
+			],
+			[
+				"po",
+				"pose"
+			],
+			[
+				"q",
+				"Quaterniond"
+			],
+			[
+				"ma",
+				"Matrix3d"
+			],
+			[
+				"laser",
+				"laser_vins_compare"
+			],
+			[
+				"tran",
+				"transformSum"
+			],
+			[
+				"iter",
+				"iterCount"
+			],
+			[
+				"del",
+				"deltaT"
+			],
+			[
+				"trans",
+				"transformSum"
+			],
+			[
+				"is_",
+				"is_mapping_valid"
+			],
+			[
+				"tim",
+				"time_dynamic_filter_1"
+			],
+			[
+				"Poin",
+				"PointXYZI"
+			],
+			[
+				"poi",
+				"pointSearchInd"
+			],
+			[
+				"int",
+				"intensity"
+			],
+			[
+				"is_mapping",
+				"is_mapping_init"
+			],
+			[
+				"se",
+				"sensor_msgs"
+			],
+			[
+				"P",
+				"Publisher"
+			],
+			[
+				"vic",
+				"vicon_odom"
+			],
+			[
+				"ori",
+				"origin_q"
+			],
+			[
+				"origin",
+				"origin_R"
+			],
+			[
+				"Qua",
+				"Quaternion"
+			],
+			[
+				"orig",
+				"origin_x"
+			],
+			[
+				"vicon",
+				"vicon_odom"
+			],
+			[
+				"h",
+				"header"
+			],
+			[
+				"ROS",
+				"ROS_WARN"
+			],
+			[
+				"laserCloudSurf",
+				"laserCloudSurfFromMap"
+			],
+			[
+				"laserCloudC",
+				"laserCloudCornerFromMap"
+			],
+			[
+				"point",
+				"point_select"
+			],
+			[
+				"Poi",
+				"PointCloud"
+			],
+			[
+				"Po",
+				"PointXYZI"
+			],
+			[
+				"tra",
+				"transformAftMapped"
+			],
+			[
+				"aft",
+				"aft_mapped"
+			],
+			[
+				"camera",
+				"camera_init"
+			],
+			[
+				"t_",
+				"t_set_input2"
+			],
+			[
+				"tmp_",
+				"tmp_yaw"
+			],
+			[
+				"pi",
+				"pi_round"
+			],
+			[
+				"imu",
+				"imuYawLast"
+			],
+			[
+				"tm",
+				"tmp_yaw"
+			],
+			[
+				"de",
+				"degenerate"
+			],
+			[
+				"mat",
+				"matE"
+			],
+			[
+				"cen",
+				"centerCubeI"
+			],
+			[
+				"imuPitc",
+				"imuPitchLast"
+			],
+			[
+				"imuPi",
+				"imuPitchLast"
+			],
+			[
+				"ypr",
+				"ypr_imu"
+			],
+			[
+				"Ma",
+				"Matrix3f"
+			],
+			[
+				"imuYaw",
+				"imuYawLast"
+			],
+			[
+				"R_imu",
+				"R_imu_init"
+			],
+			[
+				"qi",
+				"Quaternion"
+			],
+			[
+				"ROS_",
+				"ROS_WARN"
+			],
+			[
+				"kd",
+				"kdtreeSurfFromMap\tpcl::search::KdTree<pcl::PointXYZ>::Ptr"
+			],
+			[
+				"t_debug",
+				"t_debug2\tdouble"
+			],
+			[
+				"to",
+				"toSec"
+			],
+			[
+				"map",
+				"map_filter\tpcl::PointCloud<pcl::PointXYZI>"
+			],
+			[
+				"star",
+				"startOri\tfloat"
+			],
+			[
+				"start",
+				"startOri"
+			],
+			[
+				"Ve",
+				"Vector3f"
+			],
+			[
+				"ROS_WA",
+				"ROS_WARN(...)\tmacro"
+			],
+			[
+				"laserC",
+				"laserCloudIn2\tconst sensor_msgs::PointCloud2ConstPtr&"
+			],
+			[
+				"RT",
+				"RT_odom\tMatrix4d"
+			],
+			[
+				"Ite",
+				"IterativeClosestPoint<typename PointSource, typename PointTarget>\tclass"
+			],
+			[
+				"clou",
+				"cloud_msg\tpcl::PointCloud<pcl::PointXYZ>"
+			],
+			[
+				"ekf",
+				"ekf_node"
+			],
+			[
+				"ROS_W",
+				"ROS_WARN(...)\tmacro"
+			],
+			[
+				"ROS_w",
+				"ROS_WARN(...)\tmacro"
+			],
+			[
+				"pc",
+				"pc_msg\tconst sensor_msgs::PointCloud2ConstPtr&"
+			],
+			[
+				"Kinv",
+				"KinvM2\tEigen::Matrix3d"
+			],
+			[
+				"R_mo",
+				"R_mocap2\tEigen::Matrix3d"
+			],
+			[
+				"State",
+				"StateHist"
+			],
+			[
+				"Stat",
+				"StateHist\tvector<State>"
+			],
+			[
+				"stam",
+				"stamp_again\tros::Time"
+			],
+			[
+				"stat",
+				"GetState()\tVectorXd"
+			],
+			[
+				"state",
+				"state_new\tState"
+			],
+			[
+				"Sta",
+				"StateHist\tvector<State>"
+			],
+			[
+				"x",
+				"X_var\tEigen::MatrixXd"
+			],
+			[
+				"s",
+				"stamp\t_stamp_type"
+			],
+			[
+				"qua",
+				"Quaterniond\ttypedef"
+			],
+			[
+				"set",
+				"setZero()\tEigen::Matrix<double, -1, -1, 0, -1, -1> &"
+			],
+			[
+				"mean",
+				"mean_new\tVectorXd"
+			],
+			[
+				"X",
+				"X_mean\tEigen::VectorXd"
+			],
+			[
+				"S",
+				"State\tstruct"
+			],
+			[
+				"X_p",
+				"X_p_last\tState"
+			],
+			[
+				"X_u",
+				"X_u_new\tState"
+			],
+			[
+				"Time",
+				"Timer\tros::Time"
+			],
+			[
+				"rpy",
+				"rpy_to_R(const Eigen::Vector3d &rpy)\tEigen::Matrix3d"
+			],
+			[
+				"datea",
+				"dataFile2\tfstream"
+			],
+			[
+				"vect",
+				"vector<typename _Tp>\tclass"
+			],
+			[
+				"X_va",
+				"X_var\tEigen::MatrixXd"
+			],
+			[
+				"X_m",
+				"X_mean_p\tEigen::VectorXd"
+			],
+			[
+				"X_",
+				"X_u\tvector<Prediction>"
+			],
+			[
+				"z",
+				"Zero()\tconst ConstantReturnType"
+			],
+			[
+				"X_var",
+				"X_var_p"
+			],
+			[
+				"data",
+				"dataFile2\tfstream"
+			],
+			[
+				"Stamp",
+				"Stamp_update\tdouble"
+			],
+			[
+				"in",
+				"inverse"
+			],
+			[
+				"X_mean",
+				"X_mean_p\tvector<Eigen::VectorXd>"
+			],
+			[
+				"Time_",
+				"Time_new\tros::Time"
+			],
+			[
+				"Roll",
+				"roll_pitch_yaw"
+			],
+			[
+				"quat",
+				"quater2\tEigen::Quaterniond"
+			],
+			[
+				"da",
+				"dataFile2\tfstream"
+			],
+			[
+				"Ginv",
+				"Ginv_w_dot\tEigen::Matrix3d"
+			],
+			[
+				"X_mean_p",
+				"X_mean_p_temp\tEigen::VectorXd"
+			],
+			[
+				"refer",
+				"reference\tnav_msgs::Odometry"
+			],
+			[
+				"X_var_",
+				"X_var_last"
+			],
+			[
+				"X_mean_",
+				"X_mean_temp\tEigen::VectorXd"
+			],
+			[
+				"y",
+				"y\t_y_type"
+			],
+			[
+				"W",
+				"W\tEigen::MatrixXd"
+			],
+			[
+				"va",
+				"var_init\tEigen::MatrixXd"
+			],
+			[
+				"Eig",
+				"Eigen::MatrixXd > X_var\tvector<"
+			],
+			[
+				"p",
+				"push_back(const value_type &__x)\tvoid"
+			],
+			[
+				"Eigen",
+				"Eigen::VectorXd > X_mean\tvector<"
+			],
+			[
+				"t",
+				"t\tcv::Mat"
+			],
+			[
+				"w",
+				"w\tdouble"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "#include <frontier_exploration/air_ground_sim_explore_layer.h>\n\n#include <pluginlib/class_list_macros.h>\n#include <geometry_msgs/PolygonStamped.h>\n#include <costmap_2d/costmap_2d.h>\n#include <costmap_2d/footprint.h>\n#include <sensor_msgs/PointCloud2.h>\n#include <visualization_msgs/Marker.h>\n#include <pcl_ros/point_cloud.h>\n#include <pcl/point_cloud.h>\n#include <pcl/point_types.h>\n#include <boost/foreach.hpp>\n#include <math.h>\n\n#include <frontier_exploration/Frontier.h>\n#include <frontier_exploration/UpdateBoundaryPolygon.h>\n#include <frontier_exploration/GetNextFrontier.h>\n#include <frontier_exploration/BlacklistPoint.h>\n#include <frontier_exploration/frontier_search.h>\n#include <frontier_exploration/geometry_tools.h>\n\n#include <uav_costmap_obstacle_layer/uav_obstacle_layer.h>\n#include <frontier_exploration/path_search.h>\n\n\n\n#include <nav_msgs/Odometry.h>\n#include <std_msgs/Float64MultiArray.h>\n#include <geometry_msgs/PointStamped.h>\n\n#include <tf/transform_listener.h>\n\n\n\n#define DISC_COEF 41\n#define ugv_max_vx 1.0\n#define ugv_max_vy 1.0\n#define ugv_max_omega 1.0\n#define layer_num 4\n#define set_UGV_A 0,1,0,0,0,0, 0,0,0,-omega,0,-vy, 0,0,0,1,0,0, 0,omega,0,0,0,vx, 0,0,0,0,0,1, 0,0,0,0,0,0\n\nconst double time_step[layer_num] = {0.2, 1.0, 3.0, 5.0};\n\n\n\nPLUGINLIB_EXPORT_CLASS(frontier_exploration::AirGroundSimExploreLayer, costmap_2d::Layer)\n\nnamespace frontier_exploration\n{\n\n    using costmap_2d::LETHAL_OBSTACLE;\n    using costmap_2d::NO_INFORMATION;\n    using costmap_2d::FREE_SPACE;\n\n    inline int fac(int k){\n        return k<2 ? 1:k*fac(k-1);\n    }\n\n    Eigen::MatrixXd mat_pow(Eigen::MatrixXd base, unsigned int n){\n        Eigen::MatrixXd id=Eigen::MatrixXd::Identity(base.rows(),base.cols());\n        return n == 0 ? id : (base * mat_pow (base, n - 1));\n    }\n\n    AirGroundSimExploreLayer::AirGroundSimExploreLayer(){}\n\n    AirGroundSimExploreLayer::~AirGroundSimExploreLayer(){\n        polygonService_.shutdown();\n        frontierService_.shutdown();\n        delete dsrv_;\n        dsrv_ = 0;\n\n        for (unsigned int time_idx = 0; time_idx < layer_num; time_idx ++){\n            for (unsigned int i = 0; i < DISC_COEF; i ++) {\n                for (unsigned int j = 0; j < DISC_COEF; j ++) {\n                    delete[] state_mat_init_[time_idx][i][j];\n                    delete[] state_mat_integral_init_[time_idx][i][j];\n                }\n                delete[] state_mat_init_[time_idx][i];\n                delete[] state_mat_integral_init_[time_idx][i];\n            }\n            delete[] state_mat_init_[time_idx];\n            delete[] state_mat_integral_init_[time_idx];\n        }\n        delete[] state_mat_init_;\n        delete[] state_mat_integral_init_;\n    }\n\n    void AirGroundSimExploreLayer::traj_viz(Eigen::MatrixXd &traj_mat, bool is_selected, double start_time, bool is_ugv){\n\n\n\t    double des_x = 0, des_y = 0;\n        geometry_msgs::Point parent, child;\n        parent.z = child.z = 0;\n        Eigen::MatrixXd coef=traj_mat.block(0,0,traj_mat.rows(),traj_mat.cols()-2);\n        Eigen::VectorXd T    = traj_mat.col(coef.cols() +1);\n        Eigen::MatrixXd coef_x,coef_y;\n        if (is_selected){\n            selected_marker_.header.stamp = ros::Time::now();\n            bool first=true;\n            for(double dT = ros::Time::now().toSec();dT< T(T.rows()-1);dT+=0.01) {\n                if(first){\n                    parent.x=coef(0,0);\n                    parent.y=coef(0,6);\n                    if (is_ugv)\n                        parent.z = 0.3;\n                    else\n                        parent.z = 2.0;\n                    selected_marker_.points.push_back(parent);\n                    first=false;\n                }\n                for (int i = 0; i < T.size(); i++) {\n                    if (dT < T(i)) {\n                        double tt = i > 0 ? dT - T(i - 1) : dT - start_time;\n                        //std::cout<<tt<<'\\n';\n                        //std::cout<<\"T(i-1): \"<<T(i-1)<<'\\n';\n\n                        Eigen::Matrix<double, 1, 6> t_p;\n                        t_p << 1, tt, pow(tt, 2), pow(tt, 3), pow(tt, 4), pow(tt, 5);\n                        Eigen::Matrix<double, 1, 6> t_v;\n                        t_v << 0, 1, 2 * tt, 3 * pow(tt, 2), 4 * pow(tt, 3), 5 * pow(tt, 4);\n\n                        Eigen::VectorXd coef_x;\n                        Eigen::VectorXd coef_y;\n                        coef_x = (coef.block(i, 0, 1, 6)).transpose();\n                        coef_y = (coef.block(i, 6, 1, 6)).transpose();\n\n                        des_x = t_p * coef_x;\n                        des_y = t_p * coef_y;\n                        child.x = des_x;\n                        child.y = des_y;\n                        parent.x=des_x;\n                        parent.y=des_y;\n                        if (is_ugv){\n                            child.z = parent.z = 0.3;\n                        }else{\n                            child.z = parent.z = 2.0;\n                        }\n                        selected_marker_.points.push_back(child);\n                        selected_marker_.points.push_back(parent);\n                        break;\n                    }\n                }\n            }\n\n\n            selected_marker_.points.pop_back();\n\n\n        }else{\n            selected_marker_.header.stamp = ros::Time::now();\n            for(int i=0; i<traj_mat.rows(); ++i){\n                if(i==0) {\n                    parent.x = traj_mat(i,0);\n                    parent.y = traj_mat(i,1);\n                    selected_marker_.points.push_back(parent);\n                }\n                else{\n                    child.x = traj_mat(i,0);\n                    child.y = traj_mat(i,1);\n                    parent.x = traj_mat(i,0);\n                    parent.y = traj_mat(i,1);\n                    selected_marker_.points.push_back(child);\n                    selected_marker_.points.push_back(parent);\n                }\n            }\n\n\n\n            selected_marker_.points.pop_back();\n\n\n        }\n\n    }\n\n    void AirGroundSimExploreLayer::onInitialize(){\n\n        ROS_WARN(\"flag_ enter init!\");\n\n        ros::NodeHandle nh_(\"~/\" + name_);\n        ros::NodeHandle global_nh_;\n        frontier_cloud_pub = nh_.advertise<sensor_msgs::PointCloud2>(\"frontiers\",5);\n        blacklist_marker_pub_ = nh_.advertise<visualization_msgs::Marker>(\"blacklist\", 5);\n        frontier_cell_pub_ = nh_.advertise<sensor_msgs::PointCloud2>(\"frontier_cells\",5);\n        uav_odom_sub_ = global_nh_.subscribe(\"uav_odom\",1,&AirGroundSimExploreLayer::uav_odom_call_back,this);\n        ugv_odom_sub_ = global_nh_.subscribe(\"ugv_odom\",1,&AirGroundSimExploreLayer::ugv_odom_call_back,this);\n        uav_mat_pub_ = nh_.advertise<frontier_exploration::MultiArrayWithHeader>(\"uav_mat\",2);\n        ugv_mat_pub_ = nh_.advertise<frontier_exploration::MultiArrayWithHeader>(\"ugv_mat\",2);\n        ugv_goal_point_pub_ = nh_.advertise<geometry_msgs::PointStamped>(\"ugv_goal_point\",5);\n        uav_tree_viz_pub_ = nh_.advertise<sensor_msgs::PointCloud2>(\"uav_path_tree\",5);\n        ugv_tree_viz_pub_ = nh_.advertise<sensor_msgs::PointCloud2>(\"ugv_path_tree\",5);\n        tree_edge_viz_pub_ = nh_.advertise<visualization_msgs::Marker>(\"tree_edge_viz\", 5);\n        traj_candidates_pub_ = nh_.advertise<visualization_msgs::Marker>(\"traj_candidates_viz\", 1);\n        selected_traj_pub_   = nh_.advertise<visualization_msgs::Marker>(\"traj_selected_uav_viz\", 1);\n        \n        configured_ = false;\n        marked_ = false;\n\n        bool explore_clear_space;\n        nh_.param(\"explore_clear_space\", explore_clear_space, true);\n        if(explore_clear_space){\n            default_value_ = NO_INFORMATION;\n        }else{\n            default_value_ = FREE_SPACE;\n        }\n\n        ROS_WARN(\"flag_  before match size!\");\n\n        matchSize();\n\n        nh_.param<bool>(\"resize_to_boundary\", resize_to_boundary_, true);\n        nh_.param<std::string>(\"frontier_travel_point\", frontier_travel_point_, \"closest\");\n        nh_.param<int>(\"min_frontier_size\", min_frontier_size_, 5);\n        nh_.param<double>(\"utility_discount\", utility_discount_, 0.5);\n        nh_.param<double>(\"score_information_gain_coeff\", score_information_gain_coeff_, 0.5);\n        nh_.param<double>(\"score_frontier_size_coeff\", score_frontier_size_coeff_, 0.2);\n        nh_.param<double>(\"ground_range\", ground_range_, 8.0);\n        score_traverse_cost_coeff_ = 1.0 - score_frontier_size_coeff_ - score_information_gain_coeff_;// 3 coeffs add up to 1.0\n\n        nh_.param<double>(\"info_weight_frontierA\", info_weight_frontierA_, 0.1);\n        nh_.param<double>(\"info_weight_frontierB\", info_weight_frontierB_, 0.89);\n        info_weight_unknown_ = 1.0 - info_weight_frontierB_ - info_weight_frontierA_;\n        if (info_weight_unknown_ < 0){\n            ROS_ERROR(\"Combined weight of frontierA and frontierB should not exceed 1.\");\n            info_weight_unknown_ = 0.0;\n        }\n\n        nh_.param<double>(\"UAV_fov_x\", UAV_fov_x, 0.6);\n        nh_.param<double>(\"UAV_fov_y\", UAV_fov_y, 0.6);\n\n        nh_.param<double>(\"obstacle_height\", obstacle_height_, 0.6);\n        nh_.param<double>(\"uav_height\", uav_height_, 2.0);\n\n        nh_.param<double>(\"/wx_min\", wx_min, -1.0);\n        nh_.param<double>(\"/wx_max\", wx_max, 5.0);\n        nh_.param<double>(\"/wy_min\", wy_min, -1.0);\n        nh_.param<double>(\"/wy_max\", wy_max, 5.0);\n\n        nh_.param<bool>(\"/flag_uav\", flag_uav_, true);\n        nh_.param<bool>(\"/flag_ugv\", flag_ugv_, true);\n\n\tnh_.param<bool>(\"/flag_is_sim\", flag_is_sim_, true);\n\n        ROS_WARN_STREAM(\"wx_min\" << wx_min << \", wx_max\" << wx_max << \", wy_min\" << wy_min << \", wy_max\" << wy_max);\n\n        ROS_WARN_STREAM(\"Ground range set to: \" << ground_range_);\n\n        nh_.param<double>(\"path_search_rho\", path_search_rho_, 1.0);\n\n        polygonService_ = nh_.advertiseService(\"update_boundary_polygon\", &AirGroundSimExploreLayer::updateBoundaryPolygonService, this);\n        frontierService_ = nh_.advertiseService(\"get_next_frontier\", &AirGroundSimExploreLayer::getNextFrontierService, this);\n        blacklistPointService_ = nh_.advertiseService(\"blacklist_point\", &AirGroundSimExploreLayer::blacklistPointService, this);\n        clearBlacklistService_ = nh_.advertiseService(\"clear_blacklist\", &AirGroundSimExploreLayer::clearBlacklistService, this);\n        airGroundFrontierService_ = nh_.advertiseService(\"get_next_air_ground_frontier\", &AirGroundSimExploreLayer::getNextAirGroundFrontierService, this);\n\n        dsrv_ = new dynamic_reconfigure::Server<costmap_2d::GenericPluginConfig>(nh_);\n        dynamic_reconfigure::Server<costmap_2d::GenericPluginConfig>::CallbackType cb = boost::bind(\n                    &AirGroundSimExploreLayer::reconfigureCB, this, _1, _2);\n        dsrv_->setCallback(cb);\n\n        // frontier viz for debug\n        frontierA_visible_pub_ = nh_.advertise<sensor_msgs::PointCloud2>(\"frontierA_visible\",5);\n\n        uav_flag_odom_ = ugv_flag_odom_ = false;\n\n\n        ROS_INFO(\"Starting to init state matrix...\");\n        state_mat_init_ = new Eigen::Matrix<double,6,6>***[layer_num];\n        state_mat_integral_init_ = new Eigen::Matrix<double,6,6>***[layer_num];\n        unsigned int cnt_addr = 0;\n        for (unsigned int time_idx = 0; time_idx < layer_num; time_idx++){\n            state_mat_init_[time_idx] = new Eigen::Matrix<double,6,6>**[DISC_COEF];\n            state_mat_integral_init_[time_idx] = new Eigen::Matrix<double,6,6>**[DISC_COEF];\n            for (unsigned int i = 0; i < DISC_COEF; i ++) {\n                state_mat_init_[time_idx][i] = new Eigen::Matrix<double,6,6>*[DISC_COEF];\n                state_mat_integral_init_[time_idx][i] = new Eigen::Matrix<double,6,6>*[DISC_COEF];\n                for (unsigned int j = 0; j < DISC_COEF; j ++) {\n                    state_mat_init_[time_idx][i][j] = new Eigen::Matrix<double,6,6>[DISC_COEF];\n                    state_mat_integral_init_[time_idx][i][j] = new Eigen::Matrix<double,6,6>[DISC_COEF];\n                    cnt_addr++;\n                }\n            }\n        }\n        ROS_INFO_STREAM(\"Assigned mem to init state matrix: \" << cnt_addr << \" total: \" <<  DISC_COEF * DISC_COEF * layer_num);\n\n        init_state_mat_init();\n        ROS_INFO(\"Inited value of state matrix...\");\n\n        gridmap_no_inflation_pub_ = nh_.advertise<nav_msgs::OccupancyGrid>(\"gridmap_no_inflation\", 1);\n\n        grid_map_no_inflation_.header.frame_id        = layered_costmap_->getGlobalFrameID();\n        grid_map_no_inflation_.header.stamp           = ros::Time::now();\n        grid_map_no_inflation_.info.origin.position.x = layered_costmap_->getCostmap()->getOriginX();\n        grid_map_no_inflation_.info.origin.position.y = layered_costmap_->getCostmap()->getOriginY();\n        grid_map_no_inflation_.info.resolution        = layered_costmap_->getCostmap()->getResolution();\n\n        selected_marker_.header.frame_id = layered_costmap_->getGlobalFrameID();\n        selected_marker_.action = visualization_msgs::Marker::ADD;\n        selected_marker_.pose.orientation.w = 1.0;\n        selected_marker_.id = 0;\n        selected_marker_.type = visualization_msgs::Marker::LINE_LIST;\n        selected_marker_.scale.x = 0.02;\n        selected_marker_.color.b = selected_marker_.color.a = 1.0;\n\n        tree_traj_marker_.header.frame_id = layered_costmap_->getGlobalFrameID();\n        tree_traj_marker_.action = visualization_msgs::Marker::ADD;\n        tree_traj_marker_.pose.orientation.w = 1.0;\n        tree_traj_marker_.id = 0;\n        tree_traj_marker_.type = visualization_msgs::Marker::LINE_LIST;\n        tree_traj_marker_.scale.x = 0.02;\n        tree_traj_marker_.color.b = tree_traj_marker_.color.a = 1.0;\n\n    }\n\n    void AirGroundSimExploreLayer::init_state_mat_init() {\n        double vx, vy, omega;\n        unsigned int time_idx, i, j, k;\n\n        for (time_idx = 0; time_idx < layer_num; time_idx++)\n            for (i = 0; i < DISC_COEF; i ++)\n                for (j = 0; j < DISC_COEF; j++)\n                    for (k = 0; k < DISC_COEF; k++){\n\n                        vx = -ugv_max_vx + i * (2 * ugv_max_vx / (DISC_COEF - 1));\n                        vy = -ugv_max_vy + j * (2 * ugv_max_vy / (DISC_COEF - 1));\n                        omega = -ugv_max_omega + k * (2 * ugv_max_omega / (DISC_COEF));\n\n                        Eigen::Matrix<double,6,6> A = Eigen::MatrixXd::Zero(6,6);\n                        A << set_UGV_A;\n\n                        state_mat_integral_init_[time_idx][i][j][k] = Eigen::MatrixXd::Zero(6,6);\n                        for(int order = 0; order < 5; ++order){\n                            state_mat_integral_init_[time_idx][i][j][k] = state_mat_integral_init_[time_idx][i][j][k]\n                                                                          + std::pow(time_step[time_idx],order+1)/fac(order+1) * mat_pow(A,order);\n                        }\n                        state_mat_init_[time_idx][i][j][k] = (A * time_step[time_idx]).exp();\n                    }\n\n        ROS_WARN_STREAM(\"Finished init state matrix\");\n    }\n\n    bool AirGroundSimExploreLayer::getStateIndex(double vx, double vy, double omega,\n                                                 unsigned int &i, unsigned int &j, unsigned int &k) const{\n        if (std::abs(vx) > ugv_max_vx || std::abs(vy) > ugv_max_vy || std::abs(omega) > ugv_max_omega){\n            //ROS_WARN(\"speed or angular speed out of boundary!\");\n            return false;\n        }\n        i = (unsigned int)((vx + ugv_max_vx) / (2 * ugv_max_vx / (DISC_COEF - 1)));\n        j = (unsigned int)((vy + ugv_max_vy) / (2 * ugv_max_vy / (DISC_COEF - 1)));\n        k = (unsigned int)((omega + ugv_max_omega) / (2 * ugv_max_omega / (DISC_COEF - 1)));\n        return true;\n    }\n\n    bool AirGroundSimExploreLayer::getExpA(double vx, double vy, double omega, unsigned int time_idx, Eigen::MatrixXd &mat_F) const{\n        if (std::abs(vx) > ugv_max_vx || std::abs(vy) > ugv_max_vy || std::abs(omega) > ugv_max_omega){\n            //ROS_WARN(\"speed or angular speed out of boundary!\");\n            //ROS_WARN_STREAM(\"vx: \" << vx << \", vy: \" << vy << \", omega: \" << omega);\n\n            return false;\n        }\n        unsigned int i, j, k;\n        getStateIndex(vx, vy, omega, i, j, k);\n        mat_F = state_mat_init_[time_idx][i][j][k];\n        return true;\n    }\n\n    bool AirGroundSimExploreLayer::get_integral_ExpA(double vx, double vy, double omega, unsigned int time_idx, Eigen::MatrixXd &mat_F) const{\n        if (std::abs(vx) > ugv_max_vx || std::abs(vy) > ugv_max_vy || std::abs(omega) > ugv_max_omega){\n            //ROS_WARN(\"speed or angular speed out of boundary!\");\n            //ROS_WARN_STREAM(\"vx: \" << vx << \", vy: \" << vy << \", omega: \" << omega);\n            return false;\n        }\n        unsigned int i, j, k;\n        getStateIndex(vx, vy, omega, i, j, k);\n        mat_F = state_mat_integral_init_[time_idx][i][j][k];\n        return true;\n    }\n\n    void AirGroundSimExploreLayer::matchSize(){\n        Costmap2D* master = layered_costmap_->getCostmap();\n        resizeMap(master->getSizeInCellsX(), master->getSizeInCellsY(), master->getResolution(),\n                  master->getOriginX(), master->getOriginY());\n    }\n\n\n    void AirGroundSimExploreLayer::reconfigureCB(costmap_2d::GenericPluginConfig &config, uint32_t level){\n        enabled_ = config.enabled;\n    }\n\n    bool AirGroundSimExploreLayer::getNextFrontierService(frontier_exploration::GetNextFrontier::Request &req, frontier_exploration::GetNextFrontier::Response &res){\n        return getNextFrontier(req.start_pose, res.next_frontier);\n    }\n\n    bool AirGroundSimExploreLayer::getNextFrontier(geometry_msgs::PoseStamped start_pose, geometry_msgs::PoseStamped &next_frontier){\n\n        //wait for costmap to get marked with boundary\n        ros::Rate r(10);\n        while(!marked_){\n            ros::spinOnce();\n            r.sleep();\n        }\n\n        if(start_pose.header.frame_id != layered_costmap_->getGlobalFrameID()){\n            //error out if no transform available\n            if(!tf_listener_.waitForTransform(layered_costmap_->getGlobalFrameID(), start_pose.header.frame_id,ros::Time::now(),ros::Duration(10))) {\n                ROS_ERROR_STREAM(\"GetNextFrontier: Couldn't transform from \"<<layered_costmap_->getGlobalFrameID()<<\" to \"<< start_pose.header.frame_id);\n                return false;\n            }\n            geometry_msgs::PoseStamped temp_pose = start_pose;\n            tf_listener_.transformPose(layered_costmap_->getGlobalFrameID(),temp_pose,start_pose);\n        }\n\n        //initialize frontier search implementation\n        FrontierSearch frontierSearch(*(layered_costmap_->getCostmap()), min_frontier_size_, frontier_travel_point_,\n                                      wx_min, wx_max, wy_min, wy_max);\n        //get list of frontiers from search implementation\n        std::list<Frontier> frontier_list = frontierSearch.searchFrontierAFrom(start_pose.pose.position);\n\n        if(frontier_list.size() == 0){\n            ROS_DEBUG(\"No frontiers found, exploration complete\");\n            return false;\n        }\n\n        //create placeholder for selected frontier\n        Frontier selected;\n        selected.min_distance = std::numeric_limits<double>::infinity();\n\n        //pointcloud for visualization purposes\n        pcl::PointCloud<pcl::PointXYZI> frontier_cloud_viz;\n        pcl::PointXYZI frontier_point_viz(50);\n        int max;\n\n        BOOST_FOREACH(Frontier frontier, frontier_list){\n            //load frontier into visualization poitncloud\n            frontier_point_viz.x = frontier.travel_point.x;\n            frontier_point_viz.y = frontier.travel_point.y;\n            frontier_cloud_viz.push_back(frontier_point_viz);\n\n            //check if this frontier is the nearest to robot\n            if (frontier.min_distance < selected.min_distance && !anyPointsNearby(frontier.travel_point, blacklist_, blacklist_radius_)){\n                selected = frontier;\n                max = frontier_cloud_viz.size()-1;\n            }\n        }\n\n        if (std::isinf(selected.min_distance)) {\n            ROS_DEBUG(\"No valid (non-blacklisted) frontiers found, exploration complete\");\n            return false;\n        }\n\n        //color selected frontier\n        frontier_cloud_viz[max].intensity = 100;\n\n        //publish visualization point cloud\n        sensor_msgs::PointCloud2 frontier_viz_output;\n        pcl::toROSMsg(frontier_cloud_viz,frontier_viz_output);\n        frontier_viz_output.header.frame_id = layered_costmap_->getGlobalFrameID();\n        frontier_viz_output.header.stamp = ros::Time::now();\n        frontier_cloud_pub.publish(frontier_viz_output);\n\n        //set goal pose to next frontier\n        next_frontier.header.frame_id = layered_costmap_->getGlobalFrameID();\n        next_frontier.header.stamp = ros::Time::now();\n\n        //\n        next_frontier.pose.position = selected.travel_point;\n        next_frontier.pose.orientation = tf::createQuaternionMsgFromYaw( yawOfVector(start_pose.pose.position, next_frontier.pose.position) );\n        return true;\n    }\n\n    // *************************************************************************\n    // ************** New functions for air ground exploration *****************\n    // *************************************************************************\n\n    bool AirGroundSimExploreLayer::getNextAirGroundFrontierService(\n            frontier_exploration::GetNextAirGroundFrontier::Request &req,\n            frontier_exploration::GetNextAirGroundFrontier::Response &res)\n    {\n        ROS_WARN(\"Got a srv req!\");\n        return getNextAirGroundFrontier(req.start_pose_ground, req.start_pose_air,\n                                        res.next_frontier_ground, res.next_frontier_air);\n    }\n\n    bool AirGroundSimExploreLayer::getNextAirGroundFrontier(geometry_msgs::PoseStamped start_pose_ground,\n                                                            geometry_msgs::PoseStamped start_pose_air,\n                                                            geometry_msgs::PoseStamped &next_frontier_ground,\n                                                            geometry_msgs::PoseStamped &next_frontier_air)\n    {\n\n        ROS_INFO(\"Enter getNextAirGroundFrontier Service\");\n        //wait for costmap to get marked with boundary\n        ros::Rate r(10);\n        while(!marked_){\n            ros::spinOnce();\n            r.sleep();\n        }\n\n        // transform poses\n        //transformPose(start_pose_ground);\n        //transformPose(start_pose_air);\n        //the loop begin here\n\n        double prev_front_x=0;\n        double prev_front_y=0;\n        bool uav_fail_flag=0;\n\n        while(true) {\n\n            ros::spinOnce();\n\n            Eigen::MatrixXd uav_coef, ugv_coef;\n            frontier_exploration::MultiArrayWithHeader ugv_mat, uav_mat;\n            geometry_msgs::PointStamped ugv_goal_point;\n\n\n            // get inflated_visited_ list from uav_obstacle_layer\n            genCharmapNoInflation();\n            pubGridmapNoInflation();\n            ROS_INFO(\"Time flag Prep\");\n\n            //count exploration progress\n            countProgress();\n\n            //initialize frontier search implementation and search FrontierA and frontierB_cell\n            FrontierSearch frontierSearch(*(layered_costmap_->getCostmap()), min_frontier_size_, frontier_travel_point_,\n                                          wx_min, wx_max, wy_min, wy_max);\n            std::list<Frontier> frontierA_list = frontierSearch.searchFrontierA(charmap_no_inflation_);\n            std::list<FrontierCell> frontierB_cell_list = frontierSearch.searchFrontierBCell(charmap_no_inflation_);\n            ROS_INFO(\"Time flag searched Frontier\");\n            if (frontierA_list.empty() && frontierB_cell_list.empty()) {\n                ROS_WARN(\"No frontiers of any type found, exploration complete\");\n                break;\n            }\n\n            std::list<FrontierCell> frontierA_cell_list;\n            prepFrontierACell(frontierA_list, frontierA_cell_list);\n\n            genInfoVec(frontierA_cell_list, frontierB_cell_list);\n            frontierB_flag_ = (frontierB_cell_list.size() >= 5);\n\n            ROS_INFO(\"Time flag proc frontier cell\");\n\n            if (flag_ugv_ && !ugv_flag_odom_){\n                ROS_ERROR(\"UGV's odom not received! Didn't check UAV.\");\n                ros::Duration(1.0).sleep();\n                continue;\n            }\n\n            if (flag_uav_ && !uav_flag_odom_){\n                ROS_ERROR(\"UAV's odom not recieved!\");\n                ros::Duration(1.0).sleep();\n                continue;\n            }\n\n            if (!flag_uav_){\n                uav_pos = Eigen::VectorXd::Zero(4);\n            }\n\n            if (!flag_ugv_)\n            {\n\t\t        ugv_pos = Eigen::VectorXd::Zero(6);\n            }// TODO: Push something here\n\n            path_search search(uav_pos, ugv_pos, this, &frontierA_cell_list, wx_min, wx_max, wy_min, wy_max, path_search_rho_, ground_range_); // what is this???\n            ROS_INFO(\"Time flag built search object\");\n\n            \n            start_pose_air.header    = uav_odom_.header;\n            start_pose_air.pose      = uav_odom_.pose.pose;\n            start_pose_ground.header = ugv_odom_.header;\n            start_pose_ground.pose   = ugv_odom_.pose.pose;\n\n            if (flag_ugv_){\n\n                if (search.find_max_path(search.get_ugv_tree(), ugv_coef)) { // if ugv tree has info gain\n                    ROS_WARN(\"Time flag UGV: Selected!\");\n                    traj_viz(ugv_coef,1,search.get_plan_time_start(), true);\n\n                    ugv_mat.header.frame_id = layered_costmap_->getGlobalFrameID();\n\n                    Eigen::MatrixXd temp = ugv_coef;\n                    ugv_coef.resize(ugv_coef.rows(),ugv_coef.cols()+2);\n                    ugv_coef.block(0,0,ugv_coef.rows(),ugv_coef.cols()-2)=temp;\n                    ugv_coef(0,ugv_coef.cols()-2)=ugv_pos(4);\n                    ugv_coef(0,ugv_coef.cols()-1)=ugv_pos(5);\n                    //std::cout<<ugv_coef.cols()<<\"\\n\";\n\n                    // push matrix\n                    if (ugv_mat.array.layout.dim.size() != 2)\n                        ugv_mat.array.layout.dim.resize(2);\n                    ugv_mat.array.layout.dim[0].stride = ugv_coef.rows() * ugv_coef.cols();\n                    ugv_mat.array.layout.dim[0].size = ugv_coef.rows();\n                    ugv_mat.array.layout.dim[1].stride = ugv_coef.cols();\n                    ugv_mat.array.layout.dim[1].size = ugv_coef.cols();\n                    if ((int)ugv_mat.array.data.size() != ugv_coef.size())\n                        ugv_mat.array.data.resize(ugv_coef.size());\n                    int ii = 0;\n                    for (int i = 0; i < ugv_coef.rows(); ++i)\n                        for (int j = 0; j < ugv_coef.cols(); ++j)\n                            ugv_mat.array.data[ii++] = ugv_coef.coeff(i, j);\n\n                    // push goal_point with empty header\n                    ugv_goal_point.header.frame_id = \"\";\n\n                } else {\n                    ROS_WARN(\"Time flag UGV: No Info Gain! Searching from FronA ...\");\n                    // publish matrix with empty size\n                    ugv_mat.header.frame_id = \"failsafe\";\n                    // publish goal_point here\n                    std::list<FrontierCell> goal_candidate_ground_list;\n                    std::list<Frontier> frontierA_inflated_list = frontierSearch.searchFrontierAFrom(\n                            ugv_odom_.pose.pose.position);\n                    prepFrontierACell(frontierA_inflated_list, goal_candidate_ground_list, start_pose_ground,\n                                      start_pose_air, true, false);\n                    getNextGroundFrontier(start_pose_ground, next_frontier_ground, frontierA_cell_list,\n                                          goal_candidate_ground_list);\n\n                    ugv_goal_point.header.stamp = ros::Time::now();\n                    ugv_goal_point.header.frame_id = layered_costmap_->getGlobalFrameID();\n                    ugv_goal_point.point = next_frontier_ground.pose.position;\n                }\n\n                ugv_mat.header.stamp=ros::Time(search.get_plan_time_start());\n\n                ugv_mat_pub_.publish(ugv_mat);\n                ugv_goal_point_pub_.publish(ugv_goal_point);\n                ROS_WARN(\"Time flag aft pub\");\n\n            }\n\n\n            if (flag_uav_)\n            {\n\n                if (search.find_max_path(search.get_uav_tree(), uav_coef)) { // if uav tree has info gain\n                    ROS_WARN(\"Time flag UAV: Selected!\");\n\n                } else {\n                    ROS_WARN(\"Time flag UAV: No Info Gain! Searching from FronS\");\n                    \n                    \n                    //find uav's goal\n                    prepFrontierACell(frontierA_list, frontierA_cell_list, start_pose_ground, start_pose_air, false, true);\n                    prepFrontierBCell(frontierB_cell_list, start_pose_air);\n\n                    std::list<FrontierCell> goal_candidate_air_list;\n\n                    std::list<FrontierCell>::iterator frontier_cell_it;\n                    for (frontier_cell_it = frontierA_cell_list.begin();\n                         frontier_cell_it != frontierA_cell_list.end(); frontier_cell_it++) {\n                        goal_candidate_air_list.push_back(*frontier_cell_it);\n                    }\n                    for (frontier_cell_it = frontierB_cell_list.begin();\n                         frontier_cell_it != frontierB_cell_list.end(); frontier_cell_it++) {\n                        goal_candidate_air_list.push_back(*frontier_cell_it);\n                    }\n                    getNextAirFrontier(start_pose_air, next_frontier_air, frontierA_cell_list, frontierB_cell_list,\n                                       goal_candidate_air_list, frontierB_cell_list.size() >= 5);\n                    if(uav_fail_flag && (next_frontier_air.pose.position.x-prev_front_x)*(next_frontier_air.pose.position.x-prev_front_x)+(next_frontier_air.pose.position.y-prev_front_y)*(next_frontier_air.pose.position.y-prev_front_y)<0.25) continue;\n                    \n                    TrajectoryGeneratorWaypoint fail;\n                    Eigen::MatrixXd Path = Eigen::MatrixXd::Zero(2,3);\n                    Eigen::MatrixXd Vel = Eigen::MatrixXd::Zero(2,3);\n                    Eigen::MatrixXd Acc = Eigen::MatrixXd::Zero(2,3);\n                    Eigen::VectorXd Time = Eigen::VectorXd::Zero(1);\n                    \n                    Path(0,0) = uav_pos(0);\n                    Path(0,1) = uav_pos(2);\n                    Path(1,0)= next_frontier_air.pose.position.x;\n                    Path(1,1)= next_frontier_air.pose.position.y;\n                    \n                    Vel(0,0) = uav_pos(1);\n                    Vel(0,1) = uav_pos(3);\n                    Vel(1,0) = 0;//uav_pos(1);\n                    Vel(1,1) = 0;//uav_pos(3);\n                    \n                    Time(0) = ((Path.row(0)-Path.row(1)).norm())/(Vel.row(0).norm());//\n                    \n                    uav_coef = fail.PolyQPGeneration(Path,Vel,Acc,Time);\n                    Eigen::MatrixXd temp=uav_coef;\n                    uav_coef.resize(temp.rows(),temp.cols()+2);\n                    uav_coef.block(0,0,temp.rows(),temp.cols())=temp;\n                    uav_coef(0,uav_coef.cols()-1)=Time(0)+search.get_plan_time_start();\n\n                    prev_front_x=next_frontier_air.pose.position.x;\n                    prev_front_y=next_frontier_air.pose.position.y;\n\n                    if(!uav_fail_flag) uav_fail_flag=1;\n                    \n                }\n\n                traj_viz(uav_coef,1,search.get_plan_time_start(), false);\n                ROS_INFO(\"Time flag before pub UAV\");\n\n                if (uav_mat.array.layout.dim.size() != 2)\n                    uav_mat.array.layout.dim.resize(2);\n                uav_mat.array.layout.dim[0].stride = uav_coef.rows() * uav_coef.cols();\n                uav_mat.array.layout.dim[0].size = uav_coef.rows();\n                uav_mat.array.layout.dim[1].stride = uav_coef.cols();\n                uav_mat.array.layout.dim[1].size = uav_coef.cols();\n                if ((int)uav_mat.array.data.size() != uav_coef.size())\n                    uav_mat.array.data.resize(uav_coef.size());\n                int ii = 0;\n                for (int i = 0; i < uav_coef.rows(); ++i)\n                    for (int j = 0; j < uav_coef.cols(); ++j)\n                        uav_mat.array.data[ii++] = uav_coef.coeff(i, j);\n\n                uav_mat.header.stamp=ros::Time(search.get_plan_time_start());\n                std::cout<<\"plan time:\"<<search.get_plan_time_start()<<std::endl;\n                std::cout<<\"header time:\"<<uav_mat.header.stamp.toSec()<<std::endl;\n\n                uav_mat_pub_.publish(uav_mat);\n                ROS_INFO(\"Time flag after pub UAV\");\n\n            }\n\n\n            //visulize goal paths\n            pcl::PointCloud<pcl::PointXYZI> ugv_tree_cloud_viz;\n            visualization_msgs::Marker tree_marker;\n            tree_marker.header.frame_id = layered_costmap_->getGlobalFrameID();\n            tree_marker.header.stamp = ros::Time::now();\n            tree_marker.action = visualization_msgs::Marker::ADD;\n            tree_marker.pose.orientation.w = 1.0;\n            tree_marker.id = 0;\n            tree_marker.type = visualization_msgs::Marker::LINE_LIST;\n            tree_marker.scale.x = 0.005;\n            tree_marker.color.b = 1.0;\n            tree_marker.color.a = 0.3;\n            ugv_tree_cloud_viz = search.viz_tree(tree_marker); // visualize search tree\n            tree_edge_viz_pub_.publish(tree_marker);\n\n            sensor_msgs::PointCloud2 tree_viz_output;\n            pcl::toROSMsg(ugv_tree_cloud_viz, tree_viz_output);\n            tree_viz_output.header.frame_id = \"/robot_1/map\";\n            tree_viz_output.header.stamp = ros::Time::now();\n            ugv_tree_viz_pub_.publish(tree_viz_output);\n\n            //publish trajectories\n            traj_candidates_pub_.publish(tree_traj_marker_);\n            selected_traj_pub_.publish(selected_marker_);\n            tree_traj_marker_.points.clear();\n            selected_marker_.points.clear();\n\n\n            //push goal candidates into list, should change to motion primitive & LQR later\n            /*\n            {\n                FrontierCell temp_goal_ground, temp_goal_air;\n                unsigned int mx, my, index;\n                double wx, wy;\n\n                for (int i = 0; i < 12; i++) {\n                    wx = start_pose_ground.pose.position.x + 1.0 * sin(i * 3.1416 / 6);\n                    wy = start_pose_ground.pose.position.y + 1.0 * cos(i * 3.1416 / 6);\n                    if (wx < 18.5 && wx > -0.5 && wy < 18.5 && wy > -0.5){// make sure goal is in boundary\n                        (layered_costmap_->getCostmap())->worldToMap(wx, wy, mx, my);\n                        if (layered_costmap_->getCostmap()->getCost(mx,my) == FREE_SPACE) {// make sure goal is FREE\n                            temp_goal_ground.frontier_cell_point.x = mx;\n                            temp_goal_ground.frontier_cell_point.y = my;\n                            temp_goal_ground.traverse_cost_ground = 1.0;\n                            goal_candidate_ground_list.push_back(temp_goal_ground);\n                        }\n                    }\n\n                    wx = start_pose_air.pose.position.x + 1.0 * sin(i * 3.1416 / 6);\n                    wy = start_pose_air.pose.position.y + 1.0 * cos(i * 3.1416 / 6);\n                    if (wx < 18.5 && wx > -0.5 && wy < 18.5 && wy > -0.5) {\n                        (layered_costmap_->getCostmap())->worldToMap(wx, wy, mx, my);\n                        temp_goal_air.frontier_cell_point.x = mx;\n                        temp_goal_air.frontier_cell_point.y = my;\n                        temp_goal_air.traverse_cost_air = 1.0;\n                        goal_candidate_air_list.push_back(temp_goal_air);\n                    }\n                }\n            }\n            */\n\n            // get frontier goal for ugv and uav\n            /*\n            if (!getNextGroundFrontier(start_pose_ground, next_frontier_ground, frontierA_cell_list,\n                                       goal_candidate_ground_list)) {\n                // if no info gain with current goal candidates, change them to frontierA cells in FREE Space (inflation considered)\n                goal_candidate_ground_list.clear();\n                std::list<Frontier> frontierA_inflated_list = frontierSearch.searchFrontierAFrom(\n                        start_pose_ground.pose.position);\n                prepFrontierACell(frontierA_inflated_list, goal_candidate_ground_list, start_pose_ground,\n                                  start_pose_air, true, false);\n                getNextGroundFrontier(start_pose_ground, next_frontier_ground, frontierA_cell_list,\n                                      goal_candidate_ground_list);\n            }\n            if (!getNextAirFrontier(start_pose_air, next_frontier_air, frontierA_cell_list, frontierB_cell_list,\n                                    goal_candidate_air_list, frontierB_cell_list.size() >= 5)) {\n                prepFrontierACell(frontierA_list, frontierA_cell_list, start_pose_ground, start_pose_air, false, true);\n                prepFrontierBCell(frontierB_cell_list, start_pose_air);\n\n                goal_candidate_air_list.clear();\n                std::list<FrontierCell>::iterator frontier_cell_it;\n                for (frontier_cell_it = frontierA_cell_list.begin();\n                     frontier_cell_it != frontierA_cell_list.end(); frontier_cell_it++) {\n                    goal_candidate_air_list.push_back(*frontier_cell_it);\n                }\n                for (frontier_cell_it = frontierB_cell_list.begin();\n                     frontier_cell_it != frontierB_cell_list.end(); frontier_cell_it++) {\n                    goal_candidate_air_list.push_back(*frontier_cell_it);\n                }\n                getNextAirFrontier(start_pose_air, next_frontier_air, frontierA_cell_list, frontierB_cell_list,\n                                   goal_candidate_air_list, frontierB_cell_list.size() >= 5);\n            }\n             */\n\n            // visualize frontier cells\n\n            ROS_INFO(\"flag 3\");\n            visualize(frontierA_cell_list, frontierB_cell_list, next_frontier_ground, next_frontier_air);\n\n            for (unsigned int spin_idx = 0; spin_idx < 10; spin_idx++){\n                ros::spinOnce();\n                r.sleep();\n            }\n\n            while (speed < limit){\n                ros::spinOnce();\n                r.slee[remote \"origin\"]\n        url = https://github.com/DaqianCheng/UAV_UGV_Exploration.git\n        fetch = +refs/heads/*:refs/remotes/origin/*\np();\n            }\n\n        }\n\n        ROS_ERROR(\"out of while\");\n\n        return true;\n\n    }\n    \n    void AirGroundSimExploreLayer::getCandidateList(std::list<FrontierCell> &goal_candidate_ground_list, std::list<FrontierCell> &goal_candidate_air_list, double d_omega, double time_step, geometry_msgs::PoseStamped &start_pose_ground, geometry_msgs::PoseStamped &start_pose_air){\n        FrontierCell temp_goal_ground, temp_goal_air;\n        unsigned int mx, my;\n        double wx, wy;\n                    for (int i = 0; i < 12; i++) {\n                        wx = start_pose_ground.pose.position.x + 1.0 * sin(i * 3.1416 / 6);\n                        wy = start_pose_ground.pose.position.y + 1.0 * cos(i * 3.1416 / 6);\n                        if (wx < 18.5 && wx > -0.5 && wy < 18.5 && wy > -0.5){// make sure goal is in boundary\n                            (layered_costmap_->getCostmap())->worldToMap(wx, wy, mx, my);\n                            if (layered_costmap_->getCostmap()->getCost(mx,my) == FREE_SPACE) {// make sure goal is FREE\n                                temp_goal_ground.frontier_cell_point.x = mx;\n                                temp_goal_ground.frontier_cell_point.y = my;\n                                temp_goal_ground.traverse_cost_ground = 1.0;\n                                goal_candidate_ground_list.push_back(temp_goal_ground);\n                            }\n                        }\n        \n                        wx = start_pose_air.pose.position.x + 1.0 * sin(i * 3.1416 / 6);\n                        wy = start_pose_air.pose.position.y + 1.0 * cos(i * 3.1416 / 6);\n                        if (wx < 18.5 && wx > -0.5 && wy < 18.5 && wy > -0.5) {\n                            (layered_costmap_->getCostmap())->worldToMap(wx, wy, mx, my);\n                            temp_goal_air.frontier_cell_point.x = mx;\n                            temp_goal_air.frontier_cell_point.y = my;\n                            temp_goal_air.traverse_cost_air = 1.0;\n                            goal_candidate_air_list.push_back(temp_goal_air);\n                        }\n                    }\n        \n    }\n\n    bool AirGroundSimExploreLayer::computeInfoGainAndScoreGround(FrontierCell &goal_candidate,\n                                                         std::list<FrontierCell> &frontierA_cell_list) {\n        goal_candidate.information_gain = 0; // clear leftover info gain\n\n        double dist;\n        unsigned int vis_fronA_cnt = 0; // visible frontier cell A count\n\n        for (std::list<FrontierCell>::iterator j = frontierA_cell_list.begin(); j != frontierA_cell_list.end(); j++){\n            // if raytrace no obstacle\n            if(raytraceFree(int(goal_candidate.frontier_cell_point.x), int(goal_candidate.frontier_cell_point.y),\n                            int(j->frontier_cell_point.x), int(j->frontier_cell_point.y))){\n\n                dist = sqrt(pow(goal_candidate.frontier_cell_point.x - j->frontier_cell_point.x,2)\n                            + pow(goal_candidate.frontier_cell_point.y - j->frontier_cell_point.y,2));\n\n                if (dist <= ground_range_ / (layered_costmap_->getCostmap())->getResolution()) {\n                    (goal_candidate.information_gain) += j->utility * log10(j->frontier_size) / dist;\n                    vis_fronA_cnt++;\n                }\n            }\n        }\n\n        if (vis_fronA_cnt <= 5){ // reject goal candidate if can see less than 5 frontier cells\n            goal_candidate.information_gain = 0;\n            goal_candidate.score = 0.0;\n            return false;\n        }\n\n        goal_candidate.score = pow(goal_candidate.information_gain, score_information_gain_coeff_) / pow(goal_candidate.traverse_cost_ground, score_traverse_cost_coeff_);\n\n        return true;\n    }\n\n    bool AirGroundSimExploreLayer::getNextGroundFrontier(geometry_msgs::PoseStamped start_pose_ground,\n                                                         geometry_msgs::PoseStamped &next_frontier_ground,\n                                                         std::list<FrontierCell> &frontierA_cell_list,\n                                                         std::list<FrontierCell> &goal_candidate_list)\n    {\n        // create placeholder for selected frontier cell\n        frontier_exploration::FrontierCell selected;\n        selected.score = 0.0;\n\n        // compute information gain and score, select the highest\n        for (std::list<FrontierCell>::iterator i = goal_candidate_list.begin(); i != goal_candidate_list.end(); i++){\n            computeInfoGainAndScoreGround(*i, frontierA_cell_list);\n            if (i->score > selected.score)\n                selected = *i;\n        }\n\n        if (selected.score == 0.0){\n            ROS_WARN(\"No info gain. Searching from frontierA cells.\");\n            return false;\n        }\n\n        // visualize visible frontierA\n        /*\n        pcl::PointCloud<pcl::PointXYZI> frontierA_visible_viz;\n        pcl::PointXYZI frontier_point_viz(80);\n        double viz_wx, viz_wy;\n        for (std::list<FrontierCell>::iterator j = frontierA_cell_list.begin(); j != frontierA_cell_list.end(); j++){\n            if (raytraceFree(int(selected.frontier_cell_point.x), int(selected.frontier_cell_point.y),\n                             int(j->frontier_cell_point.x), int(j->frontier_cell_point.y))){\n                (layered_costmap_->getCostmap())->mapToWorld(\n                        (unsigned int) j->frontier_cell_point.x,\n                        (unsigned int) j->frontier_cell_point.y,\n                        viz_wx, viz_wy);\n                frontier_point_viz.x = viz_wx;\n                frontier_point_viz.y = viz_wy;\n                frontierA_visible_viz.push_back(frontier_point_viz);\n            }\n        }\n        (layered_costmap_->getCostmap())->mapToWorld(\n                (unsigned int) selected.frontier_cell_point.x,\n                (unsigned int) selected.frontier_cell_point.y,\n                viz_wx, viz_wy);\n        frontier_point_viz.x = viz_wx;\n        frontier_point_viz.y = viz_wy;\n        frontier_point_viz.intensity = 80;\n        frontierA_visible_viz.push_back(frontier_point_viz);\n        sensor_msgs::PointCloud2 frontierA_viz_output;\n        pcl::toROSMsg(frontierA_visible_viz, frontierA_viz_output);\n        frontierA_viz_output.header.frame_id = layered_costmap_->getGlobalFrameID();\n        frontierA_viz_output.header.stamp = ros::Time::now();\n        frontierA_visible_pub_.publish(frontierA_viz_output);\n         */\n\n        //set goal pose to next frontier\n        next_frontier_ground.header.frame_id = layered_costmap_->getGlobalFrameID();\n        next_frontier_ground.header.stamp = ros::Time::now();\n        // get world coords from frontier_cell_point which is map coords\n        double wx,wy;\n        (layered_costmap_->getCostmap())->mapToWorld((unsigned int)selected.frontier_cell_point.x,\n                                                     (unsigned int)selected.frontier_cell_point.y, wx, wy);\n\n        next_frontier_ground.pose.position.x = wx;\n        next_frontier_ground.pose.position.y = wy;\n        next_frontier_ground.pose.orientation = tf::createQuaternionMsgFromYaw( yawOfVector(start_pose_ground.pose.position, next_frontier_ground.pose.position) );\n\n        // perform utility discount\n        BOOST_FOREACH(frontier_exploration::FrontierCell frontier_cell, frontierA_cell_list){\n            if(raytraceFree((int)frontier_cell.frontier_cell_point.x, (int)frontier_cell.frontier_cell_point.y,\n                            (int)selected.frontier_cell_point.x,      (int)selected.frontier_cell_point.y)){\n                if (pow(frontier_cell.frontier_cell_point.x-selected.frontier_cell_point.x,2)// if distance is shorter than range\n                    + pow(frontier_cell.frontier_cell_point.y-selected.frontier_cell_point.y,2)\n                        <= pow(ground_range_,2)/layered_costmap_->getCostmap()->getResolution())\n                {\n                    frontier_cell.utility *= utility_discount_;\n                }\n            }\n        }\n        return true;\n    }\n\n    bool AirGroundSimExploreLayer::computeInfoGainAndScoreAir(FrontierCell &goal_candidate){\n\n        goal_candidate.information_gain = 0;\n\n        unsigned int left_mx, right_mx, top_my, bottom_my;\n\n        unsigned int iter_x, iter_y;\n\n        left_mx = (unsigned int)(goal_candidate.frontier_cell_point.x - 0.6/(layered_costmap_->getCostmap())->getResolution());\n        right_mx = (unsigned int)(goal_candidate.frontier_cell_point.x + 0.6/(layered_costmap_->getCostmap())->getResolution());\n        bottom_my = (unsigned int)(goal_candidate.frontier_cell_point.y - 0.6/(layered_costmap_->getCostmap())->getResolution());\n        top_my = (unsigned int)(goal_candidate.frontier_cell_point.y + 0.6/(layered_costmap_->getCostmap())->getResolution());\n        left_mx = left_mx > 0 ? left_mx : 0;\n        right_mx = right_mx < size_x_ ? right_mx : size_x_ - 1;\n        bottom_my = bottom_my > 0 ? bottom_my : 0;\n        top_my = top_my < size_y_ ? top_my : size_y_ - 1;\n\n        goal_candidate.information_gain = 0;\n\n        unsigned int visible_frontier_cnt = 0, visible_frontierB_cnt = 0, idx;\n\n        for (iter_y = bottom_my; iter_y <= top_my; iter_y++){\n\n            for (iter_x = left_mx; iter_x <= right_mx; iter_x++){\n\n                idx = (layered_costmap_->getCostmap())->getIndex(iter_x, iter_y); // get charMap index\n\n                if (charmap_no_inflation_[idx] == NO_INFORMATION){\n                    goal_candidate.information_gain += info_weight_unknown_;\n                }\n\n                if (frontierA_info_vec_[idx] > 0.0){\n                    goal_candidate.information_gain += frontierA_info_vec_[idx];\n                    visible_frontier_cnt ++;\n                }\n\n                if (frontierB_info_vec_[idx] > 0.0){\n                    goal_candidate.information_gain += frontierB_info_vec_[idx];\n                    visible_frontier_cnt ++;\n                    visible_frontierB_cnt ++;\n                }\n            }\n        }\n        if (visible_frontier_cnt <= 3) // discard goal candidate without frontier visibility\n        {\n            goal_candidate.information_gain = 0;\n        }\n\n        if (visible_frontierB_cnt == 0 && frontierB_flag_){ // discard goal candidate without frontierB visibility if present\n            goal_candidate.information_gain = 0;\n        }\n\n        // compute score and select the cell with the highest score\n        goal_candidate.score = pow(goal_candidate.information_gain, score_information_gain_coeff_)\n                               // * pow(goal_candidate.frontier_size, score_frontier_size_coeff_)\n                               / pow(goal_candidate.traverse_cost_air, score_traverse_cost_coeff_);\n\n        return !(goal_candidate.score == 0);\n    }\n\n    bool AirGroundSimExploreLayer::computeInfoGainAndScoreAir(FrontierCell &goal_candidate,\n                                                              std::vector<double> &frontierA_info_vec,\n                                                              std::vector<double> &frontierB_info_vec, bool frontierB_flag) {\n        goal_candidate.information_gain = 0;\n\n        unsigned int left_mx, right_mx, top_my, bottom_my;\n\n        unsigned int iter_x, iter_y;\n\n        left_mx = (unsigned int)(goal_candidate.frontier_cell_point.x - 0.6/(layered_costmap_->getCostmap())->getResolution());\n        right_mx = (unsigned int)(goal_candidate.frontier_cell_point.x + 0.6/(layered_costmap_->getCostmap())->getResolution());\n        bottom_my = (unsigned int)(goal_candidate.frontier_cell_point.y - 0.6/(layered_costmap_->getCostmap())->getResolution());\n        top_my = (unsigned int)(goal_candidate.frontier_cell_point.y + 0.6/(layered_costmap_->getCostmap())->getResolution());\n        left_mx = left_mx > 0 ? left_mx : 0;\n        right_mx = right_mx < size_x_ ? right_mx : size_x_ - 1;\n        bottom_my = bottom_my > 0 ? bottom_my : 0;\n        top_my = top_my < size_y_ ? top_my : size_y_ - 1;\n\n        goal_candidate.information_gain = 0;\n\n        unsigned int visible_frontier_cnt = 0, visible_frontierB_cnt = 0, idx;\n\n        for (iter_y = bottom_my; iter_y <= top_my; iter_y++){\n\n            for (iter_x = left_mx; iter_x <= right_mx; iter_x++){\n\n                idx = (layered_costmap_->getCostmap())->getIndex(iter_x, iter_y); // get charMap index\n\n                if (charmap_no_inflation_[idx] == NO_INFORMATION){\n                    goal_candidate.information_gain += info_weight_unknown_;\n                }\n\n                if (frontierA_info_vec[idx] > 0.0){\n                    goal_candidate.information_gain += frontierA_info_vec[idx];\n                    visible_frontier_cnt ++;\n                }\n\n                if (frontierB_info_vec[idx] > 0.0){\n                    goal_candidate.information_gain += frontierB_info_vec[idx];\n                    visible_frontier_cnt ++;\n                    visible_frontierB_cnt ++;\n                }\n            }\n        }\n        if (visible_frontier_cnt <= 3) // discard goal candidate without frontier visibility\n        {\n            goal_candidate.information_gain = 0;\n        }\n\n        if (visible_frontierB_cnt == 0 && frontierB_flag){ // discard goal candidate without frontierB visibility if present\n            goal_candidate.information_gain = 0;\n        }\n\n        // compute score and select the cell with the highest score\n        goal_candidate.score = pow(goal_candidate.information_gain, score_information_gain_coeff_)\n                               // * pow(goal_candidate.frontier_size, score_frontier_size_coeff_)\n                               / pow(goal_candidate.traverse_cost_air, score_traverse_cost_coeff_);\n\n    }\n\n    bool AirGroundSimExploreLayer::getNextAirFrontier(geometry_msgs::PoseStamped start_pose_air,\n                                                      geometry_msgs::PoseStamped &next_frontier_air,\n                                                      std::list<FrontierCell> &frontierA_cell_list,\n                                                      std::list<FrontierCell> &frontierB_cell_list,\n                                                      std::list<FrontierCell> &goal_candidate_list, bool frontierB_flag)\n    {\n        // create placeholder for selected frontier cell\n        frontier_exploration::FrontierCell selected;\n        selected.score = 0.0;\n\n        // Above is initialization. For each UAV, should do following operations.\n\n        // compute info gain for each frontier cell\n        // unsigned int debug_idx = 0;\n        BOOST_FOREACH(frontier_exploration::FrontierCell goal_candidate, goal_candidate_list){ // changed here\n            computeInfoGainAndScoreAir(goal_candidate);\n            if (goal_candidate.score > selected.score)\n                selected = goal_candidate;\n        }\n\n        if (selected.score == 0.0){\n            ROS_WARN(\"AIR: No Info Gain. Searching from frontier cells.\");\n            return false;\n        }\n\n        //set goal pose to next frontier\n        next_frontier_air.header.frame_id = layered_costmap_->getGlobalFrameID();\n        next_frontier_air.header.stamp = ros::Time::now();\n        // get world coords from frontier_cell_point which is map coords\n        double selected_wx, selected_wy;\n        (layered_costmap_->getCostmap())->mapToWorld((unsigned int)selected.frontier_cell_point.x,\n                                                     (unsigned int)selected.frontier_cell_point.y,\n                                                     selected_wx, selected_wy);\n\n        next_frontier_air.pose.position.x = selected_wx;\n        next_frontier_air.pose.position.y = selected_wy;\n        next_frontier_air.pose.orientation = tf::createQuaternionMsgFromYaw( yawOfVector(start_pose_air.pose.position, next_frontier_air.pose.position) );\n\n        // perform utility discount. Need re-write No use at present. For future cooperation between multiple UAVs.\n        /*\n        unsigned int iter_x, iter_y;\n        // compute map_coords for UAV and fov_boundary, don't know if +- 1.5 works\n        (layered_costmap_->getCostmap())->worldToMap(selected_wx - 1.5, selected_wy - 1.5,\n                                                     left_mx, bottom_my);\n        (layered_costmap_->getCostmap())->worldToMap(selected_wx + 1.5, selected_wy + 1.5,\n                                                     right_mx, top_my);\n\n        for (iter_y = bottom_my; iter_y <= top_my; iter_y++){\n            for (iter_x = left_mx; iter_x <= right_mx; iter_x++){\n                temp_idx = (layered_costmap_->getCostmap())->getIndex(iter_x, iter_y);\n                information_gain_vector[temp_idx] *= utility_discount_;\n\n            }\n        }*/\n\n        return true;\n    }\n\n    bool AirGroundSimExploreLayer::transformPose(geometry_msgs::PoseStamped& pose)\n    {\n        if(pose.header.frame_id != layered_costmap_->getGlobalFrameID()){\n            //error out if no transform available\n            if(!tf_listener_.waitForTransform(layered_costmap_->getGlobalFrameID(), pose.header.frame_id,ros::Time::now(),ros::Duration(10))) {\n                ROS_ERROR_STREAM(\"Transform pose: Couldn't transform from \"<<layered_costmap_->getGlobalFrameID()<<\" to \"<< pose.header.frame_id);\n                return false;\n            }\n            geometry_msgs::PoseStamped temp_pose = pose;\n            tf_listener_.transformPose(layered_costmap_->getGlobalFrameID(), temp_pose, pose);\n        }\n\n        return true;\n    }\n\n    bool AirGroundSimExploreLayer::transformOdom(nav_msgs::Odometry &odom, std::string twist_frame) {\n\n        if (odom.header.frame_id != layered_costmap_->getGlobalFrameID()){\n\n\n            \n\n            geometry_msgs::PoseStamped origin_pose, out_pose;\n            origin_pose.header = odom.header;\n            origin_pose.pose = odom.pose.pose;\n\n            geometry_msgs::Vector3Stamped origin_v_l, origin_v_a, out_v_l, out_v_a;\n\n            origin_v_l.header = origin_v_a.header = odom.header;\n            if (!twist_frame.empty() && flag_is_sim_){\n\t\tROS_INFO_STREAM(\"UGV in Sim: set frame to \" << twist_frame);\n                origin_v_a.header.frame_id = twist_frame;\n                origin_v_l.header.frame_id = twist_frame;\n            }\n\n            origin_v_a.vector = odom.twist.twist.angular;\n            origin_v_l.vector = odom.twist.twist.linear;\n\n\n\n            if (!tf_listener_.waitForTransform(layered_costmap_->getGlobalFrameID(), odom.header.frame_id, odom.header.stamp, ros::Duration(10))){\n                ROS_ERROR_STREAM(\"Transform Odom: Couldn't transform from \"<<layered_costmap_->getGlobalFrameID()<<\" to \"<< odom.header.frame_id);\n                return false;\n            }\n\n            while (true){\n            \ttry{\n            \t\ttf_listener_.transformPose(layered_costmap_->getGlobalFrameID(), origin_pose, out_pose);\n\t\t            tf_listener_.transformVector(layered_costmap_->getGlobalFrameID(), origin_v_a, out_v_a);\n\t\t            tf_listener_.transformVector(layered_costmap_->getGlobalFrameID(), origin_v_l, out_v_l);\n\n\t\t            break;\n            \t}catch(std::exception &e){\n            \t\tstd::cout << e.what() << std::endl;\n                    ros::Time stamped_postponed(odom.header.stamp.toSec() + 0.1);\n                    tf_listener_.waitForTransform(global_frame_, odom.header.frame_id, stamped_postponed, ros::Duration(5));\n            \t}\n            }\n           \n\n            odom.header = out_pose.header;\n            odom.pose.pose = out_pose.pose;\n            odom.twist.twist.linear = out_v_l.vector;\n            odom.twist.twist.angular = out_v_a.vector;\n        }\n\n        return true;\n    }\n\n    void AirGroundSimExploreLayer::prepFrontierACell(std::list<Frontier> &frontierA_list, std::list<FrontierCell> &frontierA_cell_list)\n    {\n        frontierA_cell_list.clear();\n\n        BOOST_FOREACH(frontier_exploration::Frontier frontier, frontierA_list) {\n\n                        BOOST_FOREACH(geometry_msgs::Point frontier_cell_point, frontier.frontier_cells) {\n\n                                        frontier_exploration::FrontierCell temp;\n                                        temp.frontier_cell_point = frontier_cell_point;\n                                        temp.frontier_size = frontier.size;\n                                        temp.utility = 1.0;\n\n                                        frontierA_cell_list.push_back(temp);\n                                    }\n                    }\n    }\n\n\n    void AirGroundSimExploreLayer::prepFrontierACell(std::list<Frontier> &frontierA_list, std::list<FrontierCell> &frontierA_cell_list,\n                                                     geometry_msgs::PoseStamped start_pose_ground, geometry_msgs::PoseStamped start_pose_air,\n                                                     bool compute_ground_cost, bool compute_air_cost)\n    {\n        frontierA_cell_list.clear();\n\n        ros::NodeHandle n;\n        ros::ServiceClient make_plan_client = n.serviceClient<nav_msgs::GetPlan>(\"/move_base_node/make_plan\");\n        nav_msgs::GetPlan srv;\n        if(!make_plan_client.waitForExistence()){\n            ROS_ERROR(\"Timeout waiting for service /move_base_node/make_plan\");\n        }\n\n        geometry_msgs::PoseStamped start, goal;\n\n        BOOST_FOREACH(frontier_exploration::Frontier frontier, frontierA_list){\n                        double wx,wy, air_distance, ground_distance = 0.0, temp_length;\n                        //frontier_exploration::AstarPoint startPoint, endPoint;\n                        //int temp_cost;\n                        BOOST_FOREACH(geometry_msgs::Point frontier_cell_point, frontier.frontier_cells){\n\n                                        frontier_exploration::FrontierCell temp;\n                                        temp.frontier_cell_point = frontier_cell_point;\n                                        temp.frontier_size = frontier.size;\n                                        temp.utility = 1.0;\n                                        temp.score = 0.0;\n\n                                        // get world coords from frontier_cell_point which is map coords\n\n                                        (layered_costmap_->getCostmap())->mapToWorld((unsigned int)temp.frontier_cell_point.x,\n                                                                                     (unsigned int)temp.frontier_cell_point.y, wx, wy);\n\n                                        if (compute_air_cost){\n                                            air_distance = sqrt((wx-start_pose_air.pose.position.x)*(wx-start_pose_air.pose.position.x)\n                                                                + (wy-start_pose_air.pose.position.y) * (wy-start_pose_air.pose.position.y));\n                                            temp.traverse_cost_air = air_distance;\n                                        }\n\n                                        if (compute_ground_cost){\n                                            // compute and add traverse_cost\n                                            start = start_pose_ground;\n                                            goal.header = start.header;\n                                            goal.pose.orientation = start.pose.orientation;\n                                            goal.pose.position.x = wx;\n                                            goal.pose.position.y = wy;\n                                            srv.request.start = start;\n                                            srv.request.goal  = goal;\n\n                                            if (make_plan_client.call(srv) && srv.response.plan.poses.size()) {\n                                                std::vector<geometry_msgs::PoseStamped>::iterator i;\n                                                for (i = srv.response.plan.poses.begin(); (i + 1) != srv.response.plan.poses.end(); i++) {\n                                                    temp_length = sqrt(\n                                                            ((i + 1)->pose.position.x - i->pose.position.x)\n                                                            * ((i + 1)->pose.position.x - i->pose.position.x)\n                                                            + ((i + 1)->pose.position.y - i->pose.position.y)\n                                                              * ((i + 1)->pose.position.y - i->pose.position.y));\n                                                    ground_distance += temp_length;\n                                                }\n                                                temp.traverse_cost_ground = ground_distance;\n\n\n                                            } else {\n                                                //ROS_WARN(\"Failed to call make plan service, setting to infinity\");\n                                                temp.traverse_cost_ground = std::numeric_limits<double>::infinity();\n                                            }\n\n\n                                            /* code below uses astar class. Abandoned for its low speed.\n                                            unsigned int mx, my;\n                                            layered_costmap_->getCostmap()->worldToMap(start_pose_ground.pose.position.x,\n                                                                                       start_pose_ground.pose.position.x,mx,my);\n                                            startPoint.x = mx;\n                                            startPoint.y = my;\n                                            endPoint.x = (int)frontier_cell_point.x;\n                                            endPoint.y = (int)frontier_cell_point.y;\n                                            temp_cost = astarPlanner.getCost(startPoint, endPoint, false);\n                                            temp.traverse_cost_ground = (double)temp_cost;\n\n                                            ROS_INFO_STREAM(\"Cost of frontier cell is \" << temp_cost);\n                                            */\n                                        }\n\n\n\n                                        frontierA_cell_list.push_back(temp);\n                                    }\n                    }\n    }\n\n    void AirGroundSimExploreLayer::prepFrontierBCell(std::list<FrontierCell> &frontierB_cell_list, geometry_msgs::PoseStamped start_pose_air) {\n        std::list<FrontierCell>::iterator it;\n        double wx = start_pose_air.pose.position.x, wy = start_pose_air.pose.position.y, world_distance;\n        for (it = frontierB_cell_list.begin(); it != frontierB_cell_list.end(); it++){\n\n            (layered_costmap_->getCostmap())->mapToWorld((unsigned int)it->frontier_cell_point.x,\n                                                         (unsigned int)it->frontier_cell_point.y, wx, wy);\n            // compute traverse cost\n\n            world_distance = sqrt((wx-start_pose_air.pose.position.x)*(wx-start_pose_air.pose.position.x)\n                                  + (wy-start_pose_air.pose.position.y) * (wy-start_pose_air.pose.position.y));\n            it->traverse_cost_air = world_distance;\n        }\n    }\n\n    void AirGroundSimExploreLayer::visualize(std::list<FrontierCell> &frontierA_cell_list, std::list<FrontierCell> &frontierB_cell_list,geometry_msgs::PoseStamped &next_frontier_ground, geometry_msgs::PoseStamped &next_frontier_air){\n\n        //pointcloud for visualization purposes\n        pcl::PointCloud<pcl::PointXYZI> frontier_cell_viz;\n        pcl::PointXYZI frontier_point_viz(50);//initialize with 50 intensi      ty\n        pcl::PointXYZI frontier_point_viz_B(30);//initialize viz for frontierB with 30 intensity\n        double viz_wx, viz_wy;\n        //ROS_INFO_STREAM(\"Size of frontierA list: \" << frontierA_cell_list.size());\n        BOOST_FOREACH(FrontierCell frontier_cell, frontierA_cell_list) {\n                        //load frontier into visualization poitncloud\n                        (layered_costmap_->getCostmap())->mapToWorld(\n                                (unsigned int) frontier_cell.frontier_cell_point.x,\n                                (unsigned int) frontier_cell.frontier_cell_point.y,\n                                viz_wx, viz_wy);\n                        frontier_point_viz.x = viz_wx;\n                        frontier_point_viz.y = viz_wy;\n                        frontier_cell_viz.push_back(frontier_point_viz);\n                    }\n        //ROS_INFO_STREAM(\"Size of frontierB list: \" << frontierB_cell_list.size());\n        BOOST_FOREACH(FrontierCell frontier_cell, frontierB_cell_list) {\n                        //load frontier into visualization poitncloud\n                        (layered_costmap_->getCostmap())->mapToWorld(\n                                (unsigned int) frontier_cell.frontier_cell_point.x,\n                                (unsigned int) frontier_cell.frontier_cell_point.y,\n                                viz_wx, viz_wy);\n                        frontier_point_viz_B.x = viz_wx;\n                        frontier_point_viz_B.y = viz_wy;\n\t\t\tfrontier_point_viz_B.z = 1.0;\n                        frontier_cell_viz.push_back(frontier_point_viz_B);\n                    }\n        // push next_frontier_air into viz list\n        frontier_point_viz.x = (float) next_frontier_air.pose.position.x;\n        frontier_point_viz.y = (float) next_frontier_air.pose.position.y;\n        frontier_cell_viz.push_back(frontier_point_viz);\n        frontier_cell_viz[frontier_cell_viz.size() - 1].intensity = 20;\n        // push next_frontier_ground into viz list\n        frontier_point_viz.x = (float) next_frontier_ground.pose.position.x;\n        frontier_point_viz.y = (float) next_frontier_ground.pose.position.y;\n        frontier_cell_viz.push_back(frontier_point_viz);\n        frontier_cell_viz[frontier_cell_viz.size() - 1].intensity = 100;\n\n        //publish visualization point cloud\n        sensor_msgs::PointCloud2 frontier_cell_viz_output;\n        pcl::toROSMsg(frontier_cell_viz, frontier_cell_viz_output);\n        frontier_cell_viz_output.header.frame_id = layered_costmap_->getGlobalFrameID();\n        frontier_cell_viz_output.header.stamp = ros::Time::now();\n        frontier_cloud_pub.publish(frontier_cell_viz_output);\n\n        ROS_INFO(\"Time flag viz\");\n    }\n\n    bool AirGroundSimExploreLayer::raytraceFree(int x0, int y0, int x1, int y1){\n\n        int dx = x1 - x0;\n        int dy = y1 - y0;\n\n        unsigned int abs_dx = abs(dx); // abs delta x\n        unsigned int abs_dy = abs(dy); // abs delta y\n\n        unsigned int size_x = (layered_costmap_->getCostmap())->getSizeInCellsX();\n\n        int offset_dx = (dx > 0 ? 1 : -1); // dx in map idx\n        int offset_dy = (dy > 0 ? 1 : -1) * size_x; // dy in map idx\n\n        unsigned int max_length = std::numeric_limits<unsigned int>::max();\n\n        unsigned int offset = y0 * size_x + x0; // point0 idx\n\n        double dist = hypot(dx, dy); // 2D distance\n        double scale = (dist == 0.0) ? 1.0 : std::min(1.0, max_length / dist);\n\n        if (abs_dx >= abs_dy)\n        {\n            int error_y = abs_dx / 2;\n            return bresenham2D_raytraceFree(abs_dx, abs_dy, error_y, offset_dx, offset_dy, offset, (unsigned int)(scale * abs_dx));\n        }else{\n            int error_x = abs_dy / 2;\n            return bresenham2D_raytraceFree(abs_dy, abs_dx, error_x, offset_dy, offset_dx, offset, (unsigned int)(scale * abs_dy));\n        }\n    }\n\n    bool AirGroundSimExploreLayer::raytraceFree3D(int x0, int y0, int x1, int y1){ // point0 should be initial point (frontierB_cell)\n\n        int dx = x1 - x0;\n        int dy = y1 - y0;\n\n        unsigned int abs_dx = abs(dx); // abs delta x\n        unsigned int abs_dy = abs(dy); // abs delta y\n\n        unsigned int size_x = (layered_costmap_->getCostmap())->getSizeInCellsX();\n\n        int offset_dx = (dx > 0 ? 1 : -1); // dx in map idx\n        int offset_dy = (dy > 0 ? 1 : -1) * size_x; // dy in map idx\n\n        unsigned int max_length = std::numeric_limits<unsigned int>::max();\n\n        unsigned int offset = y0 * size_x + x0; // point0 idx\n\n        double dist = hypot(dx, dy); // 2D distance\n        double scale = (dist == 0.0) ? 1.0 : std::min(1.0, max_length / dist);\n\n        if (abs_dx >= abs_dy)\n        {\n            int error_y = abs_dx / 2;\n            return bresenham2D_raytraceFree3D(abs_dx, abs_dy, error_y, offset_dx, offset_dy, offset, (unsigned int)(scale * abs_dx));\n        }else{\n            int error_x = abs_dy / 2;\n            return bresenham2D_raytraceFree3D(abs_dy, abs_dx, error_x, offset_dy, offset_dx, offset, (unsigned int)(scale * abs_dy));\n        }\n    }\n\n    bool AirGroundSimExploreLayer::bresenham2D_raytraceFree(unsigned int abs_da, unsigned int abs_db, int error_b, int offset_a, int offset_b, unsigned int offset, unsigned int max_length){\n\n        // abs_da > abs_db\n\n        unsigned int end = std::min(max_length, abs_da);\n\n        for (unsigned int i = 0; i < end; ++i)\n        {\n            if (charmap_no_inflation_[offset] == LETHAL_OBSTACLE)\n            {\n                return false;\n            }\n            offset += offset_a;\n            error_b += abs_db;\n            if ((unsigned int)error_b >= abs_da)\n            {\n                offset += offset_b;\n                error_b -= abs_da;\n            }\n\n        }\n\n        if (charmap_no_inflation_[offset] == LETHAL_OBSTACLE)\n        {\n            return false;\n        }\n        else\n        {\n            return true;\n        }\n    }\n\n    bool AirGroundSimExploreLayer::bresenham2D_raytraceFree3D(unsigned int abs_da, unsigned int abs_db, int error_b, int offset_a, int offset_b, unsigned int offset, unsigned int max_length){\n\n        if (abs_da <= 3){\n            return true;\n        }\n\n        // abs_da > abs_db\n        unsigned int mx, my;\n\n        double block_da = abs_da / uav_height_ * obstacle_height_;\n\n        for (unsigned int i = 0; i < (int)block_da; ++i)\n        {\n            (layered_costmap_->getCostmap())->indexToCells(offset, mx, my);\n            if ((layered_costmap_->getCostmap())->getCost(mx, my) != FREE_SPACE)\n            {\n                return false;\n            }\n            offset += offset_a;\n            error_b += abs_db;\n            if ((unsigned int)error_b >= abs_da)\n            {\n                offset += offset_b;\n                error_b -= abs_da;\n            }\n        }\n        (layered_costmap_->getCostmap())->indexToCells(offset, mx, my);\n        if ((layered_costmap_->getCostmap())->getCost(mx, my) != FREE_SPACE)\n        {\n            return false;\n        }\n        else\n        {\n            return true;\n        }\n    }\n\n    void AirGroundSimExploreLayer::genCharmapNoInflation() {\n\n        unsigned int charmap_size = size_x_ * size_y_;\n        bool static_0_flag = false, sensor_1_flag = false, sensor_0_flag = false;\n        charmap_no_inflation_ = std::vector<unsigned char>(charmap_size);\n        boost::shared_ptr<uav_obstacle_layer::UAVObstacleLayer> uav_obstacle_layer, ground_obstacle_layer, static_layer;\n        //unsigned char *charmap_air, *charmap_ground, *charmap_static;\n        std::vector<boost::shared_ptr<costmap_2d::Layer> > *plugins = layered_costmap_->getPlugins();\n        for (std::vector<boost::shared_ptr<costmap_2d::Layer> >::iterator pluginp = plugins->begin();\n             pluginp != plugins->end(); ++pluginp) {\n\n            boost::shared_ptr<costmap_2d::Layer> plugin = *pluginp;\n\n            if (plugin->getName().find(\"sensor_0\") != std::string::npos) {\n                uav_obstacle_layer = boost::static_pointer_cast<uav_obstacle_layer::UAVObstacleLayer>(plugin);\n                //inflated_visited = uav_obstacle_layer->inflated_visited_;\n                sensor_0_flag = true;\n            }\n\n            if (plugin->getName().find(\"sensor_1\") != std::string::npos) {\n                ground_obstacle_layer = boost::static_pointer_cast<uav_obstacle_layer::UAVObstacleLayer>(\n                        plugin);\n                sensor_1_flag = true;\n            }\n            if (plugin->getName().find(\"static_0\") != std::string::npos) {\n                static_layer = boost::static_pointer_cast<uav_obstacle_layer::UAVObstacleLayer>(plugin);\n                static_0_flag = true;\n            }\n        }\n\n        // Merge all charmaps without inflation\n\n        unsigned int mx, my;\n        unsigned char cost_air, cost_ground, cost_static;\n        for (int i = 0; i < size_x_ * size_y_; i++) {\n            indexToCells(i, mx, my);\n\n\n            if (sensor_0_flag)\n                cost_air = uav_obstacle_layer->getCost(mx, my);\n            else\n                cost_air = NO_INFORMATION;\n\n            if (sensor_1_flag)\n                cost_ground = ground_obstacle_layer->getCost(mx, my);\n            else\n                cost_ground = NO_INFORMATION;\n\n            if (static_0_flag)\n                cost_static = static_layer->getCost(mx, my);\n            else\n                cost_static = NO_INFORMATION;\n\n            if (cost_air != NO_INFORMATION)\n                charmap_no_inflation_[i] = cost_air;\n            else if (cost_ground == LETHAL_OBSTACLE || cost_static == LETHAL_OBSTACLE)\n                charmap_no_inflation_[i] = LETHAL_OBSTACLE;\n            else if (cost_ground == FREE_SPACE || cost_static == FREE_SPACE)\n                charmap_no_inflation_[i] = FREE_SPACE;\n            else\n                charmap_no_inflation_[i] = NO_INFORMATION;\n\n        }\n    }\n\n    void AirGroundSimExploreLayer::pubGridmapNoInflation() {\n\n        grid_map_no_inflation_.info.width             = layered_costmap_->getCostmap()->getSizeInCellsX();\n        grid_map_no_inflation_.info.height            = layered_costmap_->getCostmap()->getSizeInCellsY();\n\n        unsigned char tmp_map_val;\n\n        grid_map_no_inflation_.data.clear();\n\n        for (unsigned int idx = 0; idx < size_x_ * size_y_; idx++){\n            tmp_map_val = charmap_no_inflation_[idx];\n            grid_map_no_inflation_.data.push_back(tmp_map_val);\n        }\n\n        gridmap_no_inflation_pub_.publish(grid_map_no_inflation_);\n    }\n\n    void AirGroundSimExploreLayer::genInfoVec(std::list<FrontierCell> &frontierA_cell_list, std::list<FrontierCell> &frontierB_cell_list) {\n        frontierA_info_vec_ = std::vector<double>((size_x_ * size_y_), 0.0);\n        frontierB_info_vec_ = std::vector<double>((size_x_ * size_y_), 0.0);\n        unsigned int temp_idx;\n        BOOST_FOREACH(frontier_exploration::FrontierCell frontierA_cell, frontierA_cell_list) {\n                        temp_idx = (layered_costmap_->getCostmap())->getIndex(\n                                (unsigned int) frontierA_cell.frontier_cell_point.x,\n                                (unsigned int) frontierA_cell.frontier_cell_point.y);\n                        frontierA_info_vec_[temp_idx] = info_weight_frontierA_ * frontierA_cell.utility;\n\n                    }\n        BOOST_FOREACH(frontier_exploration::FrontierCell frontierB_cell, frontierB_cell_list) {\n                        temp_idx = (layered_costmap_->getCostmap())->getIndex(\n                                (unsigned int) frontierB_cell.frontier_cell_point.x,\n                                (unsigned int) frontierB_cell.frontier_cell_point.y);\n                        frontierB_info_vec_[temp_idx] = info_weight_frontierB_ * frontierB_cell.utility;\n                    }\n    }\n\n    void AirGroundSimExploreLayer::countProgress(){\n\n        unsigned int explored_cnt = 0;\n        for(unsigned int i = 0; i < charmap_no_inflation_.size(); i++){\n            if (charmap_no_inflation_[i] != NO_INFORMATION)\n                explored_cnt++;\n        }\n        if (!charmap_no_inflation_.empty())\n            ROS_INFO_STREAM(\"Exploration progress: \" << (double(explored_cnt) / charmap_no_inflation_.size()) * 100 << \"%\");\n    }\n\n    // ***************** Above are new functions ***************************\n\n    bool AirGroundSimExploreLayer::updateBoundaryPolygonService(frontier_exploration::UpdateBoundaryPolygon::Request &req, frontier_exploration::UpdateBoundaryPolygon::Response &res){\n\n        ROS_WARN(\"Got update srv req!\");\n\n        return updateBoundaryPolygon(req.explore_boundary);\n\n    }\n\n    void AirGroundSimExploreLayer::reset(){\n\n        //reset costmap_ char array to default values\n        marked_ = false;\n        configured_ = false;\n        memset(costmap_, default_value_, size_x_ * size_y_ * sizeof(unsigned char));\n\n    }\n\n    bool AirGroundSimExploreLayer::updateBoundaryPolygon(geometry_msgs::PolygonStamped polygon_stamped){\n\n        //clear existing boundary, if any\n        polygon_.points.clear();\n\n        //error if no transform available between polygon and costmap\n        if(!tf_listener_.waitForTransform(layered_costmap_->getGlobalFrameID(), polygon_stamped.header.frame_id,ros::Time::now(),ros::Duration(10))) {\n            ROS_ERROR_STREAM(\"Update Boundary: Couldn't transform from \"<<layered_costmap_->getGlobalFrameID()<<\" to \"<< polygon_stamped.header.frame_id);\n            return false;\n        }\n\n        //Transform all points of boundary polygon into costmap frame\n        geometry_msgs::PointStamped in, out;\n        in.header = polygon_stamped.header;\n        BOOST_FOREACH(geometry_msgs::Point32 point32, polygon_stamped.polygon.points){\n            in.point = costmap_2d::toPoint(point32);\n            tf_listener_.transformPoint(layered_costmap_->getGlobalFrameID(),in,out);\n            polygon_.points.push_back(costmap_2d::toPoint32(out.point));\n        }\n\n        //if empty boundary provided, set to whole map\n        if(polygon_.points.empty()){\n            geometry_msgs::Point32 temp;\n            temp.x = getOriginX();\n            temp.y = getOriginY();\n            polygon_.points.push_back(temp);\n            temp.y = getSizeInMetersY();\n            polygon_.points.push_back(temp);\n            temp.x = getSizeInMetersX();\n            polygon_.points.push_back(temp);\n            temp.y = getOriginY();\n            polygon_.points.push_back(temp);\n        }\n\n        if(resize_to_boundary_){\n            updateOrigin(0,0);\n\n            //Find map size and origin by finding min/max points of polygon\n            double min_x = std::numeric_limits<double>::infinity();\n            double min_y = std::numeric_limits<double>::infinity();\n            double max_x = -std::numeric_limits<double>::infinity();\n            double max_y = -std::numeric_limits<double>::infinity();\n\n            BOOST_FOREACH(geometry_msgs::Point32 point, polygon_.points){\n                min_x = std::min(min_x,(double)point.x);\n                min_y = std::min(min_y,(double)point.y);\n                max_x = std::max(max_x,(double)point.x);\n                max_y = std::max(max_y,(double)point.y);\n            }\n\n            //resize the costmap to polygon boundaries, don't change resolution\n            int size_x, size_y;\n            worldToMapNoBounds(max_x - min_x, max_y - min_y, size_x, size_y);\n            layered_costmap_->resizeMap(size_x, size_y, layered_costmap_->getCostmap()->getResolution(), min_x, min_y);\n            matchSize();\n        }\n\n        configured_ = true;\n        marked_ = false;\n        return true;\n    }\n\n    void AirGroundSimExploreLayer::updateBounds(double robot_x, double robot_y, double robot_yaw, double* min_x,\n                                           double* min_y, double* max_x, double* max_y){\n\n        //check if layer is enabled and configured with a boundary\n        if (!enabled_ || !configured_){ return; }\n\n        //update the whole costmap\n        *min_x = getOriginX();\n        *min_y = getOriginY();\n        *max_x = getSizeInMetersX()+getOriginX();\n        *max_y = getSizeInMetersY()+getOriginY();\n    }\n\n    void AirGroundSimExploreLayer::updateCosts(costmap_2d::Costmap2D& master_grid, int min_i, int min_j, int max_i, int max_j){\n        //check if layer is enabled and configured with a boundary\n        if (!enabled_ || !configured_){ return; }\n\n        //draw lines between each point in polygon\n        MarkCell marker(costmap_, LETHAL_OBSTACLE);\n\n        //circular iterator\n        for(int i = 0, j = polygon_.points.size()-1; i < polygon_.points.size(); j = i++){\n\n            int x_1, y_1, x_2, y_2;\n            worldToMapEnforceBounds(polygon_.points[i].x, polygon_.points[i].y, x_1,y_1);\n            worldToMapEnforceBounds(polygon_.points[j].x, polygon_.points[j].y, x_2,y_2);\n\n            raytraceLine(marker,x_1,y_1,x_2,y_2);\n        }\n        //update the master grid from the internal costmap\n        mapUpdateKeepObstacles(master_grid, min_i, min_j, max_i, max_j);\n\n\n    }\n\n    void AirGroundSimExploreLayer::mapUpdateKeepObstacles(costmap_2d::Costmap2D& master_grid, int min_i, int min_j, int max_i, int max_j){\n        if (!enabled_)\n            return;\n\n        unsigned char* master = master_grid.getCharMap();\n        unsigned int span = master_grid.getSizeInCellsX();\n\n        for (int j = min_j; j < max_j; j++)\n        {\n            unsigned int it = span*j+min_i;\n            for (int i = min_i; i < max_i; i++)\n            {\n                //only update master grid if local costmap cell is lethal/higher value, and is not overwriting a lethal obstacle in the master grid\n                if(master[it] != LETHAL_OBSTACLE && (costmap_[it] == LETHAL_OBSTACLE || costmap_[it] > master[it])){\n                    master[it] = costmap_[it];\n                }\n                it++;\n            }\n        }\n        marked_ = true;\n    }\n\n    bool AirGroundSimExploreLayer::blacklistPointService(frontier_exploration::BlacklistPoint::Request &req, frontier_exploration::BlacklistPoint::Response &res) {\n        // Add point to blacklist\n        blacklist_.push_back(req.point);\n        ROS_WARN(\"Blacklist point added %f, %f\", req.point.x, req.point.y);\n\n        // Show point in blacklist topic\n        visualization_msgs::Marker marker;\n        marker.type = visualization_msgs::Marker::CYLINDER;\n        marker.ns = \"blacklist\";\n        marker.id = blacklist_.size();\n        marker.action = visualization_msgs::Marker::ADD;\n\n        marker.header.frame_id = global_frame_;\n        marker.header.stamp = ros::Time::now();\n\n        marker.pose.position = req.point;\n        marker.pose.orientation.w = 1.0;\n\n        // Scale is the diameter of the shape\n        marker.scale.x = 2 * blacklist_radius_;\n        marker.scale.y = 2 * blacklist_radius_;\n        // Circle\n        marker.scale.z = 0.05;\n\n        marker.color.r = 1.0;\n        marker.color.a = 0.6;\n\n        blacklist_marker_pub_.publish(marker);\n\n        // All is good :)\n        return true;\n    }\n\n    bool AirGroundSimExploreLayer::clearBlacklistService(std_srvs::Empty::Request &req, std_srvs::Empty::Response &resp) {\n        // Clear the list\n        blacklist_.clear();\n        ROS_WARN(\"Blacklist cleared\");\n\n        // Delete all markers from visualization\n        visualization_msgs::Marker marker;\n        marker.type = visualization_msgs::Marker::CYLINDER;\n        marker.ns = \"blacklist\";\n        // The constant does not exist in ROS Indigo, although functionality is implemented. We use our own.\n        marker.action = DELETEALL;\n\n        // All is good :)\n        return true;\n    }\n    \n    void AirGroundSimExploreLayer::uav_odom_call_back(const nav_msgs::Odometry &uav_odom_origin){\n\n        //ROS_WARN(\"receive uav odom\");\n        uav_odom_ = uav_odom_origin;\n        transformOdom(uav_odom_,\"\");\n\n        Eigen::VectorXd state = Eigen::VectorXd::Zero(4);\n        state(0)=uav_odom_.pose.pose.position.x;\n        state(1)=uav_odom_.twist.twist.linear.x;\n        state(2)=uav_odom_.pose.pose.position.y;\n        state(3)=uav_odom_.twist.twist.linear.y;\n        uav_pos = state;\n\n        uav_flag_odom_ = true;\n    }\n    \n    void AirGroundSimExploreLayer::ugv_odom_call_back(const nav_msgs::Odometry ugv_odom_origin){\n\n        //ROS_WARN(\"receive ugv odom\");\n        std::cout << \"ori y: \" <<  ugv_odom_origin.pose.pose.position.y << std::endl;\n\n        ugv_odom_ = ugv_odom_origin;\n        transformOdom(ugv_odom_, \"/robot_1/base_link\");\n\n        Eigen::Quaterniond ori(ugv_odom_.pose.pose.orientation.w,  ugv_odom_.pose.pose.orientation.x,\n                        ugv_odom_.pose.pose.orientation.y,  ugv_odom_.pose.pose.orientation.z);\n        Eigen::Matrix3d Rgi = ori.toRotationMatrix();\n        Eigen::VectorXd state = Eigen::VectorXd::Zero(6);\n        state(0)=ugv_odom_.pose.pose.position.x;\n        state(1)=ugv_odom_.twist.twist.linear.x;\n        state(2)=ugv_odom_.pose.pose.position.y;\n\n        std::cout << \"state: \" << state(2) << \", y: \" << ugv_odom_.pose.pose.position.y << std::endl;\n        state(3)=ugv_odom_.twist.twist.linear.y;\n\n        double phi = std::asin(Rgi(2,1));\n        state(4)=atan2(-Rgi(0,1)/cos(phi),Rgi(1,1)/cos(phi));\n        state(5)=ugv_odom_.twist.twist.angular.z;\n        ugv_pos = state;\n\n        ugv_flag_odom_ = true;\n\n        std::cout << \"finished ugv odom cb\" << std::endl;\n    }\n}\n",
+			"file": "plugins/air_ground_sim_explore_layer.cpp",
+			"file_size": 89936,
+			"file_write_time": 131638611266542936,
+			"settings":
+			{
+				"buffer_size": 87446,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "notes/frontier_search_classnotes.md",
+			"settings":
+			{
+				"buffer_size": 862,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "launch/real_ugv_only.launch",
+			"settings":
+			{
+				"buffer_size": 4235,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/explore_server.cpp",
+			"settings":
+			{
+				"buffer_size": 13124,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/explore_client.cpp",
+			"settings":
+			{
+				"buffer_size": 8018,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/frontier_exploration/path_search.h",
+			"settings":
+			{
+				"buffer_size": 4897,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "plugins/path_search.cpp",
+			"settings":
+			{
+				"buffer_size": 28601,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/frontier_exploration/air_ground_sim_explore_layer.h",
+			"settings":
+			{
+				"buffer_size": 13921,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 92.0,
+		"last_filter": "package control rem",
+		"selected_items":
+		[
+			[
+				"package control rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimeClang",
+				"Preferences: SublimeClang Settings – User"
+			],
+			[
+				"package control",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sublimeclang se",
+				"Preferences: SublimeClang Settings – User"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 223.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/frontier_exploration",
+		"/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/frontier_exploration/include",
+		"/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/frontier_exploration/include/frontier_exploration",
+		"/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/frontier_exploration/launch",
+		"/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/frontier_exploration/notes",
+		"/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/frontier_exploration/plugins",
+		"/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/frontier_exploration/src"
+	],
+	"file_history":
+	[
+		"/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/frontier_exploration/untitled",
+		"/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/frontier_exploration/src/explore_starter.cpp",
+		"/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/frontier_exploration/launch/uav_ugv_obstacle.launch",
+		"/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/sim_odom_controller/src/sim_odom_controller.cpp",
+		"/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/frontier_exploration/include/frontier_exploration/path_search.h",
+		"/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/frontier_exploration/plugins/path_search.cpp",
+		"/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/frontier_exploration/src/explore_client.cpp",
+		"/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/frontier_exploration/include/frontier_exploration/frontier_search.h",
+		"/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/frontier_exploration/src/frontier_search.cpp",
+		"/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/frontier_exploration/launch/real_ugv_lab.launch",
+		"/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/frontier_exploration/plugins/bounded_explore_layer.cpp",
+		"/home/chengdaqian/.config/sublime-text-3/Packages/User/SublimeClang.sublime-settings",
+		"/home/chengdaqian/.config/sublime-text-3/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/home/chengdaqian/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/chengdaqian/loam_velodyne/src/laserMapping.cpp",
+		"/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/loam_velodyne/src/laserMapping.cpp",
+		"/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/frontier_exploration/plugins/air_ground_sim_explore_layer.cpp",
+		"/home/chengdaqian/loam_velodyne/src/scanRegistration.cpp",
+		"/usr/include/pcl-1.7/pcl/search/kdtree.h",
+		"/usr/include/pcl-1.7/pcl/impl/point_types.hpp",
+		"/media/chengdaqian/084CC8EB6567BC7F/catkin_ws/pos_vel_mocap/src/pos_vel_mocap.cpp",
+		"/home/chengdaqian/loam_velodyne/src/laserOdometry.cpp",
+		"/home/gf/catkin_ws/src/laser_estimation/loam_velodyne/CMakeLists.txt",
+		"/home/gf/catkin_ws/src/planner/pcd_trajectory/src/pcd_trajectory_node.cpp",
+		"/home/gf/catkin_ws/src/laser_estimation/loam_velodyne/src/transformMaintenance.cpp",
+		"/home/gf/catkin_ws/src/laser_estimation/loam_velodyne/src/loam_velodyne.sublime-project",
+		"/home/gf/catkin_ws/src/laser_estimation/loam_velodyne/src/laserOdom_v1.cpp",
+		"/home/gf/catkin_ws/src/laser_estimation/loam_velodyne/src/laserOdom_v2.cpp",
+		"/home/gf/catkin_ws/src/laser_estimation/loam_velodyne/src/globalCorrection.cpp",
+		"/home/gf/catkin_ws/src/laser_estimation/loam_velodyne/src/laser_vins_compare.cpp",
+		"/home/bbgf/my_catkin_ws/laser_ekf.launch",
+		"/home/bbgf/my_catkin_ws/src/loam_velodyne/loam_velodyne.launch",
+		"/home/bbgf/my_catkin_ws/src/loam_continuous/src/scanRegistration.cpp",
+		"/home/bbgf/my_catkin_ws/src/loam_velodyne/CMakeLists.txt",
+		"/home/bbgf/Downloads/loam_velodyne-master/src/laserOdometry.cpp",
+		"/home/bbgf/.config/sublime-text-3/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/home/bbgf/.config/sublime-text-3/Packages/User/SublimeClang.sublime-settings",
+		"/home/bbgf/Downloads/loam_velodyne-master/src/laserMapping.cpp",
+		"/home/bbgf/my_catkin_ws/src/loam_velodyne/src/scanRegistration.cpp",
+		"/home/bbgf/Downloads/loam_velodyne-master/src/scanRegistration.cpp",
+		"/home/bbgf/my_catkin_ws/src/loam_continuous/src/laserOdometry.cpp",
+		"/home/bbgf/my_catkin_ws/src/loam_continuous/src/laserMapping.cpp",
+		"/home/bbgf/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/bbgf/my_catkin_ws/src/loam_velodyne/src/loam_velodyne.sublime-project",
+		"/home/bbgf/Dropbox/ELEC5600/src/ekf_node_quaternion.cpp",
+		"/home/bbgf/Desktop/loam_velodyne/src/laserMapping.cpp",
+		"/home/bbgf/my_catkin_ws/src/loam_continuous/src/transformMaintenance.cpp",
+		"/home/bbgf/my_catkin_ws/src/laser_odom/src/test_icp.cpp",
+		"/home/bbgf/my_catkin_ws/src/loam_velodyne/src/laserOdometry.cpp",
+		"/home/bbgf/my_catkin_ws/src/loam_velodyne/src/transformMaintenance.cpp",
+		"/home/bbgf/my_catkin_ws/src/loam_velodyne/src/laserMapping.cpp",
+		"/home/bbgf/my_catkin_ws/src/ekf/src/ekf_node.cpp",
+		"/home/bbgf/my_catkin_ws/src/ekf/src/ekf.cpp",
+		"/home/bbgf/my_catkin_ws/src/m100_laser/estimation/multi_sensor_ukf/src/quadrotor_ukf_node.cpp",
+		"/home/bbgf/my_catkin_ws/src/ekf/launch/bag_tag.launch",
+		"/home/bbgf/my_catkin_ws/src/ekf/CMakeLists.txt",
+		"/home/bbgf/my_catkin_ws/src/laser_odom/CMakeLists.txt",
+		"/home/bbgf/my_catkin_ws/src/laser_odom/package.xml",
+		"/home/bbgf/my_catkin_ws/src/tag_detector/src/tag_detector_node.cpp",
+		"/home/bbgf/my_catkin_ws/src/ekf/src/ekf.sublime-project",
+		"/home/bbgf/my_catkin_ws/src/ekf/src/ekf.h",
+		"/home/bbgf/my_ws/src/ekf/launch/bag_tag.launch",
+		"/home/bbgf/tra_simu/src/simulation.launch",
+		"/home/bbgf/my_ws/src/zmart_cv/include/zmart_cv/zmart_img_proc.hpp",
+		"/home/bbgf/my_catkin_ws/src/voxel_trajectory/src/voxel_trajectory/octomap.cpp",
+		"/usr/include/eigen3/Eigen/src/Core/MatrixBase.h",
+		"/home/bbgf/my_ws/src/ekf/src/ekf.cpp",
+		"/home/bbgf/my_ws/src/ekf/src/pose.h",
+		"/home/bbgf/my_ws/src/ekf/src/ekf.h",
+		"/home/bbgf/Desktop/ukf/quadrotor_ukf_lite/src/quadrotor_ukf.h",
+		"/home/bbgf/my_ws/src/ekf/src/ekf_node.cpp",
+		"/home/bbgf/my_ws/src/tag_detector/src/tag_detector_node.cpp",
+		"/home/bbgf/my_ws/src/ekf/src/ekf.sublime-",
+		"/home/bbgf/Desktop/ekf_node_1118.cpp",
+		"/home/bbgf/my_ws/src/zmart_cv/src/zmart_img_proc.cpp",
+		"/home/bbgf/my_ws/src/ekf/src/ekf.sublime-project",
+		"/home/bbgf/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/bbgf/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/bbgf/my_ws/src/tag_detector/launch/bag_tag.launch",
+		"/home/bbgf/my_ws/src/zmart_cv/src/zmart_img_gao.cpp",
+		"/home/bbgf/my_ws/src/zmart_cv/CMakeLists.txt",
+		"/home/bbgf/Desktop/odroid_ws/your_code/trajectory.h",
+		"/home/bbgf/my_ws/src/zmart_cv/src/1.sublime-project",
+		"/usr/include/opencv2/contrib/openfabmap.hpp",
+		"/usr/include/opencv2/calib3d/calib3d.hpp",
+		"/home/bbgf/my_ws/src/zmart_cv/src/visual_ref.cpp",
+		"/home/bbgf/my_ws/test.cpp",
+		"/home/bbgf/my_ws/src/bluefox2/launch/single_nodelet.launch",
+		"/home/bbgf/my_ws/src/bluefox2/launch/single_node.launch",
+		"/home/bbgf/桌面/#ifndef control_funtion_h",
+		"/home/bbgf/my_ws/src/camera_base/launch/extras.launch",
+		"/home/bbgf/my_ws/src/bluefox2/launch/general.launch",
+		"/home/bbgf/my_ws/src/camera_base-master/launch/extras.launch",
+		"/home/bbgf/桌面/ukf/quadrotor_ukf_lite/src/quadrotor_ukf.cpp",
+		"/home/bbgf/桌面/ukf/quadrotor_ukf_lite/src/quadrotor_ukf_node.cpp",
+		"/home/bbgf/桌面/ukf/quadrotor_ukf_lite/src/quadrotor_ukf.h",
+		"/home/bbgf/tra_simu/src/trajectory_generator/src/polynomial_trajectory_generator.h",
+		"/home/bbgf/my_ws/src/zmart_cv/src/zmart_img_frontend.cpp",
+		"/home/bbgf/my_ws/src/tao/src/tao/img_frontend.cpp",
+		"/home/bbgf/my_ws/data/calib_file3.xml",
+		"/home/bbgf/my_ws/src/tao/include/tao/img_frontend.hpp",
+		"/home/bbgf/tra_simu/src/trajectory_generator/src/trajectory_generator_node2.cpp",
+		"/home/bbgf/my_ws/data/calib_file2.xml",
+		"/home/bbgf/my_ws/src/using_markers/src/points_and_lines.cpp",
+		"/home/bbgf/my_ws/data/2015-10-03-22-37-05.bag",
+		"/usr/include/eigen3/Eigen/src/Core/Matrix.h",
+		"/home/bbgf/my_ws/src/zmart_cv/src/test.cpp",
+		"/home/bbgf/tra_simu/src/pose_utils/src/pose_utils.cpp",
+		"/home/bbgf/tra_simu/src/pose_utils/include/pose_utils.h",
+		"/home/bbgf/my_ws/src/zmart_cv/src/a.out",
+		"/home/bbgf/my_ws/src/zmart_cv/launch/zmart_cv.launch",
+		"/home/bbgf/my_ws/src/zmart_cv/src/test",
+		"/home/bbgf/my_ws/src/zmart_cv/src/zmart_cv_test.cpp",
+		"/home/bbgf/zmart_cv_test.sublime-workspace",
+		"/home/bbgf/my_ws/src/zmart_cv/src/zmart_cv.sublime-project",
+		"/home/bbgf/tra_simu/src/trajectory_generator/CMakeLists.txt",
+		"/home/bbgf/tra_simu/src/trajectory_generator/src/trajectory_generator_node.cpp",
+		"/home/bbgf/my_ws/src/simulation/so3_quadrotor_simulator/src/quadrotor_simulator_so3.cpp"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 123.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"traj_viz",
+			"selected_marker_",
+			"ori",
+			"tree_time_step",
+			"ground_range_",
+			"selected_",
+			"traj_viz",
+			"path_search",
+			"traj_viz",
+			"selected_traj",
+			"tree_time_step",
+			"ground_range",
+			"input_",
+			"FrontierExplorationServer",
+			"explorationServer",
+			"movebase",
+			"robot pose",
+			"transformOdom",
+			"Couldn't transform",
+			"couldn't transform",
+			"base",
+			"/base",
+			"couldn't transform",
+			"robot_1",
+			"path_search_rho",
+			"path_seaarch",
+			"path_sea",
+			"wx_min",
+			"frontiersearch",
+			"frontier_search",
+			"wx_max",
+			"boundary_m",
+			"wx_max",
+			"boundary_min",
+			"wx_max",
+			"boundary_min",
+			"min",
+			"boundary",
+			"frontier_search_boundary_min",
+			"#define",
+			"wx_min",
+			"\"options\"",
+			"options",
+			"tree",
+			"poly",
+			"traj_viz",
+			"viz",
+			"exception",
+			"transformO",
+			"ugv_max",
+			"ugv_max_speed",
+			"Path",
+			"traj_viz",
+			"uav_ma",
+			"gridmap",
+			"traj",
+			"aft",
+			"check cornor points",
+			"deltaR",
+			"imuTransHandler",
+			"subImuTrans",
+			"isDegenerate",
+			"TransformToStart",
+			"AccumulateRotation",
+			"laserCloudCorner_toMapNum",
+			"laserCloudCorner_toMapNum:",
+			"cube",
+			"laserCloudCornerArray",
+			"kdtreeCornerFromMap",
+			"trans",
+			"laserCloudIn",
+			"scanPeriod",
+			"Down",
+			"down",
+			"70.0",
+			"world",
+			"vins_odom",
+			"/map",
+			"indoor",
+			"100.0",
+			"0.1",
+			"0.05",
+			"80.0",
+			"100.0",
+			"50",
+			"80",
+			"60",
+			"70",
+			"80",
+			"down",
+			"downS",
+			"frame_id",
+			"laserCloudLessSharpHandler",
+			"s",
+			"iterCount",
+			"s = ",
+			"iterCount",
+			"iterCoun",
+			"rate",
+			"iterCount",
+			"imu",
+			"imuShiftFromStartX",
+			"iterCount",
+			"if (",
+			"iter",
+			"if(",
+			"if (",
+			"if(",
+			"if( 1 )",
+			"iter",
+			"if(1)",
+			"iter",
+			"0.3",
+			"iter",
+			"pubSurfPointsLessFlatPointer",
+			"surfPointsLessFlat",
+			"iter",
+			"setLeafSize",
+			"70",
+			"5",
+			"downSizeFilterCorner",
+			"rate",
+			"laserOdometryHandler",
+			"nearestKSearch",
+			"downSizeFilterSurf",
+			"deltaT",
+			"deltT",
+			"iter"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"double"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "plugins/air_ground_sim_explore_layer.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 87446,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22345,
+								22372
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7281.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "notes/frontier_search_classnotes.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								862,
+								862
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "launch/real_ugv_only.launch",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ros Snippets/roslaunch.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/explore_server.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1222,
+								1222
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/explore_client.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8018,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1447,
+								1447
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 379.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "include/frontier_exploration/path_search.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4897,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1170.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "plugins/path_search.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5007.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "include/frontier_exploration/air_ground_sim_explore_layer.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13508,
+								13508
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 215.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"src/ekf_node.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/my_catkin_ws/src/pcd_trajectory_indoor/pcd_trajectory/src/pcd_trajectory.sublime-project"
+			],
+			[
+				"\\",
+				"~/my_catkin_ws/src/loam_velodyne/src/loam_velodyne.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 774.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

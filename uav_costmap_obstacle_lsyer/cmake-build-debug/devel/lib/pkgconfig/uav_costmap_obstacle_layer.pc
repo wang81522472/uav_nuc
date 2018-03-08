@@ -1,0 +1,8 @@
+prefix=/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/uav_costmap_obstacle_layer/cmake-build-debug/devel
+
+Name: uav_costmap_obstacle_layer
+Description: Description of uav_costmap_obstacle_layer
+Version: 1.0.0
+Cflags: -I/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/uav_costmap_obstacle_layer/include
+Libs: -L/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/uav_costmap_obstacle_layer/cmake-build-debug/devel/lib -luav_costmap_obstacle_layer
+Requires: costmap_2d dynamic_reconfigure roscpp sensor_msgs

@@ -1,0 +1,6 @@
+<launch>
+<node pkg="costmap_to_pointcloud" type="costmap_to_pointcloud" name="costmap_to_pointcloud">
+                <remap from="~/costmap_topic" to="/explore_server/explore_costmap/air_ground_explore/gridmap_no_inflation"/>
+</node>
+
+</launch>

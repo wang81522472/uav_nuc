@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: pointcloud2_filter
+Description: Description of pointcloud2_filter
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

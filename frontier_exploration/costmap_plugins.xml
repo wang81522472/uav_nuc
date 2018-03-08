@@ -1,0 +1,12 @@
+<class_libraries>
+  <library path="lib/libexplore_costmap">
+    <class type="frontier_exploration::BoundedExploreLayer" base_class_type="costmap_2d::Layer">
+      <description>Layer for conducting frontier exploration with the original method</description>
+    </class>
+  </library>
+  <library path="lib/libair_ground_sim_explore_costmap">
+    <class type="frontier_exploration::AirGroundSimExploreLayer" base_class_type="costmap_2d::Layer">
+      <description>Layer for conducting frontier-based Air-Ground-Exploration</description>
+    </class>
+  </library>
+</class_libraries>

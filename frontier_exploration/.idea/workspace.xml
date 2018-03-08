@@ -1,0 +1,1756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="frontier_exploration" targetName="actionlib_generate_messages_py" />
+      <config projectName="frontier_exploration" targetName="map_msgs_generate_messages_eus" />
+      <config projectName="frontier_exploration" targetName="pcl_msgs_generate_messages_cpp" />
+      <config projectName="frontier_exploration" targetName="pcl_msgs_generate_messages_eus" />
+      <config projectName="frontier_exploration" targetName="pcl_ros_gencfg" />
+      <config projectName="frontier_exploration" targetName="roscpp_generate_messages_nodejs" />
+      <config projectName="frontier_exploration" targetName="tf_generate_messages_py" />
+      <config projectName="frontier_exploration" targetName="_frontier_exploration_generate_messages_check_deps_GetNextFrontier" />
+      <config projectName="frontier_exploration" targetName="download_extra_data" />
+      <config projectName="frontier_exploration" targetName="map_msgs_generate_messages_nodejs" />
+      <config projectName="frontier_exploration" targetName="nav_msgs_generate_messages_nodejs" />
+      <config projectName="frontier_exploration" targetName="tf2_msgs_generate_messages_py" />
+      <config projectName="frontier_exploration" targetName="_run_tests_frontier_exploration_gtest_frontier_search_tests" />
+      <config projectName="frontier_exploration" targetName="explore_costmap" />
+      <config projectName="frontier_exploration" targetName="bond_generate_messages_eus" />
+      <config projectName="frontier_exploration" targetName="actionlib_msgs_generate_messages_nodejs" />
+      <config projectName="frontier_exploration" targetName="nodelet_generate_messages_py" />
+      <config projectName="frontier_exploration" targetName="frontier_exploration_generate_messages" />
+      <config projectName="frontier_exploration" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="frontier_exploration" targetName="geometry_tools_tests" />
+      <config projectName="frontier_exploration" targetName="visualization_msgs_generate_messages_eus" />
+      <config projectName="frontier_exploration" targetName="explore_client" />
+      <config projectName="frontier_exploration" targetName="tf2_msgs_generate_messages_lisp" />
+      <config projectName="frontier_exploration" targetName="move_base_msgs_generate_messages_eus" />
+      <config projectName="frontier_exploration" targetName="actionlib_msgs_generate_messages_cpp" />
+      <config projectName="frontier_exploration" targetName="roscpp_generate_messages_cpp" />
+      <config projectName="frontier_exploration" targetName="tf_generate_messages_cpp" />
+      <config projectName="frontier_exploration" targetName="gtest_main" />
+      <config projectName="frontier_exploration" targetName="actionlib_generate_messages_eus" />
+      <config projectName="frontier_exploration" targetName="_frontier_exploration_generate_messages_check_deps_Frontier" />
+      <config projectName="frontier_exploration" targetName="nav_msgs_generate_messages_eus" />
+      <config projectName="frontier_exploration" targetName="actionlib_generate_messages_cpp" />
+      <config projectName="frontier_exploration" targetName="_frontier_exploration_generate_messages_check_deps_ExploreTaskActionGoal" />
+      <config projectName="frontier_exploration" targetName="visualization_msgs_generate_messages_cpp" />
+      <config projectName="frontier_exploration" targetName="std_srvs_generate_messages_py" />
+      <config projectName="frontier_exploration" targetName="tf_generate_messages_eus" />
+      <config projectName="frontier_exploration" targetName="_run_tests_frontier_exploration_gtest_costmap_tools_tests" />
+      <config projectName="frontier_exploration" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="frontier_exploration" targetName="bond_generate_messages_cpp" />
+      <config projectName="frontier_exploration" targetName="doxygen" />
+      <config projectName="frontier_exploration" targetName="trajectory_generator" />
+      <config projectName="frontier_exploration" targetName="nodelet_generate_messages_eus" />
+      <config projectName="frontier_exploration" targetName="dynamic_reconfigure_generate_messages_py" />
+      <config projectName="frontier_exploration" targetName="dynamic_reconfigure_generate_messages_eus" />
+      <config projectName="frontier_exploration" targetName="bond_generate_messages_nodejs" />
+      <config projectName="frontier_exploration" targetName="dynamic_reconfigure_generate_messages_nodejs" />
+      <config projectName="frontier_exploration" targetName="make_plan_test" />
+      <config projectName="frontier_exploration" targetName="actionlib_generate_messages_nodejs" />
+      <config projectName="frontier_exploration" targetName="costmap_2d_generate_messages_eus" />
+      <config projectName="frontier_exploration" targetName="geometry_msgs_generate_messages_nodejs" />
+      <config projectName="frontier_exploration" targetName="_run_tests_frontier_exploration" />
+      <config projectName="frontier_exploration" targetName="map_msgs_generate_messages_cpp" />
+      <config projectName="frontier_exploration" targetName="topic_tools_generate_messages_py" />
+      <config projectName="frontier_exploration" targetName="costmap_2d_generate_messages_py" />
+      <config projectName="frontier_exploration" targetName="pcl_msgs_generate_messages_lisp" />
+      <config projectName="frontier_exploration" targetName="clean_test_results" />
+      <config projectName="frontier_exploration" targetName="_frontier_exploration_generate_messages_check_deps_ExploreTaskFeedback" />
+      <config projectName="frontier_exploration" targetName="_frontier_exploration_generate_messages_check_deps_FrontierCell" />
+      <config projectName="frontier_exploration" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="frontier_exploration" targetName="frontier_exploration_generate_messages_lisp" />
+      <config projectName="frontier_exploration" targetName="frontier_exploration_gencpp" />
+      <config projectName="frontier_exploration" targetName="frontier_search_tests" />
+      <config projectName="frontier_exploration" targetName="frontier_exploration_generate_messages_eus" />
+      <config projectName="frontier_exploration" targetName="tf_generate_messages_lisp" />
+      <config projectName="frontier_exploration" targetName="_run_tests_frontier_exploration_gtest_geometry_tools_tests" />
+      <config projectName="frontier_exploration" targetName="_catkin_empty_exported_target" />
+      <config projectName="frontier_exploration" targetName="costmap_2d_generate_messages_lisp" />
+      <config projectName="frontier_exploration" targetName="frontier_exploration_generate_messages_py" />
+      <config projectName="frontier_exploration" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="frontier_exploration" targetName="topic_tools_generate_messages_eus" />
+      <config projectName="frontier_exploration" targetName="actionlib_msgs_generate_messages_eus" />
+      <config projectName="frontier_exploration" targetName="dynamic_reconfigure_generate_messages_cpp" />
+      <config projectName="frontier_exploration" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="frontier_exploration" targetName="move_base_msgs_generate_messages_cpp" />
+      <config projectName="frontier_exploration" targetName="map_msgs_generate_messages_py" />
+      <config projectName="frontier_exploration" targetName="sensor_msgs_generate_messages_nodejs" />
+      <config projectName="frontier_exploration" targetName="move_base_msgs_generate_messages_nodejs" />
+      <config projectName="frontier_exploration" targetName="nodelet_generate_messages_nodejs" />
+      <config projectName="frontier_exploration" targetName="nav_msgs_generate_messages_cpp" />
+      <config projectName="frontier_exploration" targetName="pcl_msgs_generate_messages_nodejs" />
+      <config projectName="frontier_exploration" targetName="move_base_msgs_generate_messages_lisp" />
+      <config projectName="frontier_exploration" targetName="costmap_2d_generate_messages_nodejs" />
+      <config projectName="frontier_exploration" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="frontier_exploration" targetName="nav_msgs_generate_messages_lisp" />
+      <config projectName="frontier_exploration" targetName="air_ground_sim_explore_costmap" />
+      <config projectName="frontier_exploration" targetName="run_tests_frontier_exploration_gtest" />
+      <config projectName="frontier_exploration" targetName="_run_tests_frontier_exploration_gtest" />
+      <config projectName="frontier_exploration" targetName="nodelet_generate_messages_cpp" />
+      <config projectName="frontier_exploration" targetName="_frontier_exploration_generate_messages_check_deps_ExploreTaskGoal" />
+      <config projectName="frontier_exploration" targetName="sensor_msgs_generate_messages_eus" />
+      <config projectName="frontier_exploration" targetName="run_tests" />
+      <config projectName="frontier_exploration" targetName="nodelet_generate_messages_lisp" />
+      <config projectName="frontier_exploration" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="frontier_exploration" targetName="costmap_2d_generate_messages_cpp" />
+      <config projectName="frontier_exploration" targetName="run_tests_frontier_exploration" />
+      <config projectName="frontier_exploration" targetName="bond_generate_messages_lisp" />
+      <config projectName="frontier_exploration" targetName="_frontier_exploration_generate_messages_check_deps_GetNextAirGroundFrontier" />
+      <config projectName="frontier_exploration" targetName="actionlib_msgs_generate_messages_py" />
+      <config projectName="frontier_exploration" targetName="visualization_msgs_generate_messages_nodejs" />
+      <config projectName="frontier_exploration" targetName="visualization_msgs_generate_messages_py" />
+      <config projectName="frontier_exploration" targetName="path_search" />
+      <config projectName="frontier_exploration" targetName="tf2_msgs_generate_messages_nodejs" />
+      <config projectName="frontier_exploration" targetName="std_msgs_generate_messages_eus" />
+      <config projectName="frontier_exploration" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="frontier_exploration" targetName="costmap_2d_gencfg" />
+      <config projectName="frontier_exploration" targetName="gtest" />
+      <config projectName="frontier_exploration" targetName="frontier_exploration_geneus" />
+      <config projectName="frontier_exploration" targetName="sensor_msgs_generate_messages_lisp" />
+      <config projectName="frontier_exploration" targetName="std_srvs_generate_messages_eus" />
+      <config projectName="frontier_exploration" targetName="frontier_exploration_generate_messages_cpp" />
+      <config projectName="frontier_exploration" targetName="tf2_msgs_generate_messages_eus" />
+      <config projectName="frontier_exploration" targetName="actionlib_msgs_generate_messages_lisp" />
+      <config projectName="frontier_exploration" targetName="run_tests_frontier_exploration_gtest_frontier_search_tests" />
+      <config projectName="frontier_exploration" targetName="_frontier_exploration_generate_messages_check_deps_ExploreTaskActionResult" />
+      <config projectName="frontier_exploration" targetName="frontier_exploration_genpy" />
+      <config projectName="frontier_exploration" targetName="frontier_exploration_genlisp" />
+      <config projectName="frontier_exploration" targetName="run_tests_frontier_exploration_gtest_geometry_tools_tests" />
+      <config projectName="frontier_exploration" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="frontier_exploration" targetName="tests" />
+      <config projectName="frontier_exploration" targetName="explore_starter" />
+      <config projectName="frontier_exploration" targetName="run_tests_frontier_exploration_gtest_costmap_tools_tests" />
+      <config projectName="frontier_exploration" targetName="frontier_exploration_generate_messages_nodejs" />
+      <config projectName="frontier_exploration" targetName="_frontier_exploration_generate_messages_check_deps_ExploreTaskResult" />
+      <config projectName="frontier_exploration" targetName="geometry_msgs_generate_messages_eus" />
+      <config projectName="frontier_exploration" targetName="_frontier_exploration_generate_messages_check_deps_UpdateBoundaryPolygon" />
+      <config projectName="frontier_exploration" targetName="topic_tools_generate_messages_nodejs" />
+      <config projectName="frontier_exploration" targetName="pcl_msgs_generate_messages_py" />
+      <config projectName="frontier_exploration" targetName="astar_planner" />
+      <config projectName="frontier_exploration" targetName="frontier_exploration_gennodejs" />
+      <config projectName="frontier_exploration" targetName="_frontier_exploration_generate_messages_check_deps_ExploreTaskActionFeedback" />
+      <config projectName="frontier_exploration" targetName="map_msgs_generate_messages_lisp" />
+      <config projectName="frontier_exploration" targetName="tf_generate_messages_nodejs" />
+      <config projectName="frontier_exploration" targetName="move_base_msgs_generate_messages_py" />
+      <config projectName="frontier_exploration" targetName="explore_server" />
+      <config projectName="frontier_exploration" targetName="std_srvs_generate_messages_cpp" />
+      <config projectName="frontier_exploration" targetName="dynamic_reconfigure_generate_messages_lisp" />
+      <config projectName="frontier_exploration" targetName="sensor_msgs_generate_messages_cpp" />
+      <config projectName="frontier_exploration" targetName="nav_msgs_generate_messages_py" />
+      <config projectName="frontier_exploration" targetName="topic_tools_generate_messages_lisp" />
+      <config projectName="frontier_exploration" targetName="roscpp_generate_messages_py" />
+      <config projectName="frontier_exploration" targetName="bond_generate_messages_py" />
+      <config projectName="frontier_exploration" targetName="_frontier_exploration_generate_messages_check_deps_ExploreTaskAction" />
+      <config projectName="frontier_exploration" targetName="std_srvs_generate_messages_nodejs" />
+      <config projectName="frontier_exploration" targetName="roscpp_generate_messages_eus" />
+      <config projectName="frontier_exploration" targetName="visualization_msgs_generate_messages_lisp" />
+      <config projectName="frontier_exploration" targetName="_frontier_exploration_generate_messages_check_deps_BlacklistPoint" />
+      <config projectName="frontier_exploration" targetName="sensor_msgs_generate_messages_py" />
+      <config projectName="frontier_exploration" targetName="geometry_msgs_generate_messages_py" />
+      <config projectName="frontier_exploration" targetName="path_search_test" />
+      <config projectName="frontier_exploration" targetName="std_msgs_generate_messages_py" />
+      <config projectName="frontier_exploration" targetName="dynamic_reconfigure_gencfg" />
+      <config projectName="frontier_exploration" targetName="_frontier_exploration_generate_messages_check_deps_MultiArrayWithHeader" />
+      <config projectName="frontier_exploration" targetName="actionlib_generate_messages_lisp" />
+      <config projectName="frontier_exploration" targetName="tf2_msgs_generate_messages_cpp" />
+      <config projectName="frontier_exploration" targetName="clean_test_results_frontier_exploration" />
+      <config projectName="frontier_exploration" targetName="costmap_tools_tests" />
+      <config projectName="frontier_exploration" targetName="topic_tools_generate_messages_cpp" />
+      <config projectName="frontier_exploration" targetName="geometry_msgs_generate_messages_lisp" />
+      <config projectName="frontier_exploration" targetName="std_srvs_generate_messages_lisp" />
+      <config projectName="frontier_exploration" targetName="roscpp_generate_messages_lisp" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf9b2e5e-bb80-4bc8-bf61-33a1cc6ea112" name="Default" comment="In the middle of debug">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/frontier_exploration/air_ground_sim_explore_layer.h" afterPath="$PROJECT_DIR$/include/frontier_exploration/air_ground_sim_explore_layer.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/air_ground_sim_explore_layer.cpp" afterPath="$PROJECT_DIR$/plugins/air_ground_sim_explore_layer.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/path_search.cpp" afterPath="$PROJECT_DIR$/plugins/path_search.cpp" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="path_search.cpp" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/plugins/path_search.cpp">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="582">
+                    <caret line="262" column="88" lean-forward="false" selection-start-line="262" selection-start-column="88" selection-end-line="262" selection-end-column="88" />
+                    <folding>
+                      <element signature="e#0#45#0" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="path_search.h" pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/include/frontier_exploration/path_search.h">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="357">
+                    <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+                    <folding>
+                      <element signature="e#46#65#0" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="explore_server.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/explore_server.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="101" column="44" lean-forward="true" selection-start-line="101" selection-start-column="44" selection-end-line="101" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="explore_client.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/explore_client.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3468">
+              <caret line="204" column="43" lean-forward="false" selection-start-line="204" selection-start-column="43" selection-end-line="204" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="real_ugv_only.launch" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/launch/real_ugv_only.launch">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="36" column="77" lean-forward="false" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="air_ground_sim_explore_layer.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/plugins/air_ground_sim_explore_layer.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="546" column="61" lean-forward="true" selection-start-line="546" selection-start-column="61" selection-end-line="546" selection-end-column="61" />
+              <folding>
+                <element signature="e#43034#45157#0" expanded="false" />
+                <element signature="e#54155#56875#0" expanded="false" />
+                <element signature="e#56881#59778#0" expanded="false" />
+                <element signature="e#59784#62806#0" expanded="false" />
+                <element signature="e#62013#62778#0" expanded="false" />
+                <element signature="e#71040#72061#0" expanded="false" />
+                <element signature="e#72255#73162#0" expanded="false" />
+                <element signature="e#73168#76286#0" expanded="false" />
+                <element signature="e#76292#77428#0" expanded="false" />
+                <element signature="e#77434#78627#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="costmap_2d.h" pinned="false" current-in-tab="false">
+        <entry file="file:///opt/ros/kinetic/include/costmap_2d/costmap_2d.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="170" column="22" lean-forward="false" selection-start-line="170" selection-start-column="22" selection-end-line="170" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layer.h" pinned="false" current-in-tab="false">
+        <entry file="file:///opt/ros/kinetic/include/costmap_2d/layer.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="662">
+              <caret line="123" column="39" lean-forward="true" selection-start-line="123" selection-start-column="39" selection-end-line="123" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="air_ground_sim_explore_layer.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/frontier_exploration/air_ground_sim_explore_layer.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="42" column="10" lean-forward="false" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FrontierCell.msg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/msg/FrontierCell.msg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="explore_starter.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/explore_starter.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cost_values.h" pinned="false" current-in-tab="false">
+        <entry file="file:///opt/ros/kinetic/include/costmap_2d/cost_values.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="56" lean-forward="false" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>visualize</find>
+      <find>find_ma</find>
+      <find>way_</find>
+      <find>frontierA_visible_viz</find>
+      <find>frontierA_</find>
+      <find>frontierA_visible_pub</find>
+      <find>service_</find>
+      <find>uav_acc</find>
+      <find>f</find>
+      <find>computeInfoGain</find>
+      <find>find_max_path</find>
+      <find>enabled_</find>
+      <find>enabled</find>
+      <find>updateBounds</find>
+      <find>n_layers</find>
+      <find>temp_goal</find>
+      <find>enabled_ = f</find>
+      <find>find</find>
+      <find>computeIn</find>
+      <find>service</find>
+      <find>computeInfo</find>
+      <find>charmap_no_inflation_</find>
+      <find>visualize_info</find>
+      <find>bound</find>
+      <find>info_gain</find>
+      <find>information_gain_vec</find>
+      <find>enable</find>
+      <find>charmap_no_i</find>
+      <find>computeInfoGainAndScoreGr</find>
+      <find>computeInfoGainAndScoreG</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>next_frontier_ground</replace>
+      <replace>frontierA_cell_list</replace>
+      <replace>frontierA_list</replace>
+      <replace>air</replace>
+      <replace>bounded_explore</replace>
+      <replace>frontier_cell.frontier_cell_point</replace>
+      <replace>explore_boundary</replace>
+      <replace>air_ground_explore</replace>
+      <replace>AstarPoint</replace>
+      <replace>point</replace>
+      <replace>*point</replace>
+      <replace>nh_</replace>
+      <replace>selected_B</replace>
+      <replace>goal_candidate</replace>
+      <replace>i</replace>
+      <replace>nbr4_vec</replace>
+      <replace>map_</replace>
+      <replace>charmap_no_inflation</replace>
+      <replace>FREE_SPACE</replace>
+      <replace>nbr</replace>
+      <replace>idx</replace>
+      <replace>ugv_odom_</replace>
+      <replace>ugv_goal_point</replace>
+      <replace>uav_odom_</replace>
+      <replace>//std::cout</replace>
+      <replace>mat_mat.array</replace>
+      <replace>uav_mat.array</replace>
+      <replace>grid_map_no_inflation_</replace>
+      <replace>selected_marker_</replace>
+      <replace>tree_traj_marker_</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/include/frontier_exploration/uav_ugv_sim_explore_layer.h" />
+        <option value="$PROJECT_DIR$/costmap_plugins.xml" />
+        <option value="$PROJECT_DIR$/launch/single_ugv.launch" />
+        <option value="$PROJECT_DIR$/notes/change_log.txt" />
+        <option value="$PROJECT_DIR$/srv/GetNextAirGroundFrontier" />
+        <option value="$PROJECT_DIR$/plugins/bounded_explore_layer.cpp" />
+        <option value="$PROJECT_DIR$/msg/Frontier.msg" />
+        <option value="$PROJECT_DIR$/launch/uav_ugv_obstacle.launch" />
+        <option value="$PROJECT_DIR$/src/make_plan_test.cpp" />
+        <option value="$PROJECT_DIR$/include/frontier_exploration/astar_costmap.h" />
+        <option value="$PROJECT_DIR$/src/astar_costmap.cpp" />
+        <option value="$PROJECT_DIR$/package.xml" />
+        <option value="$PROJECT_DIR$/msg/FrontierCell.msg" />
+        <option value="$PROJECT_DIR$/include/frontier_exploration/costmap_tools.h" />
+        <option value="$PROJECT_DIR$/include/frontier_exploration/frontier_search.h" />
+        <option value="$PROJECT_DIR$/src/frontier_search.cpp" />
+        <option value="$PROJECT_DIR$/plugins/trajectory_generator_waypoint.cpp" />
+        <option value="$PROJECT_DIR$/src/path_search_test.cpp" />
+        <option value="$PROJECT_DIR$/include/frontier_exploration/geometry_tools.h" />
+        <option value="$PROJECT_DIR$/msg/MultiArrayWithHeader.msg" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/explore_client.cpp" />
+        <option value="$PROJECT_DIR$/src/explore_server.cpp" />
+        <option value="$PROJECT_DIR$/src/explore_starter.cpp" />
+        <option value="$PROJECT_DIR$/include/frontier_exploration/path_search.h" />
+        <option value="$PROJECT_DIR$/include/frontier_exploration/air_ground_sim_explore_layer.h" />
+        <option value="$PROJECT_DIR$/plugins/air_ground_sim_explore_layer.cpp" />
+        <option value="$PROJECT_DIR$/plugins/path_search.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1339" />
+    <option name="y" value="1020" />
+    <option name="width" value="1861" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="frontier_exploration" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="frontier_exploration" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="frontier_exploration" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="frontier_exploration" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="frontier_exploration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontier_exploration" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="frontier_exploration" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="frontier_exploration" type="462c0819:PsiDirectoryNode" />
+              <item name="action" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontier_exploration" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="frontier_exploration" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="frontier_exploration" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontier_exploration" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="frontier_exploration" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="frontier_exploration" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+              <item name="frontier_exploration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontier_exploration" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="frontier_exploration" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="frontier_exploration" type="462c0819:PsiDirectoryNode" />
+              <item name="launch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontier_exploration" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="frontier_exploration" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="frontier_exploration" type="462c0819:PsiDirectoryNode" />
+              <item name="msg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontier_exploration" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="frontier_exploration" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="frontier_exploration" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontier_exploration" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="frontier_exploration" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="frontier_exploration" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontier_exploration" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="frontier_exploration" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="frontier_exploration" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../costmap_to_gridmap/CMakeLists.txt" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/frontier_exploration/plugins/air_ground_sim_explore_layer.cpp&#10;searchFrom&#9;null&#9;null&#10;explore_b&#9;null&#9;null&#10;explore_boundary&#9;null&#9;null" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.explore_server">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <configuration name="_catkin_empty_exported_target" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="_catkin_empty_exported_target" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="_frontier_exploration_generate_messages_check_deps_BlacklistPoint" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="_frontier_exploration_generate_messages_check_deps_BlacklistPoint" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="_frontier_exploration_generate_messages_check_deps_ExploreTaskAction" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="_frontier_exploration_generate_messages_check_deps_ExploreTaskAction" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="_frontier_exploration_generate_messages_check_deps_ExploreTaskActionFeedback" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="_frontier_exploration_generate_messages_check_deps_ExploreTaskActionFeedback" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="_frontier_exploration_generate_messages_check_deps_ExploreTaskActionGoal" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="_frontier_exploration_generate_messages_check_deps_ExploreTaskActionGoal" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="_frontier_exploration_generate_messages_check_deps_ExploreTaskActionResult" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="_frontier_exploration_generate_messages_check_deps_ExploreTaskActionResult" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="_frontier_exploration_generate_messages_check_deps_ExploreTaskFeedback" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="_frontier_exploration_generate_messages_check_deps_ExploreTaskFeedback" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="_frontier_exploration_generate_messages_check_deps_ExploreTaskGoal" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="_frontier_exploration_generate_messages_check_deps_ExploreTaskGoal" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="_frontier_exploration_generate_messages_check_deps_ExploreTaskResult" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="_frontier_exploration_generate_messages_check_deps_ExploreTaskResult" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="_frontier_exploration_generate_messages_check_deps_Frontier" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="_frontier_exploration_generate_messages_check_deps_Frontier" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="_frontier_exploration_generate_messages_check_deps_FrontierCell" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="_frontier_exploration_generate_messages_check_deps_FrontierCell" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="_frontier_exploration_generate_messages_check_deps_GetNextAirGroundFrontier" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="_frontier_exploration_generate_messages_check_deps_GetNextAirGroundFrontier" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="_frontier_exploration_generate_messages_check_deps_GetNextFrontier" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="_frontier_exploration_generate_messages_check_deps_GetNextFrontier" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="_frontier_exploration_generate_messages_check_deps_MultiArrayWithHeader" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="_frontier_exploration_generate_messages_check_deps_MultiArrayWithHeader" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="_frontier_exploration_generate_messages_check_deps_UpdateBoundaryPolygon" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="_frontier_exploration_generate_messages_check_deps_UpdateBoundaryPolygon" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="_run_tests_frontier_exploration" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="_run_tests_frontier_exploration" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="_run_tests_frontier_exploration_gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="_run_tests_frontier_exploration_gtest" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="_run_tests_frontier_exploration_gtest_costmap_tools_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="_run_tests_frontier_exploration_gtest_costmap_tools_tests" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="_run_tests_frontier_exploration_gtest_frontier_search_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="_run_tests_frontier_exploration_gtest_frontier_search_tests" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="_run_tests_frontier_exploration_gtest_geometry_tools_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="_run_tests_frontier_exploration_gtest_geometry_tools_tests" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="actionlib_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="actionlib_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="actionlib_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="actionlib_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="actionlib_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="actionlib_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="actionlib_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="actionlib_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="actionlib_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="actionlib_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="actionlib_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="actionlib_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="actionlib_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="actionlib_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="actionlib_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="air_ground_sim_explore_costmap" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="air_ground_sim_explore_costmap" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="astar_planner" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="astar_planner" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="bond_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="bond_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="bond_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="bond_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="bond_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="bond_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="bond_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="bond_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="bond_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="bond_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="clean_test_results" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="clean_test_results" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="clean_test_results_frontier_exploration" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="clean_test_results_frontier_exploration" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="costmap_2d_gencfg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="costmap_2d_gencfg" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="costmap_2d_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="costmap_2d_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="costmap_2d_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="costmap_2d_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="costmap_2d_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="costmap_2d_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="costmap_2d_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="costmap_2d_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="costmap_2d_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="costmap_2d_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="costmap_tools_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="costmap_tools_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="frontier_exploration" RUN_TARGET_NAME="costmap_tools_tests">
+      <envs />
+    </configuration>
+    <configuration name="download_extra_data" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="download_extra_data" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="doxygen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="doxygen" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="dynamic_reconfigure_gencfg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="dynamic_reconfigure_gencfg" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="dynamic_reconfigure_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="dynamic_reconfigure_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="dynamic_reconfigure_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="dynamic_reconfigure_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="dynamic_reconfigure_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="dynamic_reconfigure_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="dynamic_reconfigure_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="dynamic_reconfigure_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="dynamic_reconfigure_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="dynamic_reconfigure_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="explore_client" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="explore_client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="frontier_exploration" RUN_TARGET_NAME="explore_client">
+      <envs />
+    </configuration>
+    <configuration name="explore_costmap" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="explore_costmap" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="explore_server" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="explore_server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="frontier_exploration" RUN_TARGET_NAME="explore_server">
+      <envs />
+    </configuration>
+    <configuration name="explore_starter" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="explore_starter" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="frontier_exploration" RUN_TARGET_NAME="explore_starter">
+      <envs />
+    </configuration>
+    <configuration name="frontier_exploration_gencpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="frontier_exploration_gencpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="frontier_exploration_generate_messages" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="frontier_exploration_generate_messages" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="frontier_exploration_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="frontier_exploration_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="frontier_exploration_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="frontier_exploration_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="frontier_exploration_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="frontier_exploration_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="frontier_exploration_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="frontier_exploration_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="frontier_exploration_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="frontier_exploration_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="frontier_exploration_geneus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="frontier_exploration_geneus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="frontier_exploration_genlisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="frontier_exploration_genlisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="frontier_exploration_gennodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="frontier_exploration_gennodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="frontier_exploration_genpy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="frontier_exploration_genpy" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="frontier_search_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="frontier_search_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="frontier_exploration" RUN_TARGET_NAME="frontier_search_tests">
+      <envs />
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="geometry_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="geometry_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="geometry_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="geometry_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="geometry_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="geometry_tools_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="geometry_tools_tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="frontier_exploration" RUN_TARGET_NAME="geometry_tools_tests">
+      <envs />
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="make_plan_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="make_plan_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="frontier_exploration" RUN_TARGET_NAME="make_plan_test">
+      <envs />
+    </configuration>
+    <configuration name="map_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="map_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="map_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="map_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="map_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="map_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="map_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="map_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="map_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="map_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="move_base_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="move_base_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="move_base_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="move_base_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="move_base_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="move_base_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="move_base_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="move_base_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="move_base_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="move_base_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="nav_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="nav_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="nav_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="nav_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="nav_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="nodelet_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="nodelet_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="nodelet_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="nodelet_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="nodelet_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="nodelet_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="nodelet_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="nodelet_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="nodelet_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="nodelet_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="path_search" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="path_search" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="path_search_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="path_search_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="frontier_exploration" RUN_TARGET_NAME="path_search_test">
+      <envs />
+    </configuration>
+    <configuration name="pcl_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="pcl_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="pcl_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="pcl_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="pcl_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="pcl_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="pcl_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="pcl_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="pcl_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="pcl_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="pcl_ros_gencfg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="pcl_ros_gencfg" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="roscpp_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="roscpp_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="roscpp_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="roscpp_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="roscpp_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="roscpp_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="roscpp_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="roscpp_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="roscpp_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="roscpp_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="rosgraph_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="rosgraph_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="rosgraph_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="rosgraph_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="rosgraph_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="run_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="run_tests" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="run_tests_frontier_exploration" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="run_tests_frontier_exploration" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="run_tests_frontier_exploration_gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="run_tests_frontier_exploration_gtest" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="run_tests_frontier_exploration_gtest_costmap_tools_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="run_tests_frontier_exploration_gtest_costmap_tools_tests" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="run_tests_frontier_exploration_gtest_frontier_search_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="run_tests_frontier_exploration_gtest_frontier_search_tests" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="run_tests_frontier_exploration_gtest_geometry_tools_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="run_tests_frontier_exploration_gtest_geometry_tools_tests" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="sensor_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="sensor_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="sensor_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="sensor_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="sensor_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="std_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="std_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="std_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="std_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="std_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_srvs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="std_srvs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_srvs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="std_srvs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_srvs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="std_srvs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_srvs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="std_srvs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="std_srvs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="std_srvs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="tests" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="tf2_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="tf2_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="tf2_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="tf2_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="tf2_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="tf_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="tf_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="tf_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="tf_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="tf_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="tf_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="tf_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="tf_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="tf_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="tf_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="topic_tools_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="topic_tools_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="topic_tools_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="topic_tools_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="topic_tools_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="topic_tools_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="topic_tools_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="topic_tools_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="topic_tools_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="topic_tools_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="trajectory_generator" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="trajectory_generator" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="visualization_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="visualization_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="visualization_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="visualization_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="visualization_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="visualization_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="visualization_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="visualization_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="visualization_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="frontier_exploration" TARGET_NAME="visualization_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <list size="161">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application._catkin_empty_exported_target" />
+      <item index="2" class="java.lang.String" itemvalue="Application._frontier_exploration_generate_messages_check_deps_BlacklistPoint" />
+      <item index="3" class="java.lang.String" itemvalue="Application._frontier_exploration_generate_messages_check_deps_ExploreTaskAction" />
+      <item index="4" class="java.lang.String" itemvalue="Application._frontier_exploration_generate_messages_check_deps_ExploreTaskActionFeedback" />
+      <item index="5" class="java.lang.String" itemvalue="Application._frontier_exploration_generate_messages_check_deps_ExploreTaskActionGoal" />
+      <item index="6" class="java.lang.String" itemvalue="Application._frontier_exploration_generate_messages_check_deps_ExploreTaskActionResult" />
+      <item index="7" class="java.lang.String" itemvalue="Application._frontier_exploration_generate_messages_check_deps_ExploreTaskFeedback" />
+      <item index="8" class="java.lang.String" itemvalue="Application._frontier_exploration_generate_messages_check_deps_ExploreTaskGoal" />
+      <item index="9" class="java.lang.String" itemvalue="Application._frontier_exploration_generate_messages_check_deps_ExploreTaskResult" />
+      <item index="10" class="java.lang.String" itemvalue="Application._frontier_exploration_generate_messages_check_deps_Frontier" />
+      <item index="11" class="java.lang.String" itemvalue="Application._frontier_exploration_generate_messages_check_deps_FrontierCell" />
+      <item index="12" class="java.lang.String" itemvalue="Application._frontier_exploration_generate_messages_check_deps_GetNextAirGroundFrontier" />
+      <item index="13" class="java.lang.String" itemvalue="Application._frontier_exploration_generate_messages_check_deps_GetNextFrontier" />
+      <item index="14" class="java.lang.String" itemvalue="Application._frontier_exploration_generate_messages_check_deps_MultiArrayWithHeader" />
+      <item index="15" class="java.lang.String" itemvalue="Application._frontier_exploration_generate_messages_check_deps_UpdateBoundaryPolygon" />
+      <item index="16" class="java.lang.String" itemvalue="Application._run_tests_frontier_exploration" />
+      <item index="17" class="java.lang.String" itemvalue="Application._run_tests_frontier_exploration_gtest" />
+      <item index="18" class="java.lang.String" itemvalue="Application._run_tests_frontier_exploration_gtest_costmap_tools_tests" />
+      <item index="19" class="java.lang.String" itemvalue="Application._run_tests_frontier_exploration_gtest_frontier_search_tests" />
+      <item index="20" class="java.lang.String" itemvalue="Application._run_tests_frontier_exploration_gtest_geometry_tools_tests" />
+      <item index="21" class="java.lang.String" itemvalue="Application.actionlib_generate_messages_cpp" />
+      <item index="22" class="java.lang.String" itemvalue="Application.actionlib_generate_messages_eus" />
+      <item index="23" class="java.lang.String" itemvalue="Application.actionlib_generate_messages_lisp" />
+      <item index="24" class="java.lang.String" itemvalue="Application.actionlib_generate_messages_nodejs" />
+      <item index="25" class="java.lang.String" itemvalue="Application.actionlib_generate_messages_py" />
+      <item index="26" class="java.lang.String" itemvalue="Application.actionlib_msgs_generate_messages_cpp" />
+      <item index="27" class="java.lang.String" itemvalue="Application.actionlib_msgs_generate_messages_eus" />
+      <item index="28" class="java.lang.String" itemvalue="Application.actionlib_msgs_generate_messages_lisp" />
+      <item index="29" class="java.lang.String" itemvalue="Application.actionlib_msgs_generate_messages_nodejs" />
+      <item index="30" class="java.lang.String" itemvalue="Application.actionlib_msgs_generate_messages_py" />
+      <item index="31" class="java.lang.String" itemvalue="Application.air_ground_sim_explore_costmap" />
+      <item index="32" class="java.lang.String" itemvalue="Application.astar_planner" />
+      <item index="33" class="java.lang.String" itemvalue="Application.bond_generate_messages_cpp" />
+      <item index="34" class="java.lang.String" itemvalue="Application.bond_generate_messages_eus" />
+      <item index="35" class="java.lang.String" itemvalue="Application.bond_generate_messages_lisp" />
+      <item index="36" class="java.lang.String" itemvalue="Application.bond_generate_messages_nodejs" />
+      <item index="37" class="java.lang.String" itemvalue="Application.bond_generate_messages_py" />
+      <item index="38" class="java.lang.String" itemvalue="Application.clean_test_results" />
+      <item index="39" class="java.lang.String" itemvalue="Application.clean_test_results_frontier_exploration" />
+      <item index="40" class="java.lang.String" itemvalue="Application.costmap_2d_gencfg" />
+      <item index="41" class="java.lang.String" itemvalue="Application.costmap_2d_generate_messages_cpp" />
+      <item index="42" class="java.lang.String" itemvalue="Application.costmap_2d_generate_messages_eus" />
+      <item index="43" class="java.lang.String" itemvalue="Application.costmap_2d_generate_messages_lisp" />
+      <item index="44" class="java.lang.String" itemvalue="Application.costmap_2d_generate_messages_nodejs" />
+      <item index="45" class="java.lang.String" itemvalue="Application.costmap_2d_generate_messages_py" />
+      <item index="46" class="java.lang.String" itemvalue="Application.costmap_tools_tests" />
+      <item index="47" class="java.lang.String" itemvalue="Application.download_extra_data" />
+      <item index="48" class="java.lang.String" itemvalue="Application.doxygen" />
+      <item index="49" class="java.lang.String" itemvalue="Application.dynamic_reconfigure_gencfg" />
+      <item index="50" class="java.lang.String" itemvalue="Application.dynamic_reconfigure_generate_messages_cpp" />
+      <item index="51" class="java.lang.String" itemvalue="Application.dynamic_reconfigure_generate_messages_eus" />
+      <item index="52" class="java.lang.String" itemvalue="Application.dynamic_reconfigure_generate_messages_lisp" />
+      <item index="53" class="java.lang.String" itemvalue="Application.dynamic_reconfigure_generate_messages_nodejs" />
+      <item index="54" class="java.lang.String" itemvalue="Application.dynamic_reconfigure_generate_messages_py" />
+      <item index="55" class="java.lang.String" itemvalue="Application.explore_client" />
+      <item index="56" class="java.lang.String" itemvalue="Application.explore_costmap" />
+      <item index="57" class="java.lang.String" itemvalue="Application.explore_server" />
+      <item index="58" class="java.lang.String" itemvalue="Application.explore_starter" />
+      <item index="59" class="java.lang.String" itemvalue="Application.frontier_exploration_gencpp" />
+      <item index="60" class="java.lang.String" itemvalue="Application.frontier_exploration_generate_messages" />
+      <item index="61" class="java.lang.String" itemvalue="Application.frontier_exploration_generate_messages_cpp" />
+      <item index="62" class="java.lang.String" itemvalue="Application.frontier_exploration_generate_messages_eus" />
+      <item index="63" class="java.lang.String" itemvalue="Application.frontier_exploration_generate_messages_lisp" />
+      <item index="64" class="java.lang.String" itemvalue="Application.frontier_exploration_generate_messages_nodejs" />
+      <item index="65" class="java.lang.String" itemvalue="Application.frontier_exploration_generate_messages_py" />
+      <item index="66" class="java.lang.String" itemvalue="Application.frontier_exploration_geneus" />
+      <item index="67" class="java.lang.String" itemvalue="Application.frontier_exploration_genlisp" />
+      <item index="68" class="java.lang.String" itemvalue="Application.frontier_exploration_gennodejs" />
+      <item index="69" class="java.lang.String" itemvalue="Application.frontier_exploration_genpy" />
+      <item index="70" class="java.lang.String" itemvalue="Application.frontier_search_tests" />
+      <item index="71" class="java.lang.String" itemvalue="Application.geometry_msgs_generate_messages_cpp" />
+      <item index="72" class="java.lang.String" itemvalue="Application.geometry_msgs_generate_messages_eus" />
+      <item index="73" class="java.lang.String" itemvalue="Application.geometry_msgs_generate_messages_lisp" />
+      <item index="74" class="java.lang.String" itemvalue="Application.geometry_msgs_generate_messages_nodejs" />
+      <item index="75" class="java.lang.String" itemvalue="Application.geometry_msgs_generate_messages_py" />
+      <item index="76" class="java.lang.String" itemvalue="Application.geometry_tools_tests" />
+      <item index="77" class="java.lang.String" itemvalue="Application.make_plan_test" />
+      <item index="78" class="java.lang.String" itemvalue="Application.map_msgs_generate_messages_cpp" />
+      <item index="79" class="java.lang.String" itemvalue="Application.map_msgs_generate_messages_eus" />
+      <item index="80" class="java.lang.String" itemvalue="Application.map_msgs_generate_messages_lisp" />
+      <item index="81" class="java.lang.String" itemvalue="Application.map_msgs_generate_messages_nodejs" />
+      <item index="82" class="java.lang.String" itemvalue="Application.map_msgs_generate_messages_py" />
+      <item index="83" class="java.lang.String" itemvalue="Application.move_base_msgs_generate_messages_cpp" />
+      <item index="84" class="java.lang.String" itemvalue="Application.move_base_msgs_generate_messages_eus" />
+      <item index="85" class="java.lang.String" itemvalue="Application.move_base_msgs_generate_messages_lisp" />
+      <item index="86" class="java.lang.String" itemvalue="Application.move_base_msgs_generate_messages_nodejs" />
+      <item index="87" class="java.lang.String" itemvalue="Application.move_base_msgs_generate_messages_py" />
+      <item index="88" class="java.lang.String" itemvalue="Application.nav_msgs_generate_messages_cpp" />
+      <item index="89" class="java.lang.String" itemvalue="Application.nav_msgs_generate_messages_eus" />
+      <item index="90" class="java.lang.String" itemvalue="Application.nav_msgs_generate_messages_lisp" />
+      <item index="91" class="java.lang.String" itemvalue="Application.nav_msgs_generate_messages_nodejs" />
+      <item index="92" class="java.lang.String" itemvalue="Application.nav_msgs_generate_messages_py" />
+      <item index="93" class="java.lang.String" itemvalue="Application.nodelet_generate_messages_cpp" />
+      <item index="94" class="java.lang.String" itemvalue="Application.nodelet_generate_messages_eus" />
+      <item index="95" class="java.lang.String" itemvalue="Application.nodelet_generate_messages_lisp" />
+      <item index="96" class="java.lang.String" itemvalue="Application.nodelet_generate_messages_nodejs" />
+      <item index="97" class="java.lang.String" itemvalue="Application.nodelet_generate_messages_py" />
+      <item index="98" class="java.lang.String" itemvalue="Application.path_search" />
+      <item index="99" class="java.lang.String" itemvalue="Application.path_search_test" />
+      <item index="100" class="java.lang.String" itemvalue="Application.pcl_msgs_generate_messages_cpp" />
+      <item index="101" class="java.lang.String" itemvalue="Application.pcl_msgs_generate_messages_eus" />
+      <item index="102" class="java.lang.String" itemvalue="Application.pcl_msgs_generate_messages_lisp" />
+      <item index="103" class="java.lang.String" itemvalue="Application.pcl_msgs_generate_messages_nodejs" />
+      <item index="104" class="java.lang.String" itemvalue="Application.pcl_msgs_generate_messages_py" />
+      <item index="105" class="java.lang.String" itemvalue="Application.pcl_ros_gencfg" />
+      <item index="106" class="java.lang.String" itemvalue="Application.roscpp_generate_messages_cpp" />
+      <item index="107" class="java.lang.String" itemvalue="Application.roscpp_generate_messages_eus" />
+      <item index="108" class="java.lang.String" itemvalue="Application.roscpp_generate_messages_lisp" />
+      <item index="109" class="java.lang.String" itemvalue="Application.roscpp_generate_messages_nodejs" />
+      <item index="110" class="java.lang.String" itemvalue="Application.roscpp_generate_messages_py" />
+      <item index="111" class="java.lang.String" itemvalue="Application.rosgraph_msgs_generate_messages_cpp" />
+      <item index="112" class="java.lang.String" itemvalue="Application.rosgraph_msgs_generate_messages_eus" />
+      <item index="113" class="java.lang.String" itemvalue="Application.rosgraph_msgs_generate_messages_lisp" />
+      <item index="114" class="java.lang.String" itemvalue="Application.rosgraph_msgs_generate_messages_nodejs" />
+      <item index="115" class="java.lang.String" itemvalue="Application.rosgraph_msgs_generate_messages_py" />
+      <item index="116" class="java.lang.String" itemvalue="Application.run_tests" />
+      <item index="117" class="java.lang.String" itemvalue="Application.run_tests_frontier_exploration" />
+      <item index="118" class="java.lang.String" itemvalue="Application.run_tests_frontier_exploration_gtest" />
+      <item index="119" class="java.lang.String" itemvalue="Application.run_tests_frontier_exploration_gtest_costmap_tools_tests" />
+      <item index="120" class="java.lang.String" itemvalue="Application.run_tests_frontier_exploration_gtest_frontier_search_tests" />
+      <item index="121" class="java.lang.String" itemvalue="Application.run_tests_frontier_exploration_gtest_geometry_tools_tests" />
+      <item index="122" class="java.lang.String" itemvalue="Application.sensor_msgs_generate_messages_cpp" />
+      <item index="123" class="java.lang.String" itemvalue="Application.sensor_msgs_generate_messages_eus" />
+      <item index="124" class="java.lang.String" itemvalue="Application.sensor_msgs_generate_messages_lisp" />
+      <item index="125" class="java.lang.String" itemvalue="Application.sensor_msgs_generate_messages_nodejs" />
+      <item index="126" class="java.lang.String" itemvalue="Application.sensor_msgs_generate_messages_py" />
+      <item index="127" class="java.lang.String" itemvalue="Application.std_msgs_generate_messages_cpp" />
+      <item index="128" class="java.lang.String" itemvalue="Application.std_msgs_generate_messages_eus" />
+      <item index="129" class="java.lang.String" itemvalue="Application.std_msgs_generate_messages_lisp" />
+      <item index="130" class="java.lang.String" itemvalue="Application.std_msgs_generate_messages_nodejs" />
+      <item index="131" class="java.lang.String" itemvalue="Application.std_msgs_generate_messages_py" />
+      <item index="132" class="java.lang.String" itemvalue="Application.std_srvs_generate_messages_cpp" />
+      <item index="133" class="java.lang.String" itemvalue="Application.std_srvs_generate_messages_eus" />
+      <item index="134" class="java.lang.String" itemvalue="Application.std_srvs_generate_messages_lisp" />
+      <item index="135" class="java.lang.String" itemvalue="Application.std_srvs_generate_messages_nodejs" />
+      <item index="136" class="java.lang.String" itemvalue="Application.std_srvs_generate_messages_py" />
+      <item index="137" class="java.lang.String" itemvalue="Application.tests" />
+      <item index="138" class="java.lang.String" itemvalue="Application.tf2_msgs_generate_messages_cpp" />
+      <item index="139" class="java.lang.String" itemvalue="Application.tf2_msgs_generate_messages_eus" />
+      <item index="140" class="java.lang.String" itemvalue="Application.tf2_msgs_generate_messages_lisp" />
+      <item index="141" class="java.lang.String" itemvalue="Application.tf2_msgs_generate_messages_nodejs" />
+      <item index="142" class="java.lang.String" itemvalue="Application.tf2_msgs_generate_messages_py" />
+      <item index="143" class="java.lang.String" itemvalue="Application.tf_generate_messages_cpp" />
+      <item index="144" class="java.lang.String" itemvalue="Application.tf_generate_messages_eus" />
+      <item index="145" class="java.lang.String" itemvalue="Application.tf_generate_messages_lisp" />
+      <item index="146" class="java.lang.String" itemvalue="Application.tf_generate_messages_nodejs" />
+      <item index="147" class="java.lang.String" itemvalue="Application.tf_generate_messages_py" />
+      <item index="148" class="java.lang.String" itemvalue="Application.topic_tools_generate_messages_cpp" />
+      <item index="149" class="java.lang.String" itemvalue="Application.topic_tools_generate_messages_eus" />
+      <item index="150" class="java.lang.String" itemvalue="Application.topic_tools_generate_messages_lisp" />
+      <item index="151" class="java.lang.String" itemvalue="Application.topic_tools_generate_messages_nodejs" />
+      <item index="152" class="java.lang.String" itemvalue="Application.topic_tools_generate_messages_py" />
+      <item index="153" class="java.lang.String" itemvalue="Application.trajectory_generator" />
+      <item index="154" class="java.lang.String" itemvalue="Application.visualization_msgs_generate_messages_cpp" />
+      <item index="155" class="java.lang.String" itemvalue="Application.visualization_msgs_generate_messages_eus" />
+      <item index="156" class="java.lang.String" itemvalue="Application.visualization_msgs_generate_messages_lisp" />
+      <item index="157" class="java.lang.String" itemvalue="Application.visualization_msgs_generate_messages_nodejs" />
+      <item index="158" class="java.lang.String" itemvalue="Application.visualization_msgs_generate_messages_py" />
+      <item index="159" class="java.lang.String" itemvalue="Application.gtest" />
+      <item index="160" class="java.lang.String" itemvalue="Application.gtest_main" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf9b2e5e-bb80-4bc8-bf61-33a1cc6ea112" name="Default" comment="" />
+      <created>1511437437403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511437437403</updated>
+      <workItem from="1511437439242" duration="13203000" />
+      <workItem from="1511534606248" duration="24127000" />
+      <workItem from="1511615584964" duration="1149000" />
+      <workItem from="1511770154006" duration="11607000" />
+      <workItem from="1511855851922" duration="12287000" />
+      <workItem from="1511939102693" duration="8180000" />
+      <workItem from="1512126498533" duration="2631000" />
+      <workItem from="1512273258991" duration="23053000" />
+      <workItem from="1512395009479" duration="8739000" />
+      <workItem from="1512461671900" duration="9927000" />
+      <workItem from="1512546590511" duration="626000" />
+      <workItem from="1512633918685" duration="2205000" />
+      <workItem from="1512640429905" duration="8543000" />
+      <workItem from="1512719141059" duration="16297000" />
+      <workItem from="1513240517646" duration="156000" />
+      <workItem from="1513342773018" duration="9721000" />
+      <workItem from="1513524056726" duration="645000" />
+      <workItem from="1517295285481" duration="3935000" />
+      <workItem from="1517371217644" duration="349000" />
+      <workItem from="1517371579160" duration="6012000" />
+      <workItem from="1517452614078" duration="9453000" />
+      <workItem from="1517465545557" duration="12017000" />
+      <workItem from="1517541911194" duration="17777000" />
+      <workItem from="1517625675025" duration="11564000" />
+      <workItem from="1517645273760" duration="1226000" />
+      <workItem from="1517652718089" duration="623000" />
+      <workItem from="1517737056918" duration="400000" />
+      <workItem from="1517887582706" duration="3398000" />
+      <workItem from="1517913991006" duration="5107000" />
+      <workItem from="1517973838369" duration="13723000" />
+      <workItem from="1518061958530" duration="5483000" />
+      <workItem from="1518240957470" duration="6434000" />
+      <workItem from="1518271311708" duration="4003000" />
+      <workItem from="1518318692275" duration="4599000" />
+      <workItem from="1518425740922" duration="9017000" />
+      <workItem from="1518440446092" duration="9320000" />
+      <workItem from="1518495112159" duration="7273000" />
+      <workItem from="1518512429423" duration="403000" />
+      <workItem from="1518513185083" duration="1022000" />
+      <workItem from="1518515852433" duration="3517000" />
+      <workItem from="1518534725942" duration="5049000" />
+      <workItem from="1518600397720" duration="4663000" />
+      <workItem from="1518613470200" duration="10991000" />
+      <workItem from="1518791760496" duration="5095000" />
+      <workItem from="1518840761438" duration="1013000" />
+      <workItem from="1518841825536" duration="47206000" />
+      <workItem from="1518939482747" duration="14254000" />
+      <workItem from="1518959324846" duration="406000" />
+      <workItem from="1518960138480" duration="3559000" />
+      <workItem from="1518964417463" duration="2789000" />
+      <workItem from="1519133119244" duration="3658000" />
+      <workItem from="1519141025124" duration="3676000" />
+      <workItem from="1519387726755" duration="19423000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="465071000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1339" y="1020" width="1861" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14185922" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18609408" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948294" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24752475" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24233128" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948294" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="In the middle of debug" />
+    <option name="LAST_COMMIT_MESSAGE" value="In the middle of debug" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/plugins/air_ground_sim_explore_layer.cpp</url>
+          <line>1718</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/plugins/air_ground_sim_explore_layer.cpp</url>
+          <line>1611</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/plugins/path_search.cpp</url>
+          <line>256</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/plugins/path_search.cpp</url>
+          <line>332</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/plugins/path_search.cpp</url>
+          <line>333</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/plugins/path_search.cpp</url>
+          <line>334</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/plugins/path_search.cpp</url>
+          <line>355</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/plugins/path_search.cpp</url>
+          <line>330</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/plugins/path_search.cpp</url>
+          <line>331</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="53" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/include/boost/smart_ptr/detail/shared_count.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="442" column="0" lean-forward="false" selection-start-line="442" selection-start-column="0" selection-end-line="442" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/bind/bind_template.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/bind/bind.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="392" column="0" lean-forward="false" selection-start-line="392" selection-start-column="0" selection-end-line="392" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/thread/pthread/condition_variable.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="746">
+          <caret line="359" column="0" lean-forward="false" selection-start-line="359" selection-start-column="0" selection-end-line="359" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/tf/transform_datatypes.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1519">
+          <caret line="257" column="19" lean-forward="false" selection-start-line="257" selection-start-column="19" selection-end-line="257" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action/ExploreTask.action">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/srv/GetNextAirGroundFrontier.srv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="43" lean-forward="false" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/make_plan_test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/actionlib/client/simple_client_goal_state.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/frontier_exploration/astar_costmap.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/pcl_ros/io/pcd_io.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="60" lean-forward="false" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/x86_64-linux-gnu/bits/mathcalls.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="161" column="51" lean-forward="false" selection-start-line="161" selection-start-column="51" selection-end-line="161" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/frontier_exploration/costmap_tools.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="89" lean-forward="false" selection-start-line="72" selection-start-column="89" selection-end-line="72" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/frontier_exploration/frontier_search.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/eigen3/Eigen/src/Core/CwiseNullaryOp.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11628">
+          <caret line="684" column="4" lean-forward="false" selection-start-line="684" selection-start-column="4" selection-end-line="684" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/msg/Frontier.msg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="36" lean-forward="false" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/eigen3/Eigen/src/Core/GlobalFunctions.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="46" column="39" lean-forward="false" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frontier_search.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/frontier_exploration/bounded_explore_layer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="24" lean-forward="false" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/astar_costmap.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="815">
+          <caret line="178" column="5" lean-forward="true" selection-start-line="178" selection-start-column="4" selection-end-line="178" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/eigen3/Eigen/src/Core/Matrix.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="450" column="54" lean-forward="false" selection-start-line="450" selection-start-column="54" selection-end-line="450" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/path_search_test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/range_access.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="15" lean-forward="false" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/visualization_msgs/Marker.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/eigen3/unsupported/Eigen/src/MatrixFunctions/MatrixExponential.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5083">
+          <caret line="368" column="72" lean-forward="true" selection-start-line="368" selection-start-column="72" selection-end-line="368" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/frontier_exploration/geometry_tools.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/trajectory_generator_waypoint.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="107" column="11" lean-forward="true" selection-start-line="107" selection-start-column="11" selection-end-line="107" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/frontier_exploration/trajectory_generator_waypoint.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/msg/MultiArrayWithHeader.msg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/bounded_explore_layer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="99" column="45" lean-forward="false" selection-start-line="99" selection-start-column="29" selection-end-line="99" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15810">
+          <caret line="930" column="6" lean-forward="false" selection-start-line="930" selection-start-column="6" selection-end-line="930" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/geometry_msgs/Twist.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="15" lean-forward="false" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/msg/PointInt.msg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/launch/uav_ugv_obstacle.launch">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="37" lean-forward="false" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/costmap_2d/costmap_2d_ros.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="99" column="5" lean-forward="true" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/actionlib/client/simple_action_client.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="131" column="5" lean-forward="true" selection-start-line="131" selection-start-column="5" selection-end-line="131" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/costmap_2d/cost_values.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="56" lean-forward="false" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/explore_client.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3468">
+          <caret line="204" column="43" lean-forward="false" selection-start-line="204" selection-start-column="43" selection-end-line="204" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/explore_server.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="101" column="44" lean-forward="true" selection-start-line="101" selection-start-column="44" selection-end-line="101" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/explore_starter.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/msg/FrontierCell.msg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/costmap_2d/layer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="123" column="39" lean-forward="true" selection-start-line="123" selection-start-column="39" selection-end-line="123" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/frontier_exploration/path_search.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#46#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/launch/real_ugv_only.launch">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="36" column="77" lean-forward="false" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/frontier_exploration/air_ground_sim_explore_layer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="42" column="10" lean-forward="false" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/costmap_2d/costmap_2d.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="170" column="22" lean-forward="false" selection-start-line="170" selection-start-column="22" selection-end-line="170" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/air_ground_sim_explore_layer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="546" column="61" lean-forward="true" selection-start-line="546" selection-start-column="61" selection-end-line="546" selection-end-column="61" />
+          <folding>
+            <element signature="e#43034#45157#0" expanded="false" />
+            <element signature="e#54155#56875#0" expanded="false" />
+            <element signature="e#56881#59778#0" expanded="false" />
+            <element signature="e#59784#62806#0" expanded="false" />
+            <element signature="e#62013#62778#0" expanded="false" />
+            <element signature="e#71040#72061#0" expanded="false" />
+            <element signature="e#72255#73162#0" expanded="false" />
+            <element signature="e#73168#76286#0" expanded="false" />
+            <element signature="e#76292#77428#0" expanded="false" />
+            <element signature="e#77434#78627#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/path_search.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="262" column="88" lean-forward="false" selection-start-line="262" selection-start-column="88" selection-end-line="262" selection-end-column="88" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

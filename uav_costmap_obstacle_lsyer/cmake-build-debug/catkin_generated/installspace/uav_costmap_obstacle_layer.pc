@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: uav_costmap_obstacle_layer
+Description: Description of uav_costmap_obstacle_layer
+Version: 1.0.0
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib -luav_costmap_obstacle_layer
+Requires: costmap_2d dynamic_reconfigure roscpp sensor_msgs

@@ -1,0 +1,4 @@
+<launch>
+<arg name="yaw" default="0.0"/>
+<node pkg="tf" type="static_transform_publisher" name="tf_uav_ugv" args="0.0 0.0 0.1 0 0 $(arg yaw)  /robot_1/odom /world 20" />
+</launch>

@@ -1,0 +1,7 @@
+<class_libraries>
+  <library path="lib/libuav_costmap_obstacle_layer" >
+    <class type="uav_obstacle_layer::UAVObstacleLayer" base_class_type="costmap_2d::Layer" >
+        <description> Obstacle layer for downward-looking uav. </description>
+    </class>
+  </library>
+</class_libraries>

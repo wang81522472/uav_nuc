@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: sim_odom_controller
+Description: Description of sim_odom_controller
+Version: 0.0.0
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib -lsim_odom_controller
+Requires: geometry_msgs nav_msgs roscpp std_msgs tf frontier_exploration

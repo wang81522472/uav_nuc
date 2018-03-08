@@ -1,0 +1,10 @@
+代码流程：
+
+注：
+i . 变量名仅供参考
+ii. 参考FrontierCell数据结构
+
+1. 构建goal_candidate_list容器，数据结构是FrontierCell，如std::list<FrontierCell> goal_candidate_list
+2. 给出goal的position: goal_candidate.frontier_cell_point
+3. 使用computeInfoGainAndScoreGround和computeInfoGainAndScoreAir计算InfoGain和Score。注意Air函数使用之前，需要构建两个列表，并且将其作为参数传入。两个列表的含义是地图上的frontierA/B，具体构建方式参考现在github上air_ground_explore_layer.cpp中getNextAirFrontier函数的写法。参数frontierB_flag是frontierB_cell数量>=5，具体使用参考第376行。
+4. Ground和Air的Candidate选好之后，要push金next_frontier_ground和next_frontier_air，并且要对选好的ground_goal进行utility discount，具体参考getNextGroundFrontier和getNextAirFrontier函数，写的很清楚。

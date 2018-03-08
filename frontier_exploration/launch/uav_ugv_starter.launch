@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<launch>
+
+    <param name="wx_min" type="double" value="-1.0"/>
+    <param name="wx_max" type="double" value="7.0"/>
+    <param name="wx_min" type="double" value="-1.0"/>
+    <param name="wy_max" type="double" value="4.0"/>
+
+    <!-- Set to your sensor's range -->
+    <arg name="sensor_range" default="2.0"/>
+
+    <node pkg="frontier_exploration" type="explore_starter" name="explore_server" output="screen">
+	    <param name="map_frame" type="string" value="robot_1/map"/>
+            <param name="initial_goal/flag" type="bool" value = "true" />
+
+	<remap from="uav_odom" to="/robot_0/odom"/>
+	<remap from="ugv_odom" to="/robot_1/odom"/>
+
+        <param name="frequency" type="double" value="5.0"/>
+        <param name="goal_aliasing" type="double" value="$(arg sensor_range)"/>
+
+        #All standard costmap_2d parameters as in move_base, other than BoundedExploreLayer
+        <rosparam ns="explore_costmap" subst_value="true">
+            footprint: [[-0.3, -0.3], [-0.3, 0.3], [0.3, 0.3], [0.35, 0.0], [0.3, -0.3]]
+
+            transform_tolerance: 0.5
+            update_frequency: 5.0
+            publish_frequency: 5.0
+
+            #must match incoming static map
+            global_frame: robot_1/map
+            robot_base_frame: robot_1/base_link
+            resolution: 0.1
+
+            robot_radius: 0.4
+
+            #size
+            width: 24
+            height: 24
+            origin_x: 1.0
+            origin_y: 1.0
+
+            rolling_window: false
+            track_unknown_space: true
+
+            plugins:
+
+                - {name: static_0,           type: "costmap_2d::StaticLayer"}
+                #- {name: explore_boundary, type: "frontier_exploration::BoundedExploreLayer"}
+                - {name: air_ground_explore, type: "frontier_exploration::AirGroundSimExploreLayer"}
+                #Can disable sensor layer if gmapping is fast enough to update scans
+                - {name: sensor_0,           type: "uav_obstacle_layer::UAVObstacleLayer"}
+                - {name: sensor_1,           type: "costmap_2d::ObstacleLayer"}
+                - {name: inflation,        type: "costmap_2d::InflationLayer"}
+
+            static_0:
+                #Can pull data from gmapping, map_server or a non-rolling costmap
+                map_topic: /robot_1/map
+                # map_topic: move_base/global_costmap/costmap
+                subscribe_to_updates: false
+
+            air_ground_explore:
+                resize_to_boundary: false
+                frontier_travel_point: middle
+                #set to false for gmapping, true if re-exploring a known area
+                explore_clear_space: false
+
+
+            explore_boundary:
+                resize_to_boundary: false
+                frontier_travel_point: middle
+                #set to false for gmapping, true if re-exploring a known area
+ 
+            sensor_1:
+                observation_sources: laser
+                laser: {data_type: LaserScan, clearing: true, marking: true, topic: /robot_1/base_scan, inf_is_valid: true, raytrace_range: $(arg sensor_range), obstacle_range: 2}
+
+            sensor_0:
+                observation_sources: zed
+                zed: {data_type: PointCloud2, clearing: true, marking: true, topic: /robot_0/points, min_obstacle_height: -0.5, obstacle_height_threshold: 0.3, raytrace_range: 8.0, obstacle_range: 8.0}
+                 
+                
+
+
+            explore_clear_space: false
+            inflation:
+                inflation_radius: 0.4
+      </rosparam>
+    </node> 
+
+
+    <node pkg="costmap_to_pointcloud" type="costmap_to_pointcloud" name="costmap_to_pointcloud">
+                <remap from="~/costmap_topic" to="/explore_server/explore_costmap/air_ground_explore/gridmap_no_inflation"/>
+    </node>
+
+    <node pkg="move_base_client" type="move_base_client" name="move_base_client"/>
+</launch>

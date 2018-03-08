@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<launch>
+  <master auto="start"/>
+  <param name="/use_sim_time" value="true"/>
+
+  <node pkg="stage_ros" type="stageros" name="stageros" args="$(find frontier_exploration)/stage_config/worlds/uav_ugv_exploration.world" respawn="false">
+    <param name="base_watchdog_timeout" value="0.2"/>
+  </node>
+
+  <node pkg="tf" type="static_transform_publisher" name="robots_static_tf" args="-1.0 -1.0 -2.0 0 0 0 /robot_0/odom /robot_1/map 50" />
+
+
+  <group ns="robot_0">
+	  <param name="tf_prefix" value="robot_0"/>
+	  <include file="$(find depth_image_proc)/launch/stage_image_to_pointcloud.launch" />
+	  <node pkg="uav_sim_controller" type="uav_sim_controller" name="uav_sim_controller" output="screen">
+	  	<param name="tolerance" value="0.0"/>
+	  </node>
+
+  </group>
+  <include file="$(find navigation_stage)/multi_exploration_move_base_config/move_base.xml"/>
+
+
+  <group ns="robot_1">
+	  <param name="tf_prefix" value="robot_1"/>
+
+	  <include file="$(find navigation_stage)/multi_exploration_move_base_config/slam_gmapping_multi.xml" >
+		  <arg name="arg_robot_index" value="robot_1" />
+	  </include>
+
+          <include file="$(find navigation_stage)/multi_exploration_move_base_config/move_base.xml"/>
+
+	  <!--
+	  <node pkg="move_base" type="move_base" respawn="false" name="move_base_node" output="screen">
+	    <remap from="map" to="/robot_1/map" />
+            <param name="controller_frequency" value="10.0" />
+            <rosparam file="$(find navigation_stage)/multi_exploration_move_base_config/costmap_common_params.yaml" command="load" ns="global_costmap" />
+            <rosparam file="$(find navigation_stage)/multi_exploration_move_base_config/costmap_common_params.yaml" command="load" ns="local_costmap" />
+            <rosparam file="$(find navigation_stage)/multi_exploration_move_base_config/local_costmap_params.yaml" command="load" />
+            <rosparam file="$(find navigation_stage)/multi_exploration_move_base_config/global_costmap_params.yaml" command="load" />
+            <rosparam file="$(find navigation_stage)/multi_exploration_move_base_config/base_local_planner_params.yaml" command="load" />
+          </node>
+	  -->
+
+          <node pkg="rviz" type="rviz" name="rviz" />
+  </group>
+
+  <!--group ns="robot_2">
+	  <param name="tf_prefix" value="robot_2"/>
+
+
+	  <include file="$(find navigation_stage)/multi_exploration_move_base_config/move_base.xml"/>
+  </group-->
+
+</launch>

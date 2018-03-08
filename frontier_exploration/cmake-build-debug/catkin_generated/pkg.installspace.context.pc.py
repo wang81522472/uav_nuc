@@ -1,0 +1,8 @@
+# generated from catkin/cmake/template/pkg.context.pc.in
+CATKIN_PACKAGE_PREFIX = ""
+PROJECT_PKG_CONFIG_INCLUDE_DIRS = "/usr/local/include;/usr/local/include/pcl-1.8;/usr/include/eigen3;/usr/include".split(';') if "/usr/local/include;/usr/local/include/pcl-1.8;/usr/include/eigen3;/usr/include" != "" else []
+PROJECT_CATKIN_DEPENDS = "costmap_2d;dynamic_reconfigure;geometry_msgs;roscpp;tf;actionlib;uav_costmap_obstacle_layer".replace(';', ' ')
+PKG_CONFIG_LIBRARIES_WITH_PREFIX = "-lexplore_costmap;-luav_costmap_obstacle_layer;-l:/usr/local/lib/libpcl_common.so;-l:/usr/lib/x86_64-linux-gnu/libboost_system.so;-l:/usr/lib/x86_64-linux-gnu/libboost_filesystem.so;-l:/usr/lib/x86_64-linux-gnu/libboost_thread.so;-l:/usr/lib/x86_64-linux-gnu/libboost_date_time.so;-l:/usr/lib/x86_64-linux-gnu/libboost_iostreams.so;-l:/usr/lib/x86_64-linux-gnu/libboost_serialization.so;-l:/usr/lib/x86_64-linux-gnu/libboost_chrono.so;-l:/usr/lib/x86_64-linux-gnu/libboost_atomic.so;-l:/usr/lib/x86_64-linux-gnu/libboost_regex.so".split(';') if "-lexplore_costmap;-luav_costmap_obstacle_layer;-l:/usr/local/lib/libpcl_common.so;-l:/usr/lib/x86_64-linux-gnu/libboost_system.so;-l:/usr/lib/x86_64-linux-gnu/libboost_filesystem.so;-l:/usr/lib/x86_64-linux-gnu/libboost_thread.so;-l:/usr/lib/x86_64-linux-gnu/libboost_date_time.so;-l:/usr/lib/x86_64-linux-gnu/libboost_iostreams.so;-l:/usr/lib/x86_64-linux-gnu/libboost_serialization.so;-l:/usr/lib/x86_64-linux-gnu/libboost_chrono.so;-l:/usr/lib/x86_64-linux-gnu/libboost_atomic.so;-l:/usr/lib/x86_64-linux-gnu/libboost_regex.so" != "" else []
+PROJECT_NAME = "frontier_exploration"
+PROJECT_SPACE_DIR = "/usr/local"
+PROJECT_VERSION = "0.3.1"

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/pointcloud2_filter/cmake-build-debug/devel/setup.sh
