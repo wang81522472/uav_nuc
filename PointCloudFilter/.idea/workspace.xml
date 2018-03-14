@@ -5,23 +5,22 @@
       <config projectName="pointcloud2_filter" targetName="dynamic_reconfigure_generate_messages_cpp" />
       <config projectName="pointcloud2_filter" targetName="bond_generate_messages_nodejs" />
       <config projectName="pointcloud2_filter" targetName="tf2_msgs_generate_messages_py" />
-      <config projectName="pointcloud2_filter" targetName="sensor_msgs_generate_messages_eus" />
+      <config projectName="pointcloud2_filter" targetName="tf2_msgs_generate_messages_eus" />
+      <config projectName="pointcloud2_filter" targetName="pcl_ros_gencfg" />
       <config projectName="pointcloud2_filter" targetName="tf_generate_messages_eus" />
       <config projectName="pointcloud2_filter" targetName="pointcloud2_filter" />
       <config projectName="pointcloud2_filter" targetName="topic_tools_generate_messages_eus" />
-      <config projectName="pointcloud2_filter" targetName="sensor_msgs_generate_messages_py" />
       <config projectName="pointcloud2_filter" targetName="actionlib_generate_messages_eus" />
-      <config projectName="pointcloud2_filter" targetName="dynamic_reconfigure_generate_messages_py" />
+      <config projectName="pointcloud2_filter" targetName="clean_test_results" />
       <config projectName="pointcloud2_filter" targetName="dynamic_reconfigure_generate_messages_lisp" />
       <config projectName="pointcloud2_filter" targetName="std_srvs_generate_messages_eus" />
       <config projectName="pointcloud2_filter" targetName="nodelet_generate_messages_nodejs" />
-      <config projectName="pointcloud2_filter" targetName="actionlib_generate_messages_cpp" />
       <config projectName="pointcloud2_filter" targetName="geometry_msgs_generate_messages_cpp" />
       <config projectName="pointcloud2_filter" targetName="tf2_msgs_generate_messages_cpp" />
       <config projectName="pointcloud2_filter" targetName="gtest" />
       <config projectName="pointcloud2_filter" targetName="topic_tools_generate_messages_py" />
-      <config projectName="pointcloud2_filter" targetName="rosgraph_msgs_generate_messages_py" />
       <config projectName="pointcloud2_filter" targetName="dynamic_reconfigure_generate_messages_eus" />
+      <config projectName="pointcloud2_filter" targetName="actionlib_generate_messages_nodejs" />
       <config projectName="pointcloud2_filter" targetName="actionlib_generate_messages_py" />
       <config projectName="pointcloud2_filter" targetName="tf_generate_messages_nodejs" />
       <config projectName="pointcloud2_filter" targetName="nodelet_generate_messages_lisp" />
@@ -36,57 +35,58 @@
       <config projectName="pointcloud2_filter" targetName="geometry_msgs_generate_messages_py" />
       <config projectName="pointcloud2_filter" targetName="std_msgs_generate_messages_py" />
       <config projectName="pointcloud2_filter" targetName="geometry_msgs_generate_messages_eus" />
-      <config projectName="pointcloud2_filter" targetName="sensor_msgs_generate_messages_nodejs" />
-      <config projectName="pointcloud2_filter" targetName="bond_generate_messages_py" />
-      <config projectName="pointcloud2_filter" targetName="dynamic_reconfigure_generate_messages_nodejs" />
+      <config projectName="pointcloud2_filter" targetName="bond_generate_messages_lisp" />
+      <config projectName="pointcloud2_filter" targetName="geometry_msgs_generate_messages_lisp" />
       <config projectName="pointcloud2_filter" targetName="bond_generate_messages_eus" />
       <config projectName="pointcloud2_filter" targetName="tf2_msgs_generate_messages_lisp" />
       <config projectName="pointcloud2_filter" targetName="sensor_msgs_generate_messages_cpp" />
       <config projectName="pointcloud2_filter" targetName="tf_generate_messages_lisp" />
       <config projectName="pointcloud2_filter" targetName="tf2_msgs_generate_messages_nodejs" />
-      <config projectName="pointcloud2_filter" targetName="topic_tools_generate_messages_cpp" />
       <config projectName="pointcloud2_filter" targetName="tf_generate_messages_cpp" />
+      <config projectName="pointcloud2_filter" targetName="bond_generate_messages_py" />
       <config projectName="pointcloud2_filter" targetName="doxygen" />
+      <config projectName="pointcloud2_filter" targetName="dynamic_reconfigure_generate_messages_nodejs" />
       <config projectName="pointcloud2_filter" targetName="run_tests" />
       <config projectName="pointcloud2_filter" targetName="geometry_msgs_generate_messages_nodejs" />
       <config projectName="pointcloud2_filter" targetName="nodelet_generate_messages_eus" />
-      <config projectName="pointcloud2_filter" targetName="geometry_msgs_generate_messages_lisp" />
+      <config projectName="pointcloud2_filter" targetName="std_srvs_generate_messages_py" />
+      <config projectName="pointcloud2_filter" targetName="topic_tools_generate_messages_lisp" />
       <config projectName="pointcloud2_filter" targetName="actionlib_msgs_generate_messages_eus" />
       <config projectName="pointcloud2_filter" targetName="std_msgs_generate_messages_eus" />
-      <config projectName="pointcloud2_filter" targetName="bond_generate_messages_lisp" />
       <config projectName="pointcloud2_filter" targetName="pcl_msgs_generate_messages_cpp" />
       <config projectName="pointcloud2_filter" targetName="rosgraph_msgs_generate_messages_cpp" />
       <config projectName="pointcloud2_filter" targetName="roscpp_generate_messages_nodejs" />
       <config projectName="pointcloud2_filter" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="pointcloud2_filter" targetName="sensor_msgs_generate_messages_lisp" />
       <config projectName="pointcloud2_filter" targetName="std_srvs_generate_messages_lisp" />
-      <config projectName="pointcloud2_filter" targetName="tf2_msgs_generate_messages_eus" />
+      <config projectName="pointcloud2_filter" targetName="sensor_msgs_generate_messages_eus" />
       <config projectName="pointcloud2_filter" targetName="tf_generate_messages_py" />
-      <config projectName="pointcloud2_filter" targetName="clean_test_results" />
-      <config projectName="pointcloud2_filter" targetName="topic_tools_generate_messages_lisp" />
+      <config projectName="pointcloud2_filter" targetName="std_srvs_generate_messages_nodejs" />
+      <config projectName="pointcloud2_filter" targetName="dynamic_reconfigure_generate_messages_py" />
       <config projectName="pointcloud2_filter" targetName="actionlib_msgs_generate_messages_nodejs" />
       <config projectName="pointcloud2_filter" targetName="pcl_msgs_generate_messages_py" />
       <config projectName="pointcloud2_filter" targetName="std_msgs_generate_messages_lisp" />
       <config projectName="pointcloud2_filter" targetName="roscpp_generate_messages_py" />
       <config projectName="pointcloud2_filter" targetName="actionlib_msgs_generate_messages_lisp" />
       <config projectName="pointcloud2_filter" targetName="rosgraph_msgs_generate_messages_eus" />
-      <config projectName="pointcloud2_filter" targetName="sensor_msgs_generate_messages_lisp" />
+      <config projectName="pointcloud2_filter" targetName="topic_tools_generate_messages_cpp" />
       <config projectName="pointcloud2_filter" targetName="rosgraph_msgs_generate_messages_lisp" />
-      <config projectName="pointcloud2_filter" targetName="actionlib_generate_messages_nodejs" />
-      <config projectName="pointcloud2_filter" targetName="std_srvs_generate_messages_nodejs" />
+      <config projectName="pointcloud2_filter" targetName="actionlib_generate_messages_cpp" />
+      <config projectName="pointcloud2_filter" targetName="sensor_msgs_generate_messages_py" />
       <config projectName="pointcloud2_filter" targetName="download_extra_data" />
       <config projectName="pointcloud2_filter" targetName="pcl_msgs_generate_messages_nodejs" />
       <config projectName="pointcloud2_filter" targetName="actionlib_msgs_generate_messages_py" />
       <config projectName="pointcloud2_filter" targetName="pcl_msgs_generate_messages_eus" />
       <config projectName="pointcloud2_filter" targetName="gtest_main" />
       <config projectName="pointcloud2_filter" targetName="tests" />
-      <config projectName="pointcloud2_filter" targetName="std_srvs_generate_messages_py" />
+      <config projectName="pointcloud2_filter" targetName="sensor_msgs_generate_messages_nodejs" />
       <config projectName="pointcloud2_filter" targetName="nodelet_generate_messages_py" />
       <config projectName="pointcloud2_filter" targetName="roscpp_generate_messages_lisp" />
       <config projectName="pointcloud2_filter" targetName="bond_generate_messages_cpp" />
       <config projectName="pointcloud2_filter" targetName="actionlib_generate_messages_lisp" />
       <config projectName="pointcloud2_filter" targetName="std_srvs_generate_messages_cpp" />
       <config projectName="pointcloud2_filter" targetName="roscpp_generate_messages_cpp" />
-      <config projectName="pointcloud2_filter" targetName="pcl_ros_gencfg" />
+      <config projectName="pointcloud2_filter" targetName="rosgraph_msgs_generate_messages_py" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -96,7 +96,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47133c55-369c-4115-967a-00cc04771da1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pointcloud2_filter.cpp" afterPath="$PROJECT_DIR$/src/pointcloud2_filter.cpp" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -109,11 +108,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pointcloud2_filter.cpp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pointcloud2_filter.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pointcloud2_filter.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+            <state relative-caret-position="578">
+              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding>
                 <element signature="e#46#82#0" expanded="true" />
               </folding>
@@ -131,11 +130,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PCLPointCloud2.h" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PCLPointCloud2.h" pinned="false" current-in-tab="false">
         <entry file="file:///usr/include/pcl-1.7/pcl/PCLPointCloud2.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state relative-caret-position="939">
+              <caret line="63" column="19" lean-forward="false" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -161,10 +160,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="4968" />
-    <option name="y" value="1013" />
-    <option name="width" value="1863" />
-    <option name="height" value="1092" />
+    <option name="x" value="5859" />
+    <option name="y" value="185" />
+    <option name="width" value="2501" />
+    <option name="height" value="1444" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -584,17 +583,18 @@
       <workItem from="1519387709044" duration="15000" />
       <workItem from="1519538203666" duration="1810000" />
       <workItem from="1519562235107" duration="12000" />
+      <workItem from="1521015145785" duration="1503000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8599000" />
+    <option name="totallyTimeSpent" value="10102000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4968" y="1013" width="1863" height="1092" extended-state="6" />
+    <frame x="5859" y="185" width="2501" height="1444" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.118216015" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.117952816" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -625,6 +625,32 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/pointcloud2_filter.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+          <folding>
+            <element signature="e#46#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/pcl-1.7/pcl/PCLPointCloud2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pointcloud2_filter.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -721,21 +747,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pointcloud2_filter.cpp">
+    <entry file="file:///usr/include/pcl-1.7/pcl/PCLPointCloud2.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-          <folding>
-            <element signature="e#46#82#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="939">
+          <caret line="63" column="19" lean-forward="false" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/include/pcl-1.7/pcl/PCLPointCloud2.h">
+    <entry file="file://$PROJECT_DIR$/src/pointcloud2_filter.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="578">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="e#46#82#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

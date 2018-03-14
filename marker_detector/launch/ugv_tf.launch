@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="marker_detector" type="odom_to_tf" name="marker_detector" output="screen">
+        <param name= "ugv_odom_frame" type="string" value="robot_1/odom"/>
+        <remap from="~/ugv_odom" to="/aft_mapped_to_init"/>
+    </node>
+</launch>

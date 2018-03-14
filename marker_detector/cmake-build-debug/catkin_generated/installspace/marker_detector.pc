@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: marker_detector
+Description: Description of marker_detector
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

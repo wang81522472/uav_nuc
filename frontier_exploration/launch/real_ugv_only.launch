@@ -2,9 +2,9 @@
 <launch>
 
     <param name="wx_min" type="double" value="-1.0"/>
-    <param name="wx_max" type="double" value="19.0"/>
+    <param name="wx_max" type="double" value="7.0"/>
    <param name="wy_min" type="double" value="-1.0"/>
-   <param name="wy_max" type="double" value="8.0"/>
+   <param name="wy_max" type="double" value="4.0"/>
    <param name="ground_range" type="double" value="4.0"/>
    <param name="path_search_rho" type="double" value="1.0"/>
    <param name="infogain_range" type="double" value="8.0"/>

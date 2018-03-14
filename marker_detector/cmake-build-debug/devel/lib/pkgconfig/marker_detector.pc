@@ -1,0 +1,8 @@
+prefix=/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/marker_detector/cmake-build-debug/devel
+
+Name: marker_detector
+Description: Description of marker_detector
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/chengdaqian/UAV_UGV_Exploration/explor_catkin_ws/src/marker_detector/cmake-build-debug/devel/lib 
+Requires: 

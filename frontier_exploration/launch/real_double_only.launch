@@ -28,7 +28,7 @@
 
     <node pkg="frontier_exploration" type="explore_server" name="explore_server" output="screen" >
 
-	<remap from="uav_odom" to="/vins_estimator_be_1b/odometry"/>
+	<remap from="uav_odom" to="/vins_estimator/odometry"/>
 	<remap from="ugv_odom" to="/ekf_node/odom_ekf"/>
 
         <param name="frequency" type="double" value="5.0"/>

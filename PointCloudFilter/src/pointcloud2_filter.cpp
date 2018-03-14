@@ -33,17 +33,21 @@ void cloud_cb (const sensor_msgs::PointCloud2ConstPtr& cloud_msg)
   sensor_msgs::PointCloud2 output;
   pcl_conversions::fromPCL(cloud_filtered, output);
 
-    sensor_msgs::PointCloud point_cloud_1;
-    sensor_msgs::convertPointCloud2ToPointCloud(output, point_cloud_1);
-
-    float y, z;
-    for (auto it = point_cloud_1.points.begin(); it != point_cloud_1.points.end(); it++){
-        y = it->y;
-        z = it->z;
-        if (y > (uav_fov_/2 + 0.07) || y < (-uav_fov_/2 + 0.07) || abs(z) > uav_fov_/2)
-            point_cloud_1.points.erase(it);
+  sensor_msgs::PointCloud point_cloud_1;
+  sensor_msgs::convertPointCloud2ToPointCloud(output, point_cloud_1);
+  float y, z;
+  for (auto it = point_cloud_1.points.begin(); it != point_cloud_1.points.end(); it++){
+    //cnt ++;
+    //ROS_INFO_STREAM("Got one! got number: " << cnt);
+    y = it->y;
+    z = it->z;
+    if (y > (uav_fov_/2 + 0.07) || y < (-uav_fov_/2 + 0.07) || abs(z) > uav_fov_/2){
+      point_cloud_1.points.erase(it);
+      it--;
     }
-    sensor_msgs::convertPointCloudToPointCloud2(point_cloud_1, output);
+
+  }
+  sensor_msgs::convertPointCloudToPointCloud2(point_cloud_1, output);
 
 
   // Publish the data
@@ -54,7 +58,7 @@ int main (int argc, char** argv)
 {
   // Initialize ROS
   ros::init (argc, argv, "pointcloud2_filter");
-  ros::NodeHandle nh("~");
+  ros::NodeHandle nh;
 
   // Create a ROS subscriber for the input point cloud
   ros::Subscriber sub = nh.subscribe ("input_cloud", 1, cloud_cb);
