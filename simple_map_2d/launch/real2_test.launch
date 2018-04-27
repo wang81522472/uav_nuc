@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<launch>
+    <param name="uav_height" type="double" value="0.3"/>
+    <param name="is_sim" type="bool" value="false"/>
+    <node pkg="simple_map_2d" type="duet_test" name="duet_test" output="screen">
+        <remap from="~/simple_map_node/uav_odom"   to="/vins_estimator/odometry"/>
+        <remap from="~/simple_map_node/ugv_odom"   to="/ekf_node/odom_ekf"/>
+        <remap from="~/simple_map_node/uav_sensor" to="/zed/filtered_cloud"/>
+        <remap from="~/simple_map_node/ugv_sensor" to="/scan"/>
+    </node>
+
+</launch>
+

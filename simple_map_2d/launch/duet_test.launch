@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="simple_map_2d" type="duet_test" name="duet_test" output="screen">
+        <remap from="~/simple_map_node/uav_odom"   to="/robot_0/odom"/>
+        <remap from="~/simple_map_node/ugv_odom"   to="/robot_1/odom"/>
+        <remap from="~/simple_map_node/uav_sensor" to="/robot_0/points"/>
+        <remap from="~/simple_map_node/ugv_sensor" to="/robot_1/base_scan"/>
+    </node>
+
+</launch>
+

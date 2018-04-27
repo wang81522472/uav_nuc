@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<launch>
+    <param name="is_sim" type="bool"   value="true"/>
+    <param name="wx_min" type="double" value="-1.0"/>
+    <param name="wx_max" type="double" value="19.0"/>
+    <param name="wy_min" type="double" value="-1.0"/>
+    <param name="wy_max" type="double" value="19.0"/>
+    <param name="is_has_uav" type="bool" value="true"/>
+    <param name="is_has_ugv" type="bool" value="true"/>
+    <param name="ground_range" type="double" value="6.0"/>
+    <param name="resolution" type="double" value="0.1"/>
+    <param name="inflation_radius" type="double" value="0.2"/>
+
+    <node pkg="duet_exploration" type="harmonic_duet" name="harmonic_duet_node" output="screen">
+        <remap from="~/simple_map/uav_odom"   to="/robot_0/odom"/>
+        <remap from="~/simple_map/ugv_odom"   to="/robot_1/odom"/>
+        <remap from="~/simple_map/uav_sensor" to="/robot_0/points"/>
+        <remap from="~/simple_map/ugv_sensor" to="/robot_1/base_scan"/>
+
+        <param name="~update_duration"    type="double" value="1.0"   />
+        <param name="~min_frontier_size"  type="int"    value="5"     />
+        <param name="~update_precision"   type="double" value="0.00001"/>
+        <param name="~sor_w"              type="double" value="1.8"   />
+        <param name="~uav_fronA_frontier" type="double" value="1.0"   />
+        <param name="~uav_fronB_frontier" type="double" value="10.0"  />
+        <param name="~utility_discount"   type="double" value="0.7"   />
+        <param name="~relaxation_method"  type="int"    value="2"     />
+    </node>
+
+    <node pkg="costmap_to_pointcloud" type="costmap_to_pointcloud" name="costmap_to_pointcloud">
+        <remap from="~/costmap_topic" to="/harmonic_duet_node/simple_map/simple_map"/>
+        <param name="~obstacle_val" type="int" value="100"/>
+        <param name="~obstacle_height" type="double" value="0.8"/>
+    </node>
+
+</launch>

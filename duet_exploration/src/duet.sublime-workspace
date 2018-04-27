@@ -1,0 +1,1192 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"expl",
+				"explorer"
+			],
+			[
+				"ugv",
+				"ugv_odom_origin"
+			],
+			[
+				"uav_po",
+				"uav_position"
+			],
+			[
+				"time",
+				"time2"
+			],
+			[
+				"motion",
+				"motion_primitive"
+			],
+			[
+				"ROS",
+				"ROS_WARN"
+			],
+			[
+				"trree",
+				"tree_marker"
+			],
+			[
+				"tree",
+				"tree_marker"
+			],
+			[
+				"comp",
+				"compAirGoalInfoGain"
+			],
+			[
+				"wx_max",
+				"wx_max"
+			],
+			[
+				"w",
+				"wy_min_"
+			],
+			[
+				"wx",
+				"wx_min_"
+			],
+			[
+				"wy_mi",
+				"wy_min"
+			],
+			[
+				"re",
+				"resize"
+			],
+			[
+				"P",
+				"Path"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"wa",
+				"way_pose"
+			],
+			[
+				"vec",
+				"vector\tstd::vector"
+			],
+			[
+				"fail",
+				"fail_safe"
+			],
+			[
+				"uav",
+				"uav_goal_"
+			],
+			[
+				"new",
+				"new_path"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"exp",
+				"explorer_"
+			],
+			[
+				"explo",
+				"duet_exploration"
+			],
+			[
+				"get",
+				"get_state"
+			],
+			[
+				"uav_wa",
+				"uav_waypts_pub_"
+			],
+			[
+				"x",
+				"x_in_state"
+			],
+			[
+				"way",
+				"way_states"
+			],
+			[
+				"next",
+				"next_cost"
+			],
+			[
+				"nex",
+				"next_info_gain"
+			],
+			[
+				"tmp",
+				"tmp_info_gain"
+			],
+			[
+				"_cmd",
+				"_cmd_vel"
+			],
+			[
+				"ve",
+				"velocity"
+			],
+			[
+				"_cm",
+				"_cmd_odom"
+			],
+			[
+				"path",
+				"path_sz"
+			],
+			[
+				"ROS_",
+				"ROS_ERROR"
+			],
+			[
+				"sp",
+				"spinOnce"
+			],
+			[
+				"cube",
+				"cube_list"
+			],
+			[
+				"UG",
+				"UGV_MAX_SPEED"
+			],
+			[
+				"Pa",
+				"Path2D"
+			],
+			[
+				"cub",
+				"cube"
+			],
+			[
+				"prin",
+				"printBox"
+			],
+			[
+				"Sta",
+				"StartPt"
+			],
+			[
+				"Ve",
+				"VectorXd"
+			],
+			[
+				"pr",
+				"printBox"
+			],
+			[
+				"rob",
+				"robot_1"
+			],
+			[
+				"ex",
+				"explorer_"
+			],
+			[
+				"coo",
+				"coord_y"
+			],
+			[
+				"coor",
+				"coord_y"
+			],
+			[
+				"idx",
+				"idx_y"
+			],
+			[
+				"id_max",
+				"id_x_max"
+			],
+			[
+				"map_",
+				"map_inflation_"
+			],
+			[
+				"id",
+				"id_x"
+			],
+			[
+				"getC",
+				"getCost"
+			],
+			[
+				"id_",
+				"id_y"
+			],
+			[
+				"pt_",
+				"pt_max_x"
+			],
+			[
+				"pt",
+				"pt_min_x"
+			],
+			[
+				"push",
+				"push_back"
+			],
+			[
+				"is",
+				"is_init"
+			],
+			[
+				"traj",
+				"traj_viz"
+			],
+			[
+				"na",
+				"nav_msgs"
+			],
+			[
+				"position",
+				"position_cmd"
+			],
+			[
+				"T",
+				"Time"
+			],
+			[
+				"tra",
+				"traj_start_time"
+			],
+			[
+				"V",
+				"VectorXd"
+			],
+			[
+				"ugv_pos",
+				"ugv_pos_est"
+			],
+			[
+				"plan",
+				"plan_time_start"
+			],
+			[
+				"uav_pos",
+				"uav_pos_est"
+			],
+			[
+				"delay",
+				"delay_est"
+			],
+			[
+				"uav_",
+				"uav_coef_"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"tim",
+				"time1"
+			],
+			[
+				"start_",
+				"start_traj"
+			],
+			[
+				"cu",
+				"consume"
+			],
+			[
+				"po",
+				"point_pass"
+			],
+			[
+				"poin",
+				"point_pass"
+			],
+			[
+				"R_",
+				"R_vins_cur"
+			],
+			[
+				"Q",
+				"Q_vins_tran"
+			],
+			[
+				"T_",
+				"T_vins_tran"
+			],
+			[
+				"vins",
+				"vinsOdom_tran"
+			],
+			[
+				"T_vins",
+				"T_vins_tran"
+			],
+			[
+				"q",
+				"Quaterniond"
+			],
+			[
+				"ma",
+				"Matrix3d"
+			],
+			[
+				"laser",
+				"laser_vins_compare"
+			],
+			[
+				"tran",
+				"transformSum"
+			],
+			[
+				"iter",
+				"iterCount"
+			],
+			[
+				"del",
+				"deltaT"
+			],
+			[
+				"trans",
+				"transformSum"
+			],
+			[
+				"is_",
+				"is_mapping_valid"
+			],
+			[
+				"Poin",
+				"PointXYZI"
+			],
+			[
+				"poi",
+				"pointSearchInd"
+			],
+			[
+				"int",
+				"intensity"
+			],
+			[
+				"is_mapping",
+				"is_mapping_init"
+			],
+			[
+				"se",
+				"sensor_msgs"
+			],
+			[
+				"vic",
+				"vicon_odom"
+			],
+			[
+				"ori",
+				"origin_q"
+			],
+			[
+				"origin",
+				"origin_R"
+			],
+			[
+				"Qua",
+				"Quaternion"
+			],
+			[
+				"orig",
+				"origin_x"
+			],
+			[
+				"vicon",
+				"vicon_odom"
+			],
+			[
+				"h",
+				"header"
+			],
+			[
+				"laserCloudSurf",
+				"laserCloudSurfFromMap"
+			],
+			[
+				"laserCloudC",
+				"laserCloudCornerFromMap"
+			],
+			[
+				"point",
+				"point_select"
+			],
+			[
+				"Poi",
+				"PointCloud"
+			],
+			[
+				"Po",
+				"PointXYZI"
+			],
+			[
+				"aft",
+				"aft_mapped"
+			],
+			[
+				"camera",
+				"camera_init"
+			],
+			[
+				"t_",
+				"t_set_input2"
+			],
+			[
+				"tmp_",
+				"tmp_yaw"
+			],
+			[
+				"pi",
+				"pi_round"
+			],
+			[
+				"imu",
+				"imuYawLast"
+			],
+			[
+				"tm",
+				"tmp_yaw"
+			],
+			[
+				"mat",
+				"matE"
+			],
+			[
+				"cen",
+				"centerCubeI"
+			],
+			[
+				"imuPitc",
+				"imuPitchLast"
+			],
+			[
+				"imuPi",
+				"imuPitchLast"
+			],
+			[
+				"ypr",
+				"ypr_imu"
+			],
+			[
+				"Ma",
+				"Matrix3f"
+			],
+			[
+				"imuYaw",
+				"imuYawLast"
+			],
+			[
+				"R_imu",
+				"R_imu_init"
+			],
+			[
+				"qi",
+				"Quaternion"
+			],
+			[
+				"kd",
+				"kdtreeSurfFromMap\tpcl::search::KdTree<pcl::PointXYZ>::Ptr"
+			],
+			[
+				"t_debug",
+				"t_debug2\tdouble"
+			],
+			[
+				"to",
+				"toSec"
+			],
+			[
+				"map",
+				"map_filter\tpcl::PointCloud<pcl::PointXYZI>"
+			],
+			[
+				"star",
+				"startOri\tfloat"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "harmonic_duet.cpp",
+			"settings":
+			{
+				"buffer_size": 66976,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/gf/catkin_ws/src/traj_opt/fm_planer/src/fm_trajectory_node.cpp",
+			"settings":
+			{
+				"buffer_size": 43460,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "path_search.cpp",
+			"settings":
+			{
+				"buffer_size": 8834,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "#ifndef PATH_SEARCH_H_\n#define PATH_SEARCH_H_\n#include <iostream>\n#include <vector>\n#include <list>\n#include <eigen3/Eigen/Dense>\n#include <cmath>\n#include <unsupported/Eigen/MatrixFunctions>\n#include <duet_exploration/harmonic_duet.h>\n#include <ros/ros.h>\n#include <sensor_msgs/PointCloud2.h>\n#include <pcl_ros/point_cloud.h>\n#include <pcl/point_cloud.h>\n#include <pcl/point_types.h>\n#include <visualization_msgs/Marker.h>\n#include <boost/heap/fibonacci_heap.hpp>\n#include <geometry_msgs/PoseArray.h>\n\n\n\nnamespace duet_exploration{\n\n    class search_tree{\n    public:\n        search_tree() : cost(-1),score(-1) {}\n        search_tree(search_tree* parent,Eigen::VectorXd input,Eigen::VectorXd state,double time, double time_step,\n                    std::vector<Eigen::VectorXd> &input_list, unsigned int n_layers, double info_gain, double cost, double score);\n\n        ~search_tree(){\n            for(auto it= children.rbegin(); it != children.rend(); ++it){\n                delete *it;\n            }\n        }\n\n\t\n\n        Eigen::VectorXd get_input(){ return input;}\n        Eigen::VectorXd get_state(){ return state;}\n        double get_time(){ return time;}\n        double get_cost(){ return cost;}\n        double get_score()const{ return score;}\n\n        search_tree* get_parent(){return parent;}\n\n        std::vector<search_tree*>& get_children(){\n            return this->children;\n        }\n\n        void set_max_leaf_node(search_tree* max_leaf)\n\t{\n\t    this->max_node=max_leaf;\n\t}\n\n        search_tree* get_max_node()\n\t{\n\t    return this->max_node;\n\t}\n        struct search_tree_node_compare\n        {\n            bool operator()(search_tree* const &e1, search_tree* const &e2) const\n            {\n                return e1->get_score()<e2->get_score();\n            }\n        };\n        boost::heap::fibonacci_heap<search_tree*, boost::heap::compare<search_tree_node_compare>>* get_f_heap(){\n            return &f_heap;\n        }\n        \n        double get_time_step(){\n            return time_step;\n        }\n    private:\n        search_tree* parent;\n        std::vector<search_tree*> children;\n        Eigen::VectorXd input;\n        Eigen::VectorXd state;\n        double time;\n        double info_gain;\n        double cost;\n        double score;\n        Eigen::MatrixXd A;\n        Eigen::MatrixXd B;\n        search_tree* max_node;\n        boost::heap::fibonacci_heap<search_tree*, boost::heap::compare<search_tree_node_compare>> f_heap;\n        double time_step;\n    };\n\n    class root_node : public search_tree{\n    public:\n        root_node():search_tree(){};\n        root_node(Eigen::VectorXd state, double time_step, std::vector<Eigen::VectorXd> input_list, unsigned int n_layers)\n                : search_tree(nullptr, Eigen::VectorXd::Zero(input_list[0].size()),state,0.0,time_step,input_list, n_layers, 0.0, 0.0, 0.0)\n        {\n            this->n_layers=n_layers;\n            this->input_list=input_list;\n            \n        }\n\n    private:\n        unsigned int n_layers;\n        std::vector<Eigen::VectorXd> input_list;\n\n    };\n\n    class path_search{\n    public:\n        path_search();\n        path_search(Eigen::VectorXd uav_plan_pos, double plan_time_start);\n        bool find_max_path();\n\n        ~path_search(){\n            delete uav_tree;\n        }\n\n        root_node* get_uav_tree(){\n            return uav_tree;\n        }\n\n        double get_plan_time_start(){\n            return plan_time_start;\n        }\n\n        pcl::PointCloud<pcl::PointXYZI>& viz_tree(visualization_msgs::Marker &tree_marker);\n\n    private:\n        root_node* uav_tree;\n        double plan_time_start;\n\n        pcl::PointCloud<pcl::PointXYZI> uav_tree_cloud_viz_;\n        \n        void viz_tree_recursive(search_tree *tree, visualization_msgs::Marker &tree_marker);\n    };\n}\n\n\n#endif\n",
+			"file": "/home/gf/catkin_ws/src/duet_exploration/include/duet_exploration/path_search.h",
+			"file_size": 3937,
+			"file_write_time": 131691641490337001,
+			"settings":
+			{
+				"buffer_size": 3787,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/gf/catkin_ws/src/sim_odom_controller/src/harmonic_uav_controller.cpp",
+			"settings":
+			{
+				"buffer_size": 11511,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/gf/catkin_ws/src/duet_exploration/include/duet_exploration/harmonic_duet.h",
+			"settings":
+			{
+				"buffer_size": 6032,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 117.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sublimeclang se",
+				"Preferences: SublimeClang Settings – User"
+			]
+		],
+		"width": 422.0
+	},
+	"console":
+	{
+		"height": 223.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/gf/catkin_ws/src/duet_exploration",
+		"/home/gf/catkin_ws/src/duet_exploration/include",
+		"/home/gf/catkin_ws/src/duet_exploration/include/duet_exploration",
+		"/home/gf/catkin_ws/src/duet_exploration/launch",
+		"/home/gf/catkin_ws/src/duet_exploration/src"
+	],
+	"file_history":
+	[
+		"/home/gf/catkin_ws/src/duet_exploration/launch/real2_harmonic.launch",
+		"/home/gf/catkin_ws/src/sim_odom_controller/src/harmonic_uav_controller.cpp",
+		"/home/gf/catkin_ws/src/simple_map_2d/src/simple_map_2d.cpp",
+		"/home/gf/catkin_ws/src/simple_map_2d/include/simple_map_2d/simple_map_2d.h",
+		"/home/gf/catkin_ws/src/duet_exploration/src/trajectory_generator_lite.cpp",
+		"/home/gf/catkin_ws/src/traj_opt/fm_planer/src/fm_trajectory_node.cpp",
+		"/home/gf/catkin_ws/src/traj_opt/fm_planer/include/fm_planer/trajectory_generator_lite.h",
+		"/home/gf/catkin_ws/src/traj_opt/fm_planer/src/trajectory_generator_lite.cpp",
+		"/home/gf/catkin_ws/src/duet_exploration/src/traj_server.cpp",
+		"/home/gf/catkin_ws/src/duet_exploration/src/bezier_base.cpp",
+		"/home/gf/catkin_ws/src/traj_opt/fm_planer/include/fm_planer/utils.h",
+		"/home/gf/catkin_ws/src/duet_exploration/include/duet_exploration/dataType.h",
+		"/home/gf/catkin_ws/src/duet_exploration/include/duet_exploration/trajectory_generator_lite.h",
+		"/home/gf/catkin_ws/src/duet_exploration/CMakeLists.txt",
+		"/home/gf/catkin_ws/src/traj_opt/fm_planer/CMakeLists.txt",
+		"/home/gf/catkin_ws/src/simple_map_2d/src/simple_map_2d_ros.cpp",
+		"/home/gf/catkin_ws/src/duet_exploration/include/duet_exploration/costmap_tools.h",
+		"/home/gf/catkin_ws/src/frontier_exploration/plugins/air_ground_sim_explore_layer.cpp",
+		"/home/gf/catkin_ws/src/grad_field_ctrl/src/grad_field_ctrl.cpp",
+		"/media/gf/CPBA_X64FRE/traj_opt/fm_planer/CMakeLists.txt",
+		"/home/gf/catkin_ws/src/sim_odom_controller/src/test_traj.cpp",
+		"/home/gf/catkin_ws/src/frontier_exploration/include/frontier_exploration/air_ground_sim_explore_layer.h",
+		"/home/gf/catkin_ws/src/sim_odom_controller/src/sim_odom_controller.cpp",
+		"/home/gf/catkin_ws/src/frontier_exploration/plugins/path_search.cpp",
+		"/home/gf/catkin_ws/src/frontier_exploration/include/frontier_exploration/path_search.h",
+		"/home/gf/catkin_ws/src/frontier_exploration/plugins/trajectory_generator_waypoint.cpp",
+		"/home/gf/Desktop/icra2018Fei/fm_planer/src/convert_plot.cpp",
+		"/home/gf/catkin_ws/src/n1ctrl/src/n1ctrl_node.cpp",
+		"/home/gf/Desktop/icra2018Fei/sdf_wrapper/src/sdf_wrapper_node.cpp",
+		"/home/gf/catkin_ws/src/laser_estimation/loam_velodyne/src/transformMaintenance.cpp",
+		"/home/gf/catkin_ws/src/laser_estimation/loam_velodyne/src/loam_velodyne.sublime-project",
+		"/home/gf/catkin_ws/src/laser_estimation/loam_velodyne/src/laserOdom_v1.cpp",
+		"/home/gf/catkin_ws/src/laser_estimation/loam_velodyne/src/laserOdom_v2.cpp",
+		"/home/gf/catkin_ws/src/laser_estimation/loam_velodyne/src/globalCorrection.cpp",
+		"/home/gf/catkin_ws/src/laser_estimation/loam_velodyne/src/laser_vins_compare.cpp",
+		"/home/bbgf/my_catkin_ws/laser_ekf.launch",
+		"/home/bbgf/my_catkin_ws/src/loam_velodyne/loam_velodyne.launch",
+		"/home/bbgf/my_catkin_ws/src/loam_continuous/src/scanRegistration.cpp",
+		"/home/bbgf/my_catkin_ws/src/loam_velodyne/CMakeLists.txt",
+		"/home/bbgf/Downloads/loam_velodyne-master/src/laserOdometry.cpp",
+		"/home/bbgf/.config/sublime-text-3/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/home/bbgf/.config/sublime-text-3/Packages/User/SublimeClang.sublime-settings",
+		"/usr/include/pcl-1.7/pcl/search/kdtree.h",
+		"/home/bbgf/Downloads/loam_velodyne-master/src/laserMapping.cpp",
+		"/home/bbgf/my_catkin_ws/src/loam_velodyne/src/scanRegistration.cpp",
+		"/home/bbgf/Downloads/loam_velodyne-master/src/scanRegistration.cpp",
+		"/home/bbgf/my_catkin_ws/src/loam_continuous/src/laserOdometry.cpp",
+		"/home/bbgf/my_catkin_ws/src/loam_continuous/src/laserMapping.cpp",
+		"/home/bbgf/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/bbgf/my_catkin_ws/src/loam_velodyne/src/loam_velodyne.sublime-project",
+		"/home/bbgf/Dropbox/ELEC5600/src/ekf_node_quaternion.cpp",
+		"/home/bbgf/Desktop/loam_velodyne/src/laserMapping.cpp",
+		"/home/bbgf/my_catkin_ws/src/loam_continuous/src/transformMaintenance.cpp",
+		"/home/bbgf/my_catkin_ws/src/laser_odom/src/test_icp.cpp",
+		"/home/bbgf/my_catkin_ws/src/loam_velodyne/src/laserOdometry.cpp",
+		"/home/bbgf/my_catkin_ws/src/loam_velodyne/src/transformMaintenance.cpp",
+		"/home/bbgf/my_catkin_ws/src/loam_velodyne/src/laserMapping.cpp",
+		"/home/bbgf/my_catkin_ws/src/ekf/src/ekf_node.cpp",
+		"/home/bbgf/my_catkin_ws/src/ekf/src/ekf.cpp",
+		"/home/bbgf/my_catkin_ws/src/m100_laser/estimation/multi_sensor_ukf/src/quadrotor_ukf_node.cpp",
+		"/home/bbgf/my_catkin_ws/src/ekf/launch/bag_tag.launch",
+		"/home/bbgf/my_catkin_ws/src/ekf/CMakeLists.txt",
+		"/home/bbgf/my_catkin_ws/src/laser_odom/CMakeLists.txt",
+		"/home/bbgf/my_catkin_ws/src/laser_odom/package.xml",
+		"/home/bbgf/my_catkin_ws/src/tag_detector/src/tag_detector_node.cpp",
+		"/home/bbgf/my_catkin_ws/src/ekf/src/ekf.sublime-project",
+		"/home/bbgf/my_catkin_ws/src/ekf/src/ekf.h",
+		"/home/bbgf/my_ws/src/ekf/launch/bag_tag.launch",
+		"/home/bbgf/tra_simu/src/simulation.launch",
+		"/home/bbgf/my_ws/src/zmart_cv/include/zmart_cv/zmart_img_proc.hpp",
+		"/home/bbgf/my_catkin_ws/src/voxel_trajectory/src/voxel_trajectory/octomap.cpp",
+		"/usr/include/eigen3/Eigen/src/Core/MatrixBase.h",
+		"/home/bbgf/my_ws/src/ekf/src/ekf.cpp",
+		"/home/bbgf/my_ws/src/ekf/src/pose.h",
+		"/home/bbgf/my_ws/src/ekf/src/ekf.h",
+		"/home/bbgf/Desktop/ukf/quadrotor_ukf_lite/src/quadrotor_ukf.h",
+		"/home/bbgf/my_ws/src/ekf/src/ekf_node.cpp",
+		"/home/bbgf/my_ws/src/tag_detector/src/tag_detector_node.cpp",
+		"/home/bbgf/my_ws/src/ekf/src/ekf.sublime-",
+		"/home/bbgf/Desktop/ekf_node_1118.cpp",
+		"/home/bbgf/my_ws/src/zmart_cv/src/zmart_img_proc.cpp",
+		"/home/bbgf/my_ws/src/ekf/src/ekf.sublime-project",
+		"/home/bbgf/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/bbgf/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/bbgf/my_ws/src/tag_detector/launch/bag_tag.launch",
+		"/home/bbgf/my_ws/src/zmart_cv/src/zmart_img_gao.cpp",
+		"/home/bbgf/my_ws/src/zmart_cv/CMakeLists.txt",
+		"/home/bbgf/Desktop/odroid_ws/your_code/trajectory.h",
+		"/home/bbgf/my_ws/src/zmart_cv/src/1.sublime-project",
+		"/usr/include/opencv2/contrib/openfabmap.hpp",
+		"/usr/include/opencv2/calib3d/calib3d.hpp",
+		"/home/bbgf/my_ws/src/zmart_cv/src/visual_ref.cpp",
+		"/home/bbgf/my_ws/test.cpp",
+		"/home/bbgf/my_ws/src/bluefox2/launch/single_nodelet.launch",
+		"/home/bbgf/my_ws/src/bluefox2/launch/single_node.launch",
+		"/home/bbgf/桌面/#ifndef control_funtion_h",
+		"/home/bbgf/my_ws/src/camera_base/launch/extras.launch",
+		"/home/bbgf/my_ws/src/bluefox2/launch/general.launch",
+		"/home/bbgf/my_ws/src/camera_base-master/launch/extras.launch",
+		"/home/bbgf/桌面/ukf/quadrotor_ukf_lite/src/quadrotor_ukf.cpp",
+		"/home/bbgf/桌面/ukf/quadrotor_ukf_lite/src/quadrotor_ukf_node.cpp",
+		"/home/bbgf/桌面/ukf/quadrotor_ukf_lite/src/quadrotor_ukf.h",
+		"/home/bbgf/tra_simu/src/trajectory_generator/src/polynomial_trajectory_generator.h",
+		"/home/bbgf/my_ws/src/zmart_cv/src/zmart_img_frontend.cpp",
+		"/home/bbgf/my_ws/src/tao/src/tao/img_frontend.cpp",
+		"/home/bbgf/my_ws/data/calib_file3.xml",
+		"/home/bbgf/my_ws/src/tao/include/tao/img_frontend.hpp",
+		"/home/bbgf/tra_simu/src/trajectory_generator/src/trajectory_generator_node2.cpp",
+		"/home/bbgf/my_ws/data/calib_file2.xml",
+		"/home/bbgf/my_ws/src/using_markers/src/points_and_lines.cpp",
+		"/home/bbgf/my_ws/data/2015-10-03-22-37-05.bag",
+		"/usr/include/eigen3/Eigen/src/Core/Matrix.h",
+		"/home/bbgf/my_ws/src/zmart_cv/src/test.cpp",
+		"/home/bbgf/tra_simu/src/pose_utils/src/pose_utils.cpp",
+		"/home/bbgf/tra_simu/src/pose_utils/include/pose_utils.h",
+		"/home/bbgf/my_ws/src/zmart_cv/src/a.out",
+		"/home/bbgf/my_ws/src/zmart_cv/launch/zmart_cv.launch",
+		"/home/bbgf/my_ws/src/zmart_cv/src/test",
+		"/home/bbgf/my_ws/src/zmart_cv/src/zmart_cv_test.cpp",
+		"/home/bbgf/zmart_cv_test.sublime-workspace",
+		"/home/bbgf/my_ws/src/zmart_cv/src/zmart_cv.sublime-project",
+		"/home/bbgf/tra_simu/src/trajectory_generator/CMakeLists.txt",
+		"/home/bbgf/tra_simu/src/trajectory_generator/src/trajectory_generator_node.cpp",
+		"/home/bbgf/my_ws/src/simulation/so3_quadrotor_simulator/src/quadrotor_simulator_so3.cpp"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 123.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"copyMapsData",
+			"publish",
+			"simple_map_infl",
+			"simople_map",
+			"pub",
+			"_check_horizon",
+			"checkHalfWay",
+			"inflate",
+			"checkPointOccupied",
+			"inflate",
+			"generateCube",
+			"corrid",
+			"simple_map",
+			"check_traj_pt",
+			"traj_finish",
+			"gradD",
+			"traFinish",
+			"_segment_num",
+			"_start_time",
+			"getBezierTraj",
+			"gradD",
+			"_start_time",
+			"traFinish",
+			"checkHalfWay",
+			"checkPointOccupied",
+			"gradD",
+			"time_file",
+			"_start_time",
+			"time_file",
+			"progress",
+			"ofst",
+			"of",
+			"close",
+			"time_file",
+			"explore_main_loop",
+			"motio",
+			"motion_pr",
+			"motion",
+			"cout",
+			"array",
+			"uav_tree_array",
+			"uav_odom_",
+			"uav_plan",
+			"position.z",
+			"traj_id_send",
+			"header",
+			"time",
+			"uav",
+			"len",
+			"ROS_",
+			"cout",
+			"ROS_",
+			"mark",
+			"air",
+			"pub",
+			"tree_viz",
+			"UAV_FOV",
+			"computeA",
+			"compu",
+			"cout",
+			"explorer_",
+			"compAirGoalInfoGain",
+			"marker",
+			"viz_tree",
+			"tree_ti",
+			"pub",
+			"traj_id_send",
+			"uav_pos",
+			"lp_cn",
+			"_traj",
+			"uav_goal",
+			"uav_goal_",
+			"motion",
+			"uav_goal",
+			"cnt",
+			"Eigen",
+			"UAV",
+			"uav_odom_call",
+			"ros::spinOnce();",
+			"explorer_",
+			"explore",
+			"poly",
+			"rho_array",
+			"ugv_tree_viz_pub_",
+			"uav_tree_viz_pub_",
+			"uav_tree_cloud_viz_",
+			"procPickPubUAVGoal",
+			"last_charmap_info",
+			"initC",
+			"cmd_vel",
+			"cmd_odom",
+			"cmd_vel",
+			"world",
+			"_cmd_pub",
+			"_cmd",
+			"_cmd_pub",
+			"state",
+			"gradD",
+			"corridorGeneration",
+			"gradD",
+			"Poly",
+			"duration",
+			"cout",
+			"printBox",
+			"state",
+			"_vis_cmd_pub",
+			"update_duration_",
+			"center",
+			"_traj_order",
+			"visCorridor",
+			"_CtrlP_num",
+			"corridorGeneration",
+			"corridorSimplify",
+			"corridorGeneration",
+			"generateCube",
+			"getPosFromBezier",
+			"visBezierTrajectory",
+			"printBox",
+			"center of the cube",
+			"ugv_traj_viz_pub_",
+			"visBezierTrajectory",
+			"poly",
+			"world",
+			"row",
+			"coord",
+			"coord:",
+			"_PolyCoeff",
+			"_segment_num"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "harmonic_duet.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 66976,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23558,
+								23558
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8464.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/gf/catkin_ws/src/traj_opt/fm_planer/src/fm_trajectory_node.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 43460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34897,
+								34897
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 13622.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "path_search.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8834,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8824,
+								8824
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2598.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/gf/catkin_ws/src/duet_exploration/include/duet_exploration/path_search.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3787,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3675,
+								3675
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 413.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/gf/catkin_ws/src/sim_odom_controller/src/harmonic_uav_controller.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/gf/catkin_ws/src/duet_exploration/include/duet_exploration/harmonic_duet.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5978,
+								5978
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1953.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "duet.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"src/ekf_node.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/my_catkin_ws/src/pcd_trajectory_indoor/pcd_trajectory/src/pcd_trajectory.sublime-project"
+			],
+			[
+				"\\",
+				"~/my_catkin_ws/src/loam_velodyne/src/loam_velodyne.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

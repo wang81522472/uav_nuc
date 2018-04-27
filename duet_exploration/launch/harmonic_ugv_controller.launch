@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="duet_exploration" type="traj_server" name="traj_server_node" output="screen">
+        <remap from="~/trajectory"   to="/harmonic_duet_node/ugv_poly_traj"/>
+        <remap from="~/odometry"   to="/ekf_node/odom_ekf"/>
+        <remap from="~/odom_position_command" to="/ugv_node/ugv_target_fyi"/>
+        <remap from="~/cmd_vel" to="/robot_1/cmd_vel"/>
+
+    </node>
+
+</launch>
